@@ -1,0 +1,49 @@
+{
+    "name": "chess",
+    "pieces": {
+         "rulebook": {
+            "total_count": 1
+        },
+        "squares": {
+            "total_count": 64,
+            "types": [
+                {
+                    "type": "black",
+                    "count": 32
+                },
+                {
+                    "type": "white",
+                    "count": 32
+                }
+            ]
+        },
+        "units": {
+            "types": [
+                {
+                    "type": "king",
+                    "count": 2
+                },
+                {
+                    "type": "queen",
+                    "count": 2
+                },
+                {
+                    "type": "bishop",
+                    "count": 4
+                },
+                {
+                    "type": "knight",
+                    "count": 4
+                },
+                {
+                    "type": "bishop",
+                    "count": 4
+                },
+                {
+                    "type": "pawn",
+                    "count": 16
+                }
+            ]
+        }
+    }
+}

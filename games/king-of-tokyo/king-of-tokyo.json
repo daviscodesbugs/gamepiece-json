@@ -1,3 +1,28 @@
 {
-
+    "name" : "King of Tokyo",
+    "pieces" : {
+        "monsters" : {
+            "total_count" : 6,
+            "types" : [
+                {
+                    "type" : "Alienoid"
+                },
+                {
+                    "type" : "Cyber Bunny"
+                },
+                {
+                    "type" : "Giga Zaur"
+                },
+                {
+                    "type" : "Kraken"
+                },
+                {
+                    "type" : "Meka Dragon"
+                },
+                {
+                    "type" : "The King"
+                }
+            ]
+        }
+    }
 }

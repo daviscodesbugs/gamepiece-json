@@ -1,0 +1,34 @@
+{
+    "name": "The Settlers of Catan",
+    "pieces": {
+        "cards": [
+          {
+            "type": "number",
+            "count": 76
+          },
+          {
+            "type": "draw_two",
+            "count": 8
+          },
+          {
+            "type": "reverse",
+            "count": 8
+          },
+          {
+            "type": "skip",
+            "count": 8
+          },
+          {
+            "type": "wild",
+            "count": 4
+          },
+          {
+            "type": "wild_draw_four",
+            "count": 4
+          }
+        ],
+        "rulebook": {
+            "total_count": 1
+        },
+    }
+}

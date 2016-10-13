@@ -1,3 +1,78 @@
 {
-
+    "name": "The Settlers of Catan",
+    "pieces": {
+        "terrain_hexes": {
+            "total_count": 19,
+            "types": [
+                {
+                    "type": "field",
+                    "count": 4
+                },
+                {
+                    "type": "forest",
+                    "count": 4
+                },
+                {
+                    "type": "pasture",
+                    "count": 4
+                },
+                {
+                    "type": "mountains",
+                    "count": 3
+                },
+                {
+                    "type": "hills",
+                    "count": 3
+                },
+                {
+                    "type": "desert",
+                    "count": 1
+                }
+            ]
+        },
+        "sea_hexes": {
+            "total_count": 9,
+            "types": [
+                {
+                    "type": "sea",
+                    "count": 9
+                }
+            ]
+        },
+        "harbor_hexes": {
+            "total_count": 9,
+            "types": [
+                {
+                    "type": "generic",
+                    "count": 4,
+                    "ratio": "3:1"
+                },
+                {
+                    "type": "wool",
+                    "count": 1,
+                    "ratio": "2:1"
+                },
+                {
+                    "type": "lumber",
+                    "count": 1,
+                    "ratio": "2:1"
+                },
+                {
+                    "type": "brick",
+                    "count": 1,
+                    "ratio": "2:1"
+                },
+                {
+                    "type": "ore",
+                    "count": 1,
+                    "ratio": "2:1"
+                },
+                {
+                    "type": "grain",
+                    "count": 1,
+                    "ratio": "2:1"
+                }
+            ]
+        }
+    }
 }

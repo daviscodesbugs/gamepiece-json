@@ -73,6 +73,9 @@
                     "ratio": "2:1"
                 }
             ]
+        },
+        "rulebook": {
+            "total_count": 1
         }
     }
 }

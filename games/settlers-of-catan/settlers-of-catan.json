@@ -76,6 +76,55 @@
         },
         "rulebook": {
             "total_count": 1
+        },
+        "number_chits": {
+            "total_count": 18,
+            "types": [
+                {
+                    "value": 2,
+                    "count": 1
+                },
+                {
+                    "value": 3,
+                    "count": 2
+                },
+                {
+                    "value": 4,
+                    "count": 2
+                },
+                {
+                    "value": 5,
+                    "count": 2
+                },
+                {
+                    "value": 6,
+                    "count": 2
+                },
+                {
+                    "value": 7,
+                    "count": 2
+                },
+                {
+                    "value": 8,
+                    "count": 2
+                },
+                {
+                    "value": 9,
+                    "count": 2
+                },
+                {
+                    "value": 10,
+                    "count": 2
+                },
+                {
+                    "value": 11,
+                    "count": 2
+                },
+                {
+                    "value": 12,
+                    "count": 1
+                }
+            ]
         }
     }
 }

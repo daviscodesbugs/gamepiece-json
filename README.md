@@ -1,4 +1,4 @@
-# gamepiece-json
+# Gamepiece JSON
 A collection of json files describing the pieces of board games
 ## About
 Games are broken down by folders within the `games` folder.  

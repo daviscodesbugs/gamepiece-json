@@ -1,0 +1,328 @@
+{
+  "name": "Forbidden Island",
+  "pieces": {
+    "treasure_cards": {
+      "total_count": 28,
+      "types": [
+        {
+          "type": "the_earth_stone",
+          "count": 5
+        },
+        {
+          "type": "the_statue_of_the_wind",
+          "count": 5
+        },
+        {
+          "type": "the_crystal_of_fire",
+          "count": 5
+        },
+        {
+          "type": "the_oceans_chalice",
+          "count": 5
+        },
+        {
+          "type": "waters_rise",
+          "count": 3
+        },
+        {
+          "type": "helicopter_lift",
+          "count": 3
+        },
+        {
+          "type": "sandbags",
+          "count": 2
+        }
+      ]
+    },
+    "flood_cards": {
+      "total_count": 24,
+      "types": [
+        {
+          "type": "bronze_gate",
+          "count": 1
+        },
+        {
+          "type": "dunes_of_deception",
+          "count": 1
+        },
+        {
+          "type": "watchtower",
+          "count": 1
+        },
+        {
+          "type": "cave_of_shadows",
+          "count": 1
+        },
+        {
+          "type": "copper_gate",
+          "count": 1
+        },
+        {
+          "type": "howling_garden",
+          "count": 1
+        },
+        {
+          "type": "iron_gate",
+          "count": 1
+        },
+        {
+          "type": "phantom_rock",
+          "count": 1
+        },
+        {
+          "type": "cliffs_of_abandon",
+          "count": 1
+        },
+        {
+          "type": "breakers_bridge",
+          "count": 1
+        },
+        {
+          "type": "temple_of_the_moon",
+          "count": 1
+        },
+        {
+          "type": "temple_of_the_sun",
+          "count": 1
+        },
+        {
+          "type": "gold_gate",
+          "count": 1
+        },
+        {
+          "type": "tidal_palace",
+          "count": 1
+        },
+        {
+          "type": "whispering_garden",
+          "count": 1
+        },
+        {
+          "type": "twilight_hollow",
+          "count": 1
+        },
+        {
+          "type": "cave_of_embers",
+          "count": 1
+        },
+        {
+          "type": "coral_palace",
+          "count": 1
+        },
+        {
+          "type": "crimson_forest",
+          "count": 1
+        },
+        {
+          "type": "observatory",
+          "count": 1
+        },
+        {
+          "type": "misty_marsh",
+          "count": 1
+        },
+        {
+          "type": "silver_gate",
+          "count": 1
+        },
+        {
+          "type": "lost_lagoon",
+          "count": 1
+        },
+        {
+          "type": "fools_landing",
+          "count": 1
+        }
+      ]
+    },
+    "adventurer_cards": {
+      "total_count": 6,
+      "types": [
+        {
+          "type": "messenger",
+          "count": 1
+        },
+        {
+          "type": "diver",
+          "count": 1
+        },
+        {
+          "type": "pilot",
+          "count": 1
+        },
+        {
+          "type": "explorer",
+          "count": 1
+        },
+        {
+          "type": "navigator",
+          "count": 1
+        },
+        {
+          "type": "engineer",
+          "count": 1
+        }
+      ]
+    },
+    "rulebook": {
+      "total_count": 1
+    },
+    "island_tiles": {
+      "total_count": 24,
+      "types": [
+        {
+          "type": "bronze_gate",
+          "count": 1
+        },
+        {
+          "type": "dunes_of_deception",
+          "count": 1
+        },
+        {
+          "type": "watchtower",
+          "count": 1
+        },
+        {
+          "type": "cave_of_shadows",
+          "count": 1
+        },
+        {
+          "type": "copper_gate",
+          "count": 1
+        },
+        {
+          "type": "howling_garden",
+          "count": 1
+        },
+        {
+          "type": "iron_gate",
+          "count": 1
+        },
+        {
+          "type": "phantom_rock",
+          "count": 1
+        },
+        {
+          "type": "cliffs_of_abandon",
+          "count": 1
+        },
+        {
+          "type": "breakers_bridge",
+          "count": 1
+        },
+        {
+          "type": "temple_of_the_moon",
+          "count": 1
+        },
+        {
+          "type": "temple_of_the_sun",
+          "count": 1
+        },
+        {
+          "type": "gold_gate",
+          "count": 1
+        },
+        {
+          "type": "tidal_palace",
+          "count": 1
+        },
+        {
+          "type": "whispering_garden",
+          "count": 1
+        },
+        {
+          "type": "twilight_hollow",
+          "count": 1
+        },
+        {
+          "type": "cave_of_embers",
+          "count": 1
+        },
+        {
+          "type": "coral_palace",
+          "count": 1
+        },
+        {
+          "type": "crimson_forest",
+          "count": 1
+        },
+        {
+          "type": "observatory",
+          "count": 1
+        },
+        {
+          "type": "misty_marsh",
+          "count": 1
+        },
+        {
+          "type": "silver_gate",
+          "count": 1
+        },
+        {
+          "type": "lost_lagoon",
+          "count": 1
+        },
+        {
+          "type": "fools_landing",
+          "count": 1
+        }
+      ]
+    },
+    "pawns": {
+      "total_count": 6,
+      "types": [
+        {
+          "type": "silver",
+          "count": 1
+        },
+        {
+          "type": "black",
+          "count": 1
+        },
+        {
+          "type": "blue",
+          "count": 1
+        },
+        {
+          "type": "green",
+          "count": 1
+        },
+        {
+          "type": "yellow",
+          "count": 1
+        },
+        {
+          "type": "red",
+          "count": 1
+        }
+      ]
+    },
+    "treasure_figurines": {
+      "total_count": 4,
+      "types": [
+        {
+          "type": "the_earth_stone",
+          "count": 1
+        },
+        {
+          "type": "the_statue_of_the_wind",
+          "count": 1
+        },
+        {
+          "type": "the_crystal_of_fire",
+          "count": 1
+        },
+        {
+          "type": "the_oceans_chalice",
+          "count": 1
+        }
+      ]
+    },
+    "water_meter": {
+      "total_count": 1
+    },
+    "water_level_marker": {
+      "total_count": 1
+    }
+  }
+}

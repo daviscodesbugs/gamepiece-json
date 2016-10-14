@@ -9,5 +9,10 @@ Here are a couple things to make your contribution top-notch:
  - If the board doesn't change/break down, including a simple "board" entry is sufficient
    - ex: Chess - the board never changes
    - ex: Settlers of Catan does **not** fit this specification
+ - Have `name`,`edition`, and `publisher` as separate attributes
+ 
+ Nit-pick polishing:
+  - Specify if a dice is more/less than 6 sides
+  - Use `dice` attribute to denote all dice; `die` and `dices` should be avoided
    
    

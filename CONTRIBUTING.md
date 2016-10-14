@@ -1,4 +1,9 @@
-Thanks for looking into this project!
+## Thanks for looking into this project!
+A general rule of thumb for each entry is to consider this question:  
+If I were missing a piece in my game, could I figure out which one it is?  
+*Consider that color/count/value matters*
+
+---
 
 Here are a couple things to make your contribution top-notch:
  - Make sure your JSON is compliant to RFC 4627

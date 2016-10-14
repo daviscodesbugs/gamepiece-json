@@ -9,51 +9,51 @@
             "total_count": 16,
             "types": [
                 {
-                    "type": "villager",
+                    "type": "Villager",
                     "count": 3
                 },
                 {
-                    "type": "werewolf",
+                    "type": "Werewolf",
                     "count": 2
                 },
                 {
-                    "type": "seer",
+                    "type": "Seer",
                     "count": 1
                 },
                 {
-                    "type": "robber",
+                    "type": "Robber",
                     "count": 1
                 },
                 {
-                    "type": "troublemaker",
+                    "type": "Troublemaker",
                     "count": 1
                 },
                 {
-                    "type": "tanner",
+                    "type": "Tanner",
                     "count": 1
                 },
                 {
-                    "type": "drunk",
+                    "type": "Drunk",
                     "count": 1
                 },
                 {
-                    "type": "hunter",
+                    "type": "Hunter",
                     "count": 1
                 },
                 {
-                    "type": "mason",
+                    "type": "Mason",
                     "count": 2
                 },
                 {
-                    "type": "insomniac",
+                    "type": "Insomniac",
                     "count": 1
                 },
                 {
-                    "type": "minion",
+                    "type": "Minion",
                     "count": 1
                 },
                 {
-                    "type": "doppleganger",
+                    "type": "Doppleganger",
                     "count": 1
                 }
             ]
@@ -62,51 +62,51 @@
             "total_count": 16,
             "types": [
                 {
-                    "type": "villager",
+                    "type": "Villager",
                     "count": 3
                 },
                 {
-                    "type": "werewolf",
+                    "type": "Werewolf",
                     "count": 2
                 },
                 {
-                    "type": "seer",
+                    "type": "Seer",
                     "count": 1
                 },
                 {
-                    "type": "robber",
+                    "type": "Robber",
                     "count": 1
                 },
                 {
-                    "type": "troublemaker",
+                    "type": "Troublemaker",
                     "count": 1
                 },
                 {
-                    "type": "tanner",
+                    "type": "Tanner",
                     "count": 1
                 },
                 {
-                    "type": "drunk",
+                    "type": "Drunk",
                     "count": 1
                 },
                 {
-                    "type": "hunter",
+                    "type": "Hunter",
                     "count": 1
                 },
                 {
-                    "type": "mason",
+                    "type": "Mason",
                     "count": 2
                 },
                 {
-                    "type": "insomniac",
+                    "type": "Insomniac",
                     "count": 1
                 },
                 {
-                    "type": "minion",
+                    "type": "Minion",
                     "count": 1
                 },
                 {
-                    "type": "doppleganger",
+                    "type": "Doppleganger",
                     "count": 1
                 }
             ]

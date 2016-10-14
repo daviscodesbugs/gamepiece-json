@@ -1,0 +1,79 @@
+{
+    "name": "Operation",
+    "pieces": {
+        "tools": {
+            "total_count": 3,
+            "types": [
+                {
+                    "type": "tweezers",
+                    "count": 1
+                },
+                {
+                    "type": "doctor cards",
+                    "count": 1
+                },
+                {
+                    "type": "play money",
+                    "count": 1
+                }
+            ]
+        },
+        "ailments": {
+            "total_count": 13,
+            "types": [
+                {
+                    "type": "adams apple",
+                    "count": 1
+                },
+                {
+                    "type": "broken heart",
+                    "count": 1
+                },
+                {
+                    "type": "wrenched ankle",
+                    "count": 1
+                },
+                {
+                    "type": "butterfly stomach",
+                    "count": 1
+                },
+                {
+                    "type": "spare ribs",
+                    "count": 1
+                },
+                {
+                    "type": "water on knee",
+                    "count": 1
+                },
+                {
+                    "type": "funny bone",
+                    "count": 1
+                },
+                {
+                    "type": "writers cramp",
+                    "count": 1
+                },
+                {
+                    "type": "charley horse",
+                    "count": 1
+                },
+                {
+                    "type": "ankle bone",
+                    "count": 1
+                },
+                {
+                    "type": "wish bone",
+                    "count": 1
+                },
+                {
+                    "type": "bread basket",
+                    "count": 1
+                },
+                {
+                    "type": "brain freeze",
+                    "count": 1
+                }
+            ]
+        }
+    }
+}

@@ -1,5 +1,7 @@
 {
-    "name": "Clue - 2014 edition",
+    "name": "Clue",
+    "publisher": "Hasbro",
+    "edition": "2014",
     "pieces": {
         "rulebook": {
             "total_count": 1

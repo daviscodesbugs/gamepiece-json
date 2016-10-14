@@ -1,5 +1,6 @@
 {
-    "name": "Hasbro Battleship",
+    "name": "Battleship",
+    "publisher": "Hasbro",
     "pieces": {
         "rulebook": {
             "total_count": 1

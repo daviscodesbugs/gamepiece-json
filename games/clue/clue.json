@@ -1,0 +1,48 @@
+{
+    "name": "Clue",
+    "publisher": "Hasbro",
+    "edition": "2014",
+    "pieces": {
+        "rulebook": {
+            "total_count": 1
+        },
+        "board": {
+            "total_count": 1
+        },
+        "yellow_murder_envelope": {
+            "total_count": 1
+        },
+        "detective_notepad": {
+            "total_count": 1
+        },
+        "dices": {
+            "total_count": 2
+        },
+        "tokens": {
+            "total_count": 12,
+            "types": [
+                {
+                    "type": "character",
+                    "count": 6
+                },
+                {
+                    "type": "weapon",
+                    "count": 6
+                }
+            ]
+        },
+        "cards": {
+            "total_count": 34,
+            "types": [
+                {
+                    "type": "black clue card",
+                    "count": 21
+                },
+                {
+                    "type": "red bonus card",
+                    "count": 13
+                }
+            ]
+        }
+    }
+}

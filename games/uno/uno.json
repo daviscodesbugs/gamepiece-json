@@ -1,0 +1,137 @@
+{
+    "name": "Uno",
+    "pieces": {
+        "cards": [
+          {
+            "type": "number",
+            "color": "blue",
+            "values": [
+              { "value": 0, "count": 1},
+              { "value": 1, "count": 2 },
+              { "value": 2, "count": 2 },
+              { "value": 3, "count": 2 },
+              { "value": 4, "count": 2 },
+              { "value": 5, "count": 2 },
+              { "value": 6, "count": 2 },
+              { "value": 7, "count": 2 },
+              { "value": 8, "count": 2 },
+              { "value": 9, "count": 2 }
+            ],
+            "count": 19
+          },
+          {
+            "type": "number",
+            "color": "red",
+            "values": [
+              { "value": 0, "count": 1},
+              { "value": 1, "count": 2 },
+              { "value": 2, "count": 2 },
+              { "value": 3, "count": 2 },
+              { "value": 4, "count": 2 },
+              { "value": 5, "count": 2 },
+              { "value": 6, "count": 2 },
+              { "value": 7, "count": 2 },
+              { "value": 8, "count": 2 },
+              { "value": 9, "count": 2 }
+            ],
+            "count": 19
+          },
+          {
+            "type": "number",
+            "color": "yellow",
+            "values": [
+              { "value": 0, "count": 1},
+              { "value": 1, "count": 2 },
+              { "value": 2, "count": 2 },
+              { "value": 3, "count": 2 },
+              { "value": 4, "count": 2 },
+              { "value": 5, "count": 2 },
+              { "value": 6, "count": 2 },
+              { "value": 7, "count": 2 },
+              { "value": 8, "count": 2 },
+              { "value": 9, "count": 2 }
+            ],
+            "count": 19
+          },
+          {
+            "type": "number",
+            "color": "green",
+            "values": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ],
+            "count": 19
+          },
+          {
+            "type": "draw_two",
+            "color": "blue",
+            "count": 2
+          },
+          {
+            "type": "draw_two",
+            "color": "red",
+            "count": 2
+          },
+          {
+            "type": "draw_two",
+            "color": "yellow",
+            "count": 2
+          },
+          {
+            "type": "draw_two",
+            "color": "green",
+            "count": 2
+          },
+          {
+            "type": "reverse",
+            "color": "blue",
+            "count": 2
+          },
+          {
+            "type": "reverse",
+            "color": "red",
+            "count": 2
+          },
+          {
+            "type": "reverse",
+            "color": "yellow",
+            "count": 2
+          },
+          {
+            "type": "reverse",
+            "color": "green",
+            "count": 2
+          },
+          {
+            "type": "skip",
+            "color": "blue",
+            "count": 2
+          },
+          {
+            "type": "skip",
+            "color": "red",
+            "count": 2
+          },
+          {
+            "type": "skip",
+            "color": "yellow",
+            "count": 2
+          },
+          {
+            "type": "skip",
+            "color": "green",
+            "count": 2
+          },
+          {
+            "type": "wild",
+            "color": "none",
+            "count": 4
+          },
+          {
+            "type": "wild_draw_four",
+            "color": "none",
+            "count": 4
+          }
+        ],
+        "rulebook": {
+            "total_count": 1
+        },
+    }
+}

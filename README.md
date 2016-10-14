@@ -1,5 +1,5 @@
-[ ![Codeship Status for daviscodesbugs/gamepiece-json](https://img.shields.io/codeship/683282a0-7461-0134-4148-76a75a837005/master.svg?maxAge=2592000)]()
-[![AUR](https://img.shields.io/aur/license/yaourt.svg?maxAge=2592000)]()
+[ ![Codeship Status for daviscodesbugs/gamepiece-json](https://img.shields.io/codeship/683282a0-7461-0134-4148-76a75a837005/master.svg?maxAge=2592000)](#)
+[![AUR](https://img.shields.io/aur/license/yaourt.svg?maxAge=2592000)](#)
 
 # Gamepiece JSON
 A collection of json files describing the pieces of board/card games

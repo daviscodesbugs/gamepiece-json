@@ -1,0 +1,313 @@
+{
+    "name": "Caverna - The Cave Farmers",
+    "pieces": {
+        "playing_cards": {
+            "total_count": 29,
+            "types": [
+                {
+                    "type": "Harvest events",
+                    "count": 1
+                },
+                {
+                    "type": "Action space",
+                    "count": 12
+                },
+                {
+                    "type": "Overview 'Rubies, Harvest time'",
+                    "count": 7
+                },
+                {
+                    "type": "Overview 'Expedition loot'",
+                    "count": 7
+                },
+                {
+                    "type": "Dwarf",
+                    "count": 2
+                }
+            ]
+        },
+        "furnishing_tiles": {
+            "total_count": 64,
+            "types": [
+                {
+                    "type": "Dwelling",
+                    "count": 17
+                },
+                {
+                    "type": "Unique",
+                    "count": 47
+                }
+            ]
+        },
+        "landscape_tiles": {
+            "total_count": 144,
+            "types": [
+              {
+                  "size": "single",
+                  "type": "Tunnel - Cavern",
+                  "count": 8
+              },
+              {
+                  "size": "single",
+                  "type": "Ruby mine - Field",
+                  "count": 16
+              },
+              {
+                  "size": "single",
+                  "type": "Meadow - Small pasture",
+                  "count": 16
+              },
+              {
+                  "size": "twin",
+                  "type": "Ore mine, Deep tunnel - Large Pasture",
+                  "count": 24
+              },
+              {
+                  "size": "twin",
+                  "type": "Cavern - Tunnel",
+                  "count": 40
+              },
+              {
+                  "size": "twin",
+                  "type": "Meadow - Field",
+                  "count": 40
+              }
+            ]
+        },
+        "coins": {
+            "total_count": 49,
+            "types": [
+                {
+                    "type": "1 Gold",
+                    "count": 20
+                },
+                {
+                    "type": "2 Gold",
+                    "count": 24
+                },
+                {
+                    "type": "10 Gold",
+                    "count": 5
+                }
+            ]
+        },
+        "markers": {
+            "total_count": 166,
+            "types": [
+                {
+                    "type": "Additional dwarf",
+                    "count": 1
+                },
+                {
+                    "type": "1 Food",
+                    "count": 88
+                },
+                {
+                    "type": "Round Harvest",
+                    "count": 7
+                },
+                {
+                    "type": "Weapon strength",
+                    "count": 52
+                },
+                {
+                    "type": "Multiplication 4x",
+                    "count": 8
+                },
+                {
+                    "type": "Goods",
+                    "count": 8
+                },
+                {
+                    "type": "8 Animals",
+                    "count": 2
+                }
+            ]
+        },
+        "game_boards": {
+            "total_count": 16,
+            "types": [
+                {
+                    "type": "Home",
+                    "count": 7
+                },
+                {
+                    "type": "Small basic game",
+                    "count": 1
+                },
+                {
+                    "type": "Large basic game",
+                    "count": 1
+                },
+                {
+                    "type": "Two-sided basic game",
+                    "count": 1
+                },
+                {
+                    "type": "Large additional game",
+                    "count": 1
+                },
+                {
+                    "type": "Small additional game",
+                    "count": 1
+                },
+                {
+                    "type": "Longish supply",
+                    "count": 4
+                }
+            ]
+        },
+        "general_tokens": {
+            "total_count": 291,
+            "types": [
+                {
+                    "type": "Dog",
+                    "colour": "light brown",
+                    "count": 20
+                },
+                {
+                    "type": "Sheep",
+                    "colour": "white",
+                    "count": 35
+                },
+                {
+                    "type": "Donkey",
+                    "colour": "gray",
+                    "count": 30
+                },
+                {
+                    "type": "Wild boar",
+                    "colour": "black",
+                    "count": 30
+                },
+                {
+                    "type": "Cattle",
+                    "colour": "brown",
+                    "count": 30
+                },
+                {
+                    "type": "Wood",
+                    "colour": "brown",
+                    "count": 45
+                },
+                {
+                    "type": "Stone",
+                    "colour": "gray",
+                    "count": 25
+                },
+                {
+                    "type": "Grain",
+                    "colour": "yellow",
+                    "count": 40
+                },
+                {
+                    "type": "Vegetable",
+                    "colour": "orange",
+                    "count": 35
+                },
+                {
+                    "type": "Starting player",
+                    "colour": "yellow",
+                    "count": 1
+                }
+            ]
+        },
+        "gems": {
+            "total_count": 65,
+            "types": [
+                {
+                    "type": "Ore",
+                    "count": 45
+                },
+                {
+                    "type": "Ruby",
+                    "count": 20
+                }
+            ]
+        },
+        "stables": {
+            "total_count": 21,
+            "types": [
+                {
+                    "type": "Red",
+                    "count": 3
+                },
+                {
+                    "type": "Plum",
+                    "count": 3
+                },
+                {
+                    "type": "Blue",
+                    "count": 3
+                },
+                {
+                    "type": "Turquoise",
+                    "count": 3
+                },
+                {
+                    "type": "Green",
+                    "count": 3
+                },
+                {
+                    "type": "Orange",
+                    "count": 3
+                },
+                {
+                    "type": "Beige",
+                    "count": 3
+                }
+            ]
+        },
+        "dwarfs": {
+            "total_count": 35,
+            "types": [
+                {
+                    "type": "Red",
+                    "count": 5
+                },
+                {
+                    "type": "Plum",
+                    "count": 5
+                },
+                {
+                    "type": "Blue",
+                    "count": 5
+                },
+                {
+                    "type": "Turquoise",
+                    "count": 5
+                },
+                {
+                    "type": "Green",
+                    "count": 5
+                },
+                {
+                    "type": "Orange",
+                    "count": 5
+                },
+                {
+                    "type": "Beige",
+                    "count": 5
+                }
+            ]
+        },
+        "rulebooks": {
+            "total_count": 2,
+            "types": [
+                {
+                    "type": "Main",
+                    "pages": 24,
+                    "count": 1
+                },
+                {
+                    "type": "Appendix",
+                    "pages": 8,
+                    "count": 1
+                }
+            ]
+        },
+        "scorekeeper": {
+            "total_count": 1
+        }
+    }
+}

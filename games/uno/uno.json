@@ -44,11 +44,43 @@
           },
           {
             "type": "reverse",
-            "count": 8
+            "color": "blue",
+            "count": 2
+          },
+          {
+            "type": "reverse",
+            "color": "red",
+            "count": 2
+          },
+          {
+            "type": "reverse",
+            "color": "yellow",
+            "count": 2
+          },
+          {
+            "type": "reverse",
+            "color": "green",
+            "count": 2
           },
           {
             "type": "skip",
-            "count": 8
+            "color": "blue",
+            "count": 2
+          },
+          {
+            "type": "skip",
+            "color": "red",
+            "count": 2
+          },
+          {
+            "type": "skip",
+            "color": "yellow",
+            "count": 2
+          },
+          {
+            "type": "skip",
+            "color": "green",
+            "count": 2
           },
           {
             "type": "wild",

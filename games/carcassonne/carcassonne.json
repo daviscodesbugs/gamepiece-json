@@ -1,0 +1,139 @@
+{
+    "name": "Carcassonne",
+    "publisher": "Hans im Glück",
+    "edition": "2000",
+    "pieces": {
+        "rulebook": {
+            "total_count": 1
+        },
+        "scoreboard": {
+            "total_count": 1
+        },
+        "tiles": {
+            "total_count": 72,
+            "types": [
+                {
+                    "type": "fielded_cloister",
+                    "count": 4
+                },
+                {
+                    "type": "fielded_single_city_edge",
+                    "count": 5
+                },
+                {
+                    "type": "fielded_adjacent_city_edges",
+                    "count": 2
+                },
+                {
+                    "type": "fielded_city_bridge",
+                    "count": 1
+                },
+                {
+                    "type": "fielded_pennant_city_bridge",
+                    "count": 2
+                },
+                {
+                    "type": "field_city_corners",
+                    "count": 3
+                },
+                {
+                    "type": "field_pennant_city_corners",
+                    "count": 2
+                },
+                {
+                    "type": "citied_field_bridge",
+                    "count": 3
+                },
+                {
+                    "type": "citied_single_field_edge",
+                    "count": 3
+                },
+                {
+                    "type": "pennant_citied_single_field_edge",
+                    "count": 1
+                },
+                {
+                    "type": "pennant_city",
+                    "count": 1
+                },
+                {
+                    "type": "fielded_cloister_with_single_road",
+                    "count": 2
+                },
+                {
+                    "type": "citied_single_field_edge_with_single_road",
+                    "count": 1
+                },
+                {
+                    "type": "pennant_citied_single_field_edge_with_single_road",
+                    "count": 2
+                },
+                {
+                    "type": "straight_road",
+                    "count": 8
+                },
+                {
+                    "type": "straight_road_with_parallel_single_city_edge",
+                    "count": 4
+                },
+                {
+                    "type": "curved_road",
+                    "count": 9
+                },
+                {
+                    "type": "left_curved_road_with_parallel_single_city_edge",
+                    "count": 3
+                },
+                {
+                    "type": "right_curved_road_with_parallel_single_city_edge",
+                    "count": 3
+                },
+                {
+                    "type": "curved_road_following_city_corner",
+                    "count": 3
+                },
+                {
+                    "type": "curved_road_following_pennant_city_corner",
+                    "count": 2
+                },
+                {
+                    "type": "t_shaped_crossroad",
+                    "count": 4
+                },
+                {
+                    "type": "t_shaped_crossroad_with_parallel_single_city_edge",
+                    "count": 3
+                },
+                {
+                    "type": "plus_shaped_crossroad",
+                    "count": 1
+                }
+            ]
+        },
+        "meeples": {
+            "total_count": 40,
+            "types": [
+                {
+                    "type": "green",
+                    "count": 8
+                },
+                {
+                    "type": "red",
+                    "count": 8
+                },
+                {
+                    "type": "black",
+                    "count": 8
+                },
+                {
+                    "type": "yellow",
+                    "count": 8
+                },
+                {
+                    "type": "blue",
+                    "count": 8
+                }
+            ]
+        }
+    }
+}

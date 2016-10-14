@@ -1,0 +1,114 @@
+{
+    "name" : "One Night Ultimate Werewolf",
+    "pieces" : {
+        "rulebook": {
+            "total_count": 1
+        },
+        "tokens": {
+            "total_count": 16,
+            "types": [
+                {
+                    "type": "villager",
+                    "count": 3
+                },
+                {
+                    "type": "werewolf",
+                    "count": 2
+                },
+                {
+                    "type": "seer",
+                    "count": 1
+                },
+                {
+                    "type": "robber",
+                    "count": 1
+                },
+                {
+                    "type": "troublemaker",
+                    "count": 1
+                },
+                {
+                    "type": "tanner",
+                    "count": 1
+                },
+                {
+                    "type": "drunk",
+                    "count": 1
+                },
+                {
+                    "type": "hunter",
+                    "count": 1
+                },
+                {
+                    "type": "mason",
+                    "count": 2
+                },
+                {
+                    "type": "insomniac",
+                    "count": 1
+                },
+                {
+                    "type": "minion",
+                    "count": 1
+                },
+                {
+                    "type": "doppleganger",
+                    "count": 1
+                }
+            ]
+        },
+        "cards": {
+            "total_count": 16,
+            "types": [
+                {
+                    "type": "villager",
+                    "count": 3
+                },
+                {
+                    "type": "werewolf",
+                    "count": 2
+                },
+                {
+                    "type": "seer",
+                    "count": 1
+                },
+                {
+                    "type": "robber",
+                    "count": 1
+                },
+                {
+                    "type": "troublemaker",
+                    "count": 1
+                },
+                {
+                    "type": "tanner",
+                    "count": 1
+                },
+                {
+                    "type": "drunk",
+                    "count": 1
+                },
+                {
+                    "type": "hunter",
+                    "count": 1
+                },
+                {
+                    "type": "mason",
+                    "count": 2
+                },
+                {
+                    "type": "insomniac",
+                    "count": 1
+                },
+                {
+                    "type": "minion",
+                    "count": 1
+                },
+                {
+                    "type": "doppleganger",
+                    "count": 1
+                }
+            ]
+        }
+    }
+}

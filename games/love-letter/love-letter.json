@@ -5,6 +5,9 @@
         "rulebook" : {
             "total_count": 1
         },
+        "tokens-of-affection": {
+            "total_count": 13
+        },
         "cards": {
             "total_count" : 20,
             "types" : [

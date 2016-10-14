@@ -11,6 +11,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
 ## Included Games
  - [x] Battleship
  - [ ] Canasta
+ - [x] Carcassonne
  - [x] Caverna
  - [x] Clue
  - [x] Forbidden Island

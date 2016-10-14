@@ -12,3 +12,4 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [ ] Playing Cards
  - [ ] Rook
  - [ ] Canasta
+ - [ ] King of Tokyo (in-progress)

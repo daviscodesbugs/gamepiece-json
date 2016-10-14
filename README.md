@@ -10,3 +10,5 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [ ] Liar's Dice
  - [ ] Settlers of Catan (in-progress)
  - [ ] Playing Cards
+ - [ ] Rook
+ - [ ] Canasta

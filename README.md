@@ -19,6 +19,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [ ] Liar's Dice
  - [x] Love Letter
  - [x] One Night Ultimate Werewolf
+ - [x] Operation
  - [ ] Playing Cards
  - [ ] Rook
  - [ ] Settlers of Catan (in-progress)

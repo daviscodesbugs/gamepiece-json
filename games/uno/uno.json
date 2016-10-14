@@ -4,11 +4,43 @@
         "cards": [
           {
             "type": "number",
-            "count": 76
+            "color": "blue",
+            "count": 19
+          },
+          {
+            "type": "number",
+            "color": "red",
+            "count": 19
+          },
+          {
+            "type": "number",
+            "color": "yellow",
+            "count": 19
+          },
+          {
+            "type": "number",
+            "color": "green",
+            "count": 19
           },
           {
             "type": "draw_two",
-            "count": 8
+            "color": "blue",
+            "count": 2
+          },
+          {
+            "type": "draw_two",
+            "color": "red",
+            "count": 2
+          },
+          {
+            "type": "draw_two",
+            "color": "yellow",
+            "count": 2
+          },
+          {
+            "type": "draw_two",
+            "color": "green",
+            "count": 2
           },
           {
             "type": "reverse",
@@ -20,10 +52,12 @@
           },
           {
             "type": "wild",
+            "color": "none",
             "count": 4
           },
           {
             "type": "wild_draw_four",
+            "color": "none",
             "count": 4
           }
         ],

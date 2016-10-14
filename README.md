@@ -1,3 +1,4 @@
+[ ![Codeship Status for daviscodesbugs/gamepiece-json](https://app.codeship.com/projects/683282a0-7461-0134-4148-76a75a837005/status?branch=master)](https://app.codeship.com/projects/179190)
 # Gamepiece JSON
 A collection of json files describing the pieces of board/card games
 ## About

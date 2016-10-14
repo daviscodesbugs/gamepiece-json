@@ -1,0 +1,26 @@
+{
+  "name": "gamepiece-json",
+  "version": "1.0.0",
+  "description": "A collection of game piece lists in JSON format",
+  "main": "README.md",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daviscodesbugs/gamepiece-json.git"
+  },
+  "keywords": [
+    "json",
+    "game"
+  ],
+  "author": "daviscodesbugs",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/daviscodesbugs/gamepiece-json/issues"
+  },
+  "homepage": "https://github.com/daviscodesbugs/gamepiece-json#readme",
+  "dependencies": {
+    "mocha": "^3.1.2"
+  }
+}

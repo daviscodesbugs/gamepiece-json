@@ -26,6 +26,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [x] Playing Cards
  - [ ] Risk
  - [ ] Rook
+ - [x] Scrabble
  - [ ] Senet
  - [ ] Settlers of Catan (in-progress)
  - [x] Sushi Go

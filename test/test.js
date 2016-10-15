@@ -22,7 +22,7 @@ describe('Syntax', function () {
     it('dice', function () {
         filtered.forEach(function (path) {
             jsonString = fs.readFileSync('./games/' + path).toString();
-            json = JSON.parse(jsonString, function (k, v) {
+            JSON.parse(jsonString, function (k, v) {
                 assert.notEqual(k, "dices", path + " contains key: 'dices'");
                 assert.notEqual(k, "die", path + " contains key: 'die'");
             });

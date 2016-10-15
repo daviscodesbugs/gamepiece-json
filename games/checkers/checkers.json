@@ -1,10 +1,10 @@
 {
-    "name": "chess",
+    "name": "checkers",
     "pieces": {
          "rulebook": {
             "total_count": 1
         },
-        "squares": {
+        "board": {
             "total_count": 64,
             "types": [
                 {

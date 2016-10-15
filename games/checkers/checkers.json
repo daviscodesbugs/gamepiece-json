@@ -18,6 +18,7 @@
             ]
         },
         "discs": {
+            "total_count": 32,
             "types": [
                 {
                     "type": "dark",

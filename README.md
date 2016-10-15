@@ -19,7 +19,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [ ] King of Tokyo (in-progress)
  - [ ] Liar's Dice
  - [x] Love Letter
- - [ ] Monopoly
+ - [ ] Monopoly (in-progress)
  - [x] One Night Ultimate Werewolf
  - [x] Operation
  - [ ] Phase 10

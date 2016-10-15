@@ -4,7 +4,10 @@
     "pieces" : {
         "board": {
             "total_count": 1,
-            "size": 361
+            "points": {
+                "total_count": 361,
+                "star-points": 9
+            }
         },
         "bowls": {
             "total_count": 2

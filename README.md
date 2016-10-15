@@ -23,7 +23,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [x] One Night Ultimate Werewolf
  - [x] Operation
  - [ ] Phase 10
- - [ ] Playing Cards
+ - [x] Playing Cards
  - [ ] Risk
  - [ ] Rook
  - [ ] Senet

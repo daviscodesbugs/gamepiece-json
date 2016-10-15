@@ -1,0 +1,42 @@
+{
+    "name": "Yahtzee",
+    "publisher": "Milton Bradley",
+    "edition": "1956",
+    "pieces": {
+        "rulebook": {
+            "total_count": 1
+        },
+        "scorepad": {
+            "total_count": 1
+        },
+        "pencils": {
+            "total_count": 2
+        },
+        "poker_chips": {
+            "total_count": 20,
+            "types": [
+                {
+                    "type": "yellow_chips",
+                    "count": 10
+                },
+                {
+                    "type": "red_chips",
+                    "count": 10
+                }
+            ]
+        },
+        "dice_cup": {
+            "total_count": 1
+        },
+        "dice": {
+            "total_count": 5,
+            "types": [
+                {
+                    "type": "six_sided_dice",
+                    "count": 5,
+                    "sides": 6
+                }
+            ]
+        }
+    }
+}

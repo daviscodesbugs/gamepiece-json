@@ -30,3 +30,4 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [ ] Settlers of Catan (in-progress)
  - [x] Sushi Go
  - [x] Uno
+ - [x] Yahtzee

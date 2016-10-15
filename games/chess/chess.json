@@ -5,7 +5,8 @@
             "total_count": 1
         },
         "board": {
-            "total_count": 64,
+            "total_count": 1,
+            "size": 64,
             "types": [
                 {
                     "type": "black",

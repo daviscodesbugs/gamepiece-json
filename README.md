@@ -9,7 +9,7 @@ Each game folder contains a JSON of the basic information of the game, and it's 
 The folder may also contain images of boards, cards, or pieces related to the game.  
 
 ## Included Games
- - [ ] Backgammon
+ - [x] Backgammon
  - [x] Battleship
  - [ ] Canasta
  - [x] Carcassonne

@@ -3,7 +3,8 @@
     "edition": "Standard",
     "pieces" : {
         "board": {
-            "total_count": 361
+            "total_count": 1,
+            "size": 361
         },
         "bowls": {
             "total_count": 2

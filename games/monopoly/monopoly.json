@@ -1,0 +1,107 @@
+{
+    "name":"Monopoly",
+    "publisher":"Hasbro",
+    "pieces":{
+        "cards":{
+            "total_count":32,
+            "types":[
+                {
+                    "type":"chance cards",
+                    "count":16
+                },
+                {
+                    "type":"community chest cards",
+                    "count":16
+                }
+            ]
+        },
+        "title deeds":2,
+        "properties":[
+            {
+                "type":"streets",
+                "count":22
+            },
+            {
+                "type":"railroads",
+                "count":4
+            },
+            {
+                "type":"utilities",
+                "count":2
+            },
+            {
+                "type":"houses",
+                "count":32
+            },
+            {
+                "type":"hotels",
+                "count":12
+            }
+        ],
+        "money":[
+            {
+                "type":"$500 bills",
+                "count":30,
+                "color":"orange"
+            },
+            {
+                "type":"$100 bills",
+                "count":30,
+                "color":"beige"
+            },
+            {
+                "type":"$50 bills",
+                "count":30,
+                "color":"purple"
+            },
+            {
+                "type":"$20 bills",
+                "count":30,
+                "color":"green"
+            },
+            {
+                "type":"$10 bills",
+                "count":30,
+                "color":"blue"
+            },
+            {
+                "type":"$5 bills",
+                "count":30,
+                "color":"pink"
+            },
+            {
+                "type":"$1 bills",
+                "count":30,
+                "color":"white"
+            }
+        ],
+        "tokens":[
+            "Wheelbarrow",
+            "Battleship",
+            "Racecar",
+            "Thimble",
+            "Boot",
+            "Scottie dog",
+            "Top hat",
+            "Cat"
+        ],
+        "dice":{
+            "sides":6,
+            "count":2,
+            "values":[
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ]
+        }
+    }
+}

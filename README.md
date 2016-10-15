@@ -9,6 +9,7 @@ Each game folder contains a JSON of the basic information of the game, and it's 
 The folder may also contain images of boards, cards, or pieces related to the game.  
 
 ## Included Games
+ - [ ] Backgammon
  - [x] Battleship
  - [ ] Canasta
  - [x] Carcassonne
@@ -18,10 +19,14 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [ ] King of Tokyo (in-progress)
  - [ ] Liar's Dice
  - [x] Love Letter
+ - [ ] Monopoly
  - [x] One Night Ultimate Werewolf
  - [x] Operation
+ - [ ] Phase 10
  - [ ] Playing Cards
+ - [ ] Risk
  - [ ] Rook
+ - [ ] Senet
  - [ ] Settlers of Catan (in-progress)
  - [x] Sushi Go
  - [x] Uno

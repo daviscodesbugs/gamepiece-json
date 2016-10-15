@@ -9,16 +9,25 @@ Each game folder contains a JSON of the basic information of the game, and it's 
 The folder may also contain images of boards, cards, or pieces related to the game.  
 
 ## Included Games
+ - [ ] Apples to Apples
  - [x] Backgammon
  - [x] Battleship
+ - [ ] Blokus
+ - [ ] Boggle
  - [ ] Canasta
+ - [ ] Candy Land
  - [x] Carcassonne
  - [x] Caverna
+ - [ ] Chinese Checkers
  - [x] Clue
+ - [ ] Dominion
  - [x] Forbidden Island
+ - [ ] Go
  - [ ] King of Tokyo (in-progress)
  - [ ] Liar's Dice
  - [x] Love Letter
+ - [ ] Mancala
+ - [ ] Mastermind
  - [ ] Monopoly (in-progress)
  - [x] One Night Ultimate Werewolf
  - [x] Operation
@@ -26,9 +35,14 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [x] Playing Cards
  - [ ] Risk
  - [ ] Rook
+ - [ ] Rummikub
  - [x] Scrabble
  - [ ] Senet
  - [ ] Settlers of Catan (in-progress)
+ - [ ] Small World
+ - [ ] Sorry!
  - [x] Sushi Go
+ - [ ] Ticket to Ride
+ - [ ] Trouble
  - [x] Uno
  - [x] Yahtzee

@@ -1,0 +1,20 @@
+{
+  "name": "Cards Against Humanity",
+  "pieces": {
+    "cards": [
+      {
+        "type": "answers",
+        "color": "white",
+        "total_count": 460
+      },
+      {
+        "type": "questions",
+        "color": "black",
+        "total_count": 90
+      }
+    ],
+    "rulebook": {
+      "total_count": 1
+    }
+  }
+}

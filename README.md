@@ -22,7 +22,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [x] Clue
  - [ ] Dominion
  - [x] Forbidden Island
- - [ ] Go
+ - [x] Go
  - [ ] King of Tokyo (in-progress)
  - [ ] Liar's Dice
  - [x] Love Letter

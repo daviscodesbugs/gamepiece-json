@@ -7,7 +7,11 @@
         },
         "board" : {
             "total_count" : 1,
-            "points_on_board" : 24
+            "points" : {
+                "total_count" : 24,
+                "color_1_points" : 12,
+                "color_2_points" : 12
+            }
         },
         "counters" : {
             "total_count" : 30,

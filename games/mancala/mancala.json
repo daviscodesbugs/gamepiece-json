@@ -1,0 +1,15 @@
+{
+    "name" : "Mancala",
+    "publisher": "Hasbro",
+    "pieces" : {
+        "board": {
+            "total_count": 1
+        },
+        "bag": {
+            "total_count": 1
+        },
+        "stones": {
+            "total_count": 48
+        }
+    }
+}

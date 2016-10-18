@@ -37,3 +37,27 @@ describe('Syntax', function () {
         });
     });
 });
+
+describe('Reality Check', function () {
+    it('board count', function () {
+        filtered.forEach(function (path) {
+            jsonString = fs.readFileSync('./games/' + path).toString();
+            jsonObject = JSON.parse(jsonString);
+            hasProperBoard = 0;
+            // Check that board has count property and is only 1
+            if (jsonObject.pieces.board) {
+                assert.notEqual(jsonObject.pieces.board.total_count, undefined, path + " has a board without a total count.");
+                assert.equal(jsonObject.pieces.board.total_count, 1, path + " claims there is more than one board.");
+                hasProperBoard = 1;
+            }
+            // Check for board attributes elsewhere
+            boardAttributeCount = 0;
+            JSON.parse(jsonString, function (k, v) {
+                if (k == "board") {
+                    boardAttributeCount += 1;
+                }
+            });
+            assert.equal(boardAttributeCount, hasProperBoard, path + " might have a board attribute in the wrong place.");
+        });
+    });
+});

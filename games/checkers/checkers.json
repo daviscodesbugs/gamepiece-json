@@ -1,21 +1,24 @@
 {
     "name": "checkers",
     "pieces": {
-         "rulebook": {
+        "rulebook": {
             "total_count": 1
         },
         "board": {
-            "total_count": 64,
-            "types": [
-                {
-                    "type": "dark",
-                    "count": 32
-                },
-                {
-                    "type": "light",
-                    "count": 32
-                }
-            ]
+            "total_count": 1,
+            "squares": {
+                "total_count": 64,
+                "types": [
+                    {
+                        "type": "dark",
+                        "count": 32
+                    },
+                    {
+                        "type": "light",
+                        "count": 32
+                    }
+                ]
+            }
         },
         "discs": {
             "total_count": 32,

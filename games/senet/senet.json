@@ -1,0 +1,34 @@
+{
+    "name": "Senet",
+    "pieces": {
+        "board": {
+            "total_count": 1
+        },
+        "pawns": {
+            "total_count": 14,
+            "types": [
+                {
+                    "color": "black",
+                    "shape": "cone",
+                    "count": 7
+                },
+                {
+                    "color": "white",
+                    "shape": "cylinder",
+                    "count": 7
+                }
+            ]
+        },
+        "sticks": {
+            "total_count": 4,
+            "sides": [
+                "marked",
+                "unmarked"
+            ]
+        },
+        "rulebook": {
+            "total_count": 1,
+            "link": "senet.pdf"
+        }
+    }
+}

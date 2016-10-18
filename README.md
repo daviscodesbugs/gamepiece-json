@@ -40,6 +40,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [x] Scrabble
  - [ ] Senet
  - [ ] Settlers of Catan (in-progress)
+ - [x] Settlers of Catan - Cities & Knights Expansion
  - [ ] Small World
  - [ ] Sorry!
  - [x] Sushi Go

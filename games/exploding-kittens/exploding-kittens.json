@@ -39,11 +39,11 @@
     			{
     				"type": "cat",
     				"count": 20
-    			},
+    			}
     		]
     	},
     	"rulebook": {
             "total_count": 1
-        },
+        }
     }
 }

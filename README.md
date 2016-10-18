@@ -22,6 +22,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [ ] Chinese Checkers
  - [x] Clue
  - [ ] Dominion
+ - [x] Exploding Kittens
  - [x] Forbidden Island
  - [x] Go
  - [ ] King of Tokyo (in-progress)

@@ -28,4 +28,12 @@ describe('Syntax', function () {
             });
         });
     });
+    it('cards', function () {
+        filtered.forEach(function (path) {
+            jsonString = fs.readFileSync('./games/' + path).toString();
+            JSON.parse(jsonString, function (k, v) {
+                assert.notEqual(k, "card", path + " contains key of single type: 'card'");
+            });
+        });
+    });
 });

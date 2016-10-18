@@ -1,28 +1,69 @@
 {
-    "name" : "King of Tokyo",
-    "pieces" : {
-        "monsters" : {
-            "total_count" : 6,
-            "types" : [
-                {
-                    "type" : "Alienoid"
-                },
-                {
-                    "type" : "Cyber Bunny"
-                },
-                {
-                    "type" : "Giga Zaur"
-                },
-                {
-                    "type" : "Kraken"
-                },
-                {
-                    "type" : "Meka Dragon"
-                },
-                {
-                    "type" : "The King"
-                }
+    "name": "King of Tokyo",
+    "publisher": "iello Games",
+    "pieces": {
+        "monster_tokens": {
+            "total_count": 6,
+            "types": [
+                "Alienoid",
+                "Cyber Bunny",
+                "Giga Zaur",
+                "Kraken",
+                "Meka Dragon",
+                "The King"
             ]
+        },
+        "monster_stands": {
+            "total_count": 6
+        },
+        "monster_scorecards": {
+            "total_count": 6,
+            "types": [
+                "Alienoid",
+                "Cyber Bunny",
+                "Giga Zaur",
+                "Kraken",
+                "Meka Dragon",
+                "The King"
+            ],
+            "heart_counter": {
+                "values": []
+            },
+            "star_counter": {
+                "values": []
+            }
+        },
+        "dice": {
+            "total_count": 8,
+            "types": [
+                {
+                    "color": "black",
+                    "count": 6
+                },
+                {
+                    "color": "green",
+                    "count": 2
+                }
+            ],
+            "values": [
+                "1",
+                "2",
+                "3",
+                "energy",
+                "heart",
+                "claw"
+            ]
+        },
+        "energy_tokens": {
+            "total_count": 50
+        },
+        "cards": {
+            "total_count": 66,
+            "types": []
+        },
+        "card_effect_tokens": {
+            "total_count": 28,
+            "types": []
         }
     }
 }

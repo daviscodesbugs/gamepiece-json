@@ -40,7 +40,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [ ] Rook
  - [ ] Rummikub
  - [x] Scrabble
- - [ ] Senet
+ - [x] Senet
  - [ ] Settlers of Catan (in-progress)
  - [x] Settlers of Catan - Cities & Knights Expansion
  - [x] Settlers of Catan - Explorers & Pirates Expansion

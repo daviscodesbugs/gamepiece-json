@@ -19,7 +19,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [ ] Candy Land
  - [x] Carcassonne
  - [x] Caverna
- - [ ] Chinese Checkers
+ - [x] Chinese Checkers
  - [x] Chinese Chess
  - [x] Clue
  - [ ] Dominion

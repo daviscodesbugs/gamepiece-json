@@ -1,0 +1,42 @@
+{
+    "name": "Chinese Checkers",
+    "pieces": {
+         "rulebook": {
+            "total_count": 1
+        },
+        "board": {
+            "total_count": 1,
+            "size": 121,
+            "types": [
+                {
+                    "type": "yellow",
+                    "count": 10
+                },
+                {
+                    "type": "red",
+                    "count": 10
+                },
+                {
+                    "type": "green",
+                    "count": 10
+                },
+                {
+                    "type": "blue",
+                    "count": 10
+                },
+                {
+                    "type": "white",
+                    "count": 10
+                },
+                {
+                    "type": "black",
+                    "count": 10
+                },
+                {
+                    "type": "empty",
+                    "count": 61
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Liar's Dice",
+    "edition": "Common Hand",
+    "pieces": {
+        "concealer": {
+            "total_count": 2
+        },
+        "dice": {
+            "total_count": 10
+        },
+        "rulebook": {
+            "total_count": 1
+        }
+    }
+}

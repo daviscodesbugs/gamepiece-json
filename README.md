@@ -27,7 +27,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [x] Forbidden Island
  - [x] Go
  - [ ] King of Tokyo (in-progress)
- - [ ] Liar's Dice
+ - [x] Liar's Dice
  - [x] Love Letter
  - [x] Mancala
  - [ ] Mastermind

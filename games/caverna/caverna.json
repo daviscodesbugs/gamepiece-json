@@ -42,36 +42,36 @@
         "landscape_tiles": {
             "total_count": 144,
             "types": [
-              {
-                  "size": "single",
-                  "type": "Tunnel - Cavern",
-                  "count": 8
-              },
-              {
-                  "size": "single",
-                  "type": "Ruby mine - Field",
-                  "count": 16
-              },
-              {
-                  "size": "single",
-                  "type": "Meadow - Small pasture",
-                  "count": 16
-              },
-              {
-                  "size": "twin",
-                  "type": "Ore mine, Deep tunnel - Large Pasture",
-                  "count": 24
-              },
-              {
-                  "size": "twin",
-                  "type": "Cavern - Tunnel",
-                  "count": 40
-              },
-              {
-                  "size": "twin",
-                  "type": "Meadow - Field",
-                  "count": 40
-              }
+                {
+                    "size": "single",
+                    "type": "Tunnel - Cavern",
+                    "count": 8
+                },
+                {
+                    "size": "single",
+                    "type": "Ruby mine - Field",
+                    "count": 16
+                },
+                {
+                    "size": "single",
+                    "type": "Meadow - Small pasture",
+                    "count": 16
+                },
+                {
+                    "size": "twin",
+                    "type": "Ore mine, Deep tunnel - Large Pasture",
+                    "count": 24
+                },
+                {
+                    "size": "twin",
+                    "type": "Cavern - Tunnel",
+                    "count": 40
+                },
+                {
+                    "size": "twin",
+                    "type": "Meadow - Field",
+                    "count": 40
+                }
             ]
         },
         "coins": {
@@ -291,7 +291,7 @@
                 }
             ]
         },
-        "rulebooks": {
+        "rulebook": {
             "total_count": 2,
             "types": [
                 {

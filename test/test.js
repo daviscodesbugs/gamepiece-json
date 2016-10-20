@@ -36,6 +36,15 @@ describe('Syntax', function () {
             });
         });
     });
+    it('rulebook', function () {
+        filtered.forEach(function (path) {
+            jsonString = fs.readFileSync('./games/' + path).toString();
+            JSON.parse(jsonString, function (k, v) {
+                assert.notEqual(k, "rules", path + " contains key 'rules' instead of 'rulebook'");
+                assert.notEqual(k, "rulebooks", path + " contains key 'rulebooks' instead of 'rulebook'");
+            });
+        });
+    });
 });
 
 describe('Reality Check', function () {
@@ -58,6 +67,27 @@ describe('Reality Check', function () {
                 }
             });
             assert.equal(boardAttributeCount, hasProperBoard, path + " might have a board attribute in the wrong place.");
+        });
+    });
+    it('rulebook count', function () {
+        filtered.forEach(function (path) {
+            jsonString = fs.readFileSync('./games/' + path).toString();
+            jsonObject = JSON.parse(jsonString);
+            hasProperRulebook = 0;
+            // Check that board has count property and is only 1
+            if (jsonObject.pieces.rulebook) {
+                assert.notEqual(jsonObject.pieces.rulebook.total_count, undefined, path + " has a rulebook without a total count.");
+                // assert.equal(jsonObject.pieces.rulebook.total_count, 1, path + " claims there is more than one rulebook.");
+                hasProperRulebook = 1;
+            }
+            // Check for board attributes elsewhere
+            rulebookAttributeCount = 0;
+            JSON.parse(jsonString, function (k, v) {
+                if (k == "rulebook") {
+                    rulebookAttributeCount += 1;
+                }
+            });
+            assert.equal(rulebookAttributeCount, hasProperRulebook, path + " might have a rulebook attribute in the wrong place.");
         });
     });
 });

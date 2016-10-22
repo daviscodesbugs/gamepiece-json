@@ -1,4 +1,4 @@
-[![Travis](https://img.shields.io/travis/daviscodesbugs/gamepiece-json.svg)](https://travis-ci.org/daviscodesbugs/gamepiece-json)
+[![Travis](https://img.shields.io/travis/daviscodesbugs/gamepiece-json.svg?maxAge=30)](https://travis-ci.org/daviscodesbugs/gamepiece-json)
 [![AUR](https://img.shields.io/aur/license/yaourt.svg?maxAge=30)](#)
 
 # Gamepiece JSON

@@ -14,7 +14,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [x] Backgammon
  - [x] Battleship
  - [ ] Blokus
- - [ ] Boggle
+ - [x] Boggle
  - [ ] Canasta
  - [ ] Candy Land
  - [x] Carcassonne

@@ -1,4 +1,4 @@
-[ ![Codeship Status for daviscodesbugs/gamepiece-json](https://img.shields.io/codeship/683282a0-7461-0134-4148-76a75a837005/master.svg?maxAge=30)](#)
+[![Travis](https://img.shields.io/travis/daviscodesbugs/gamepiece-json.svg)](https://travis-ci.org/daviscodesbugs/gamepiece-json)
 [![AUR](https://img.shields.io/aur/license/yaourt.svg?maxAge=30)](#)
 
 # Gamepiece JSON

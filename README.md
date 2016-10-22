@@ -4,9 +4,9 @@
 # Gamepiece JSON
 A collection of json files describing the pieces of board/card games
 ## About
-Games are broken down by folders within the `games` folder.  
-Each game folder contains a JSON of the basic information of the game, and it's pieces.  
-The folder may also contain images of boards, cards, or pieces related to the game.  
+Games are broken down by folders within the `games` folder.
+Each game folder contains a JSON of the basic information of the game, and it's pieces.
+The folder may also contain images of boards, cards, or pieces related to the game.
 
 ## Included Games
  - [x] Aeroplane Chess
@@ -16,7 +16,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [ ] Blokus
  - [x] Boggle
  - [ ] Canasta
- - [ ] Candy Land
+ - [x] Candy Land
  - [x] Carcassonne
  - [x] Caverna
  - [x] Chinese Checkers

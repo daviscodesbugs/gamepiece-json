@@ -1,0 +1,37 @@
+{
+    "name": "Candy Land",
+    "publisher": "Hasbro",
+    "edition": "2014",
+    "pieces": {
+        "rulebook": {
+            "total_count": 1
+        },
+        "board": {
+            "total_count": 1
+        },
+        "spinner": {
+            "total_count": 1
+        },
+        "tokens": {
+            "total_count": 4,
+            "types": [
+                {
+                    "type": "Mally Mallo",
+                    "count": 1
+                },
+                {
+                    "type": "Twirly Girl",
+                    "count": 1
+                },
+                {
+                    "type": "Cutie Cone",
+                    "count": 1
+                },
+                {
+                    "type": "Giggly Gumdrop",
+                    "count": 1
+                }
+            ]
+        }
+    }
+}

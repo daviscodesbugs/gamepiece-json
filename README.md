@@ -26,12 +26,12 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [x] Exploding Kittens
  - [x] Forbidden Island
  - [x] Go
- - [ ] King of Tokyo (in-progress)
+ - [ ] _King of Tokyo (in-progress)_
  - [x] Liar's Dice
  - [x] Love Letter
  - [x] Mancala
  - [ ] Mastermind
- - [ ] Monopoly (in-progress)
+ - [ ] _Monopoly (in-progress)_
  - [x] One Night Ultimate Werewolf
  - [x] Operation
  - [ ] Phase 10
@@ -41,7 +41,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [ ] Rummikub
  - [x] Scrabble
  - [x] Senet
- - [ ] Settlers of Catan (in-progress)
+ - [ ] _Settlers of Catan (in-progress)_
  - [x] Settlers of Catan - Cities & Knights Expansion
  - [x] Settlers of Catan - Explorers & Pirates Expansion
  - [ ] Small World

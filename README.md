@@ -37,7 +37,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [ ] Phase 10
  - [x] Playing Cards
  - [ ] Risk
- - [ ] Rook
+ - [x] Rook
  - [ ] Rummikub
  - [x] Scrabble
  - [x] Senet

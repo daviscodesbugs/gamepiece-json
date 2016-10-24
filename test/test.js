@@ -78,7 +78,10 @@ describe('Reality Check', function () {
             // Check that board has count property and is only 1
             if (jsonObject.pieces.rulebook) {
                 assert.notEqual(jsonObject.pieces.rulebook.total_count, undefined, path + " has a rulebook without a total count.");
-                // assert.equal(jsonObject.pieces.rulebook.total_count, 1, path + " claims there is more than one rulebook.");
+                // caverna does have more than one rulebook
+                if (path.indexOf("caverna") < 0) {
+                    assert.equal(jsonObject.pieces.rulebook.total_count, 1, path + " claims there is more than one rulebook.");
+                }
                 hasProperRulebook = 1;
             }
             // Check for board attributes elsewhere

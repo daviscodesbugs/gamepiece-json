@@ -7,7 +7,26 @@
             "types":[
                 {
                     "type":"chance cards",
-                    "count":16
+                    "count":16,
+                    "values": [
+                        "ADVANCE TO GO (COLLECT $200)",
+                        "ADVANCE TO ILLINOIS AVE.",
+                        "ADVANCE TO ST. CHARLES PLACE. IF YOU PASS GO, COLLECT $200",
+                        "ADVANCE TOKEN TO NEAREST UTILITY. If UNOWNED you may buy it from the Bank. If OWNED, throw dice and pay owner a total ten times the amount thrown.",
+                        "Advance token to the nearest Railroad and pay owner Twice the Rental to which he/she is otherwise entitled. If Railroad is UNOWNED, you may buy it from the Bank.",
+                        "Advance token to the nearest Railroad and pay owner Twice the Rental to which he/she is otherwise entitled. If Railroad is UNOWNED, you may buy it from the Bank.",
+                        "BANK PAYS YOU DIVIDEND OF $50",
+                        "THIS CARD MAY BE KEPT UNTIL NEEDED, OR SOLD. GET OUT OF JAIL FREE",
+                        "GO BACK 3 SPACES",
+                        "GO DIRECTLY TO JAIL. DO NOT PASS GO, DO NOT COLLECT $200",
+                        "Make General Repairs On All Your Property. FOR EACH HOUSE PAY $25, FOR EACH HOTEL $100",
+                        "PAY POOR TAX OF $15",
+                        "TAKE A RIDE ON THE READING. IF YOU PASS GO COLLECT $200",
+                        "TAKE A WALK ON THE BOARDWALK. ADVANCE TOKEN TO BOARDWALK",
+                        "You Have Been ELECTED CHAIRMAN OF THE BOARD. PAY EACH PLAYER $50",
+                        "YOUR BUILDING AND LOAN MATURES. COLLECT $150",
+
+                    ]
                 },
                 {
                     "type":"community chest cards",

@@ -233,11 +233,11 @@
             },
             {
                 "type":"utilities",
-              "count":2,
-              "values": [
-                {"name": "Electric Company", "mortgage_value": 75, "rent": [4, 10]},
-                {"name": "Water Works", "mortgage_value": 75, "rent": [4, 10]}
-              ]
+                "count":2,
+                "values": [
+                    {"name": "Electric Company", "mortgage_value": 75, "rent": [4, 10]},
+                    {"name": "Water Works", "mortgage_value": 75, "rent": [4, 10]}
+                ]
             },
             {
                 "type":"houses",

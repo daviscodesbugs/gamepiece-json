@@ -2,10 +2,11 @@ var assert = require('assert');
 var lint = require('json-lint');
 var fs = require('fs');
 var read = require('fs-readdir-recursive');
+var filepath = require('path');
 
 fileNames = read('./games');
 filtered = fileNames.filter(function (x) {
-    return x.substring(x.length - 5) === '.json';
+    return filepath.extname(x) === '.json';
 });
 
 describe('JSON Lint', function () {
@@ -92,6 +93,22 @@ describe('Reality Check', function () {
                 }
             });
             assert.equal(rulebookAttributeCount, hasProperRulebook, path + " might have a rulebook attribute in the wrong place.");
+        });
+    });
+    it('file exists', function () {
+        filtered.forEach(function (path) {
+            jsonString = fs.readFileSync(filepath.join('./games/', path)).toString();
+            JSON.parse(jsonString, function (k, v) {
+                if (k == "file") {
+                    var folder = filepath.dirname(path);
+                    try {
+                        fs.statSync(filepath.join('.', 'games', folder, v));
+                    }
+                    catch (err) {
+                        assert(false, v + " doesn't exist in 'games/" + folder + "' folder.");
+                    }
+                }
+            });
         });
     });
 });

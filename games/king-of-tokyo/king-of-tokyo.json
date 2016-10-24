@@ -51,7 +51,7 @@
                 "3",
                 "energy",
                 "heart",
-                "claw"
+                "attack"
             ]
         },
         "energy_tokens": {
@@ -59,7 +59,464 @@
         },
         "cards": {
             "total_count": 66,
-            "types": []
+            "types": [
+                {
+                    "Name": "Acid Attack",
+                    "Cost": 6,
+                    "Type": "Keep",
+                    "Text": "Deal 1 extra damage each turn (even when you don't otherwise attack)."
+                },
+                {
+                    "Name": "Alien Metabolism",
+                    "Cost": 3,
+                    "Type": "Keep",
+                    "Text": "Buying cards costs you 1 less [energy]."
+                },
+                {
+                    "Name": "Alpha Monster",
+                    "Cost": 5,
+                    "Type": "Keep",
+                    "Text": "Gain 1[star] when you attack."
+                },
+                {
+                    "Name": "Apartment Building",
+                    "Cost": 5,
+                    "Type": "Discard",
+                    "Text": "+ 3[star]"
+                },
+                {
+                    "Name": "Armor Plating",
+                    "Cost": 4,
+                    "Type": "Keep",
+                    "Text": "Ignore damage of 1."
+                },
+                {
+                    "Name": "Background Dweller",
+                    "Cost": 4,
+                    "Type": "Keep",
+                    "Text": "You can always reroll any [3] you have."
+                },
+                {
+                    "Name": "Burrowing",
+                    "Cost": 5,
+                    "Type": "Keep",
+                    "Text": "Deal 1 extra damage on Tokyo. Deal 1 damage when yielding Tokyo to the monster taking it."
+                },
+                {
+                    "Name": "Camouflage",
+                    "Cost": 3,
+                    "Type": "Keep",
+                    "Text": "If you take damage roll a die for each damage point. On a [heart] you do not take that damage point."
+                },
+                {
+                    "Name": "Commuter Train",
+                    "Cost": 4,
+                    "Type": "Discard",
+                    "Text": "+ 2[star]"
+                },
+                {
+                    "Name": "Complete Destruction",
+                    "Cost": 3,
+                    "Type": "Keep",
+                    "Text": "If you roll [1][2][3][heart][attack][energy] gain 9[star] in addition to the regular results."
+                },
+                {
+                    "Name": "Corner Store",
+                    "Cost": 3,
+                    "Type": "Discard",
+                    "Text": "+ 1[star]"
+                },
+                {
+                    "Name": "Dedicated News Team",
+                    "Cost": 3,
+                    "Type": "Keep",
+                    "Text": "Gain 1[star] whenever you buy a card."
+                },
+                {
+                    "Name": "Drop from High Altitude",
+                    "Cost": 5,
+                    "Type": "Discard",
+                    "Text": "+ 2[star] and take control of Tokyo if you don't already control it."
+                },
+                {
+                    "Name": "Eater of the Dead",
+                    "Cost": 4,
+                    "Type": "Keep",
+                    "Text": "Gain 3[star] every time a monster's [heart] goes to 0."
+                },
+                {
+                    "Name": "Energize",
+                    "Cost": 8,
+                    "Type": "Discard",
+                    "Text": "+ 9[energy]"
+                },
+                {
+                    "Name": "energy Hoarder",
+                    "Cost": 3,
+                    "Type": "Keep",
+                    "Text": "You gain 1[star] for every 6[energy] you have at the end of your turn."
+                },
+                {
+                    "Name": "Evacuation Orders (x2)",
+                    "Cost": 7,
+                    "Type": "Discard",
+                    "Text": "All other monsters lose 5[star]."
+                },
+                {
+                    "Name": "Even Bigger",
+                    "Cost": 4,
+                    "Type": "Keep",
+                    "Text": "Your maximum [heart] is increased by 2. Gain 2[heart] when you get this card."
+                },
+                {
+                    "Name": "Extra Head (x2)",
+                    "Cost": 7,
+                    "Type": "Keep",
+                    "Text": "You get 1 extra die."
+                },
+                {
+                    "Name": "Fire Blast",
+                    "Cost": 3,
+                    "Type": "Discard",
+                    "Text": "Deal 2 damage to all other monsters."
+                },
+                {
+                    "Name": "Fire Breathing",
+                    "Cost": 4,
+                    "Type": "Keep",
+                    "Text": "Your neighbors take 1 extra damage when you deal damage"
+                },
+                {
+                    "Name": "Freeze Time",
+                    "Cost": 5,
+                    "Type": "Keep",
+                    "Text": "On a turn where you score [1][1][1], you can take another turn with one less die."
+                },
+                {
+                    "Name": "Frenzy",
+                    "Cost": 7,
+                    "Type": "Discard",
+                    "Text": "When you purchase this card Take another turn immediately after this one."
+                },
+                {
+                    "Name": "Friend of Children",
+                    "Cost": 3,
+                    "Type": "Keep",
+                    "Text": "When you gain any [energy] gain 1 extra [energy]."
+                },
+                {
+                    "Name": "Gas Refinery",
+                    "Cost": 6,
+                    "Type": "Discard",
+                    "Text": "+ 2[star] and deal 3 damage to all other monsters."
+                },
+                {
+                    "Name": "Giant Brain",
+                    "Cost": 5,
+                    "Type": "Keep",
+                    "Text": "You have one extra reroll each turn."
+                },
+                {
+                    "Name": "Gourmet",
+                    "Cost": 4,
+                    "Type": "Keep",
+                    "Text": "When scoring [1][1][1] gain 2 extra [star]."
+                },
+                {
+                    "Name": "Heal",
+                    "Cost": 3,
+                    "Type": "Discard",
+                    "Text": "Heal 2 damage."
+                },
+                {
+                    "Name": "Healing Ray",
+                    "Cost": 4,
+                    "Type": "Keep",
+                    "Text": "You can heal other monsters with your [heart] results. They must pay you 2[energy] for each damage you heal (or their remaining [energy] if they haven't got enough."
+                },
+                {
+                    "Name": "Herbivore",
+                    "Cost": 5,
+                    "Type": "Keep",
+                    "Text": "Gain 1[star] on your turn if you don't damage anyone."
+                },
+                {
+                    "Name": "Herd Culler",
+                    "Cost": 3,
+                    "Type": "Keep",
+                    "Text": "You can change one of your dice to a [1] each turn."
+                },
+                {
+                    "Name": "High Altitude Bombing",
+                    "Cost": 4,
+                    "Type": "Discard",
+                    "Text": "All monsters (including you) take 3 damage."
+                },
+                {
+                    "Name": "It Has a Child",
+                    "Cost": 7,
+                    "Type": "Keep",
+                    "Text": "If you are eliminated discard all your cards and lose all your [star], Heal to 10[heart] and start again."
+                },
+                {
+                    "Name": "Jet Fighters",
+                    "Cost": 5,
+                    "Type": "Discard",
+                    "Text": "+ 5[star] and take 4 damage"
+                },
+                {
+                    "Name": "Jets",
+                    "Cost": 5,
+                    "Type": "Keep",
+                    "Text": "You suffer no damage when yielding Tokyo."
+                },
+                {
+                    "Name": "Made in a Lab",
+                    "Cost": 2,
+                    "Type": "Keep",
+                    "Text": "When purchasing cards you can peek at and purchase the top card of the deck."
+                },
+                {
+                    "Name": "Metamorph",
+                    "Cost": 3,
+                    "Type": "Keep",
+                    "Text": "At the end of your turn you can discard any keep cards you have to receive the [energy] they were purchased for."
+                },
+                {
+                    "Name": "Mimic",
+                    "Cost": 8,
+                    "Type": "Keep",
+                    "Text": "Choose a card any monster has in play and put a mimic counter on it. This card counts as a duplicate of that card as if it just had been bought. Spend 1[energy] at the start of your turn to change the power you are mimicking."
+                },
+                {
+                    "Name": "Monster Batteries",
+                    "Cost": 2,
+                    "Type": "Keep",
+                    "Text": "When you purchase this put as many [energy] as you want on it from your reserve. Match this from the bank. At the start of each turn take 2[energy] off and add them to your reserve. When there are no [energy] left discard this card."
+                },
+                {
+                    "Name": "National Guard",
+                    "Cost": 3,
+                    "Type": "Discard",
+                    "Text": "+ 2[star] and take 2 damage."
+                },
+                {
+                    "Name": "Nova Breath",
+                    "Cost": 7,
+                    "Type": "Keep",
+                    "Text": "Your attacks damage all other monsters."
+                },
+                {
+                    "Name": "Nuclear Power Plant",
+                    "Cost": 6,
+                    "Type": "Discard",
+                    "Text": "+ 2[star] and heal 3 damage."
+                },
+                {
+                    "Name": "Omnivore",
+                    "Cost": 4,
+                    "Type": "Keep",
+                    "Text": "Once each turn you can score [1][2][3] for 2[star]. You can use these dice in other combinations."
+                },
+                {
+                    "Name": "Opportunist",
+                    "Cost": 3,
+                    "Type": "Keep",
+                    "Text": "Whenever a new card is revealed you have the option of purchasing it as soon as it is revealed."
+                },
+                {
+                    "Name": "Parasitic Tentacles",
+                    "Cost": 4,
+                    "Type": "Keep",
+                    "Text": "You can purchase cards from other monsters. Pay them the [energy] cost."
+                },
+                {
+                    "Name": "Plot Twist",
+                    "Cost": 3,
+                    "Type": "Keep",
+                    "Text": "Change one die to any result. Discard when used."
+                },
+                {
+                    "Name": "Poison Quills",
+                    "Cost": 3,
+                    "Type": "Keep",
+                    "Text": "When you score [2][2][2] also deal 2 damage."
+                },
+                {
+                    "Name": "Poison Spit",
+                    "Cost": 4,
+                    "Type": "Keep",
+                    "Text": "When you deal damage to monsters give them a poison counter. Monsters take 1 damage for each poison counter they have at the end of their turn. You can get rid of a poison counter with a [heart] (that [heart] doesn't heal a damage also)."
+                },
+                {
+                    "Name": "Psychic Probe",
+                    "Cost": 3,
+                    "Type": "Keep",
+                    "Text": "You can reroll a die of each other monster once each turn. If the reroll is [heart] discard this card."
+                },
+                {
+                    "Name": "Rapid Healing",
+                    "Cost": 3,
+                    "Type": "Keep",
+                    "Text": "Spend 2[energy] at any time to heal 1 damage."
+                },
+                {
+                    "Name": "Regeneration",
+                    "Cost": 4,
+                    "Type": "Keep",
+                    "Text": "When you heal, heal 1 extra damage."
+                },
+                {
+                    "Name": "Rooting for the Underdog",
+                    "Cost": 3,
+                    "Type": "Keep",
+                    "Text": "At the end of a turn when you have the fewest [star] gain 1 [star]."
+                },
+                {
+                    "Name": "Shrink Ray",
+                    "Cost": 6,
+                    "Type": "Keep",
+                    "Text": "When you deal damage to monsters give them a shrink counter. A monster rolls one less die for each shrink counter. You can get rid of a shrink counter with a [heart] (that [heart] doesn't heal a damage also)."
+                },
+                {
+                    "Name": "Skyscraper",
+                    "Cost": 6,
+                    "Type": "Discard",
+                    "Text": "+ 4[star]"
+                },
+                {
+                    "Name": "Smoke Cloud",
+                    "Cost": 4,
+                    "Type": "Keep",
+                    "Text": "This card starts with 3 charges. Spend a charge for an extra reroll. Discard this card when all charges are spent."
+                },
+                {
+                    "Name": "Solar Powered",
+                    "Cost": 2,
+                    "Type": "Keep",
+                    "Text": "At the end of your turn gain 1[energy] if you have no [energy]."
+                },
+                {
+                    "Name": "Spiked Tail",
+                    "Cost": 5,
+                    "Type": "Keep",
+                    "Text": "When you attack deal 1 extra damage."
+                },
+                {
+                    "Name": "Stretchy",
+                    "Cost": 3,
+                    "Type": "Keep",
+                    "Text": "You can spend 2[energy] to change one of your dice to any result."
+                },
+                {
+                    "Name": "Tanks",
+                    "Cost": 4,
+                    "Type": "Discard",
+                    "Text": "+ 4[star] and take 3 damage."
+                },
+                {
+                    "Name": "Telepath",
+                    "Cost": 4,
+                    "Type": "Keep",
+                    "Text": "Spend 1[energy] to get 1 extra reroll."
+                },
+                {
+                    "Name": "Urbavore",
+                    "Cost": 4,
+                    "Type": "Keep",
+                    "Text": "Gain 1 extra [star] when beginning the turn in Tokyo. Deal 1 extra damage when dealing any damage from Tokyo."
+                },
+                {
+                    "Name": "Vast Storm",
+                    "Cost": 6,
+                    "Type": "Discard",
+                    "Text": "+ 2[star]. All other monsters lose 1[energy] for every 2[energy] they have."
+                },
+                {
+                    "Name": "We're Only Making It Stronger",
+                    "Cost": 3,
+                    "Type": "Keep",
+                    "Text": "When you lose 2[heart] or more gain 1[energy]."
+                },
+                {
+                    "Name": "Wings",
+                    "Cost": 6,
+                    "Type": "Keep",
+                    "Text": "Spend 2[energy] to negate damage to you for a turn."
+                },
+                {
+                    "Name": "",
+                    "Cost": "",
+                    "Type": "",
+                    "Text": ""
+                },
+                {
+                    "Name": "Amusement Park",
+                    "Cost": 6,
+                    "Type": "Discard",
+                    "Text": "+ 4[star]"
+                },
+                {
+                    "Name": "Army",
+                    "Cost": 2,
+                    "Type": "Discard",
+                    "Text": "(+ 1[star] and suffer one damage) for each card you have."
+                },
+                {
+                    "Name": "Cannibalistic",
+                    "Cost": 5,
+                    "Type": "Keep",
+                    "Text": "When you do damage gain 1[heart]."
+                },
+                {
+                    "Name": "Intimidating Roar",
+                    "Cost": 3,
+                    "Type": "Keep",
+                    "Text": "The monsters in Tokyo must yield if you damage them."
+                },
+                {
+                    "Name": "Monster Sidekick",
+                    "Cost": 4,
+                    "Type": "Keep",
+                    "Text": "If someone kills you, Go back to 10[heart] and lose all your [star]. If either of you or your killer win, or all other players are eliminated then you both win. If your killer is eliminated then you are also. If you are eliminated a second time this card has no effect."
+                },
+                {
+                    "Name": "Reflective Hide",
+                    "Cost": 6,
+                    "Type": "Keep",
+                    "Text": "If you suffer damage the monster that inflicted the damage suffers 1 as well."
+                },
+                {
+                    "Name": "Sleep Walker",
+                    "Cost": 3,
+                    "Type": "Keep",
+                    "Text": "Spend 3[energy] to gain 1[star]."
+                },
+                {
+                    "Name": "Super Jump",
+                    "Cost": 4,
+                    "Type": "Keep",
+                    "Text": "Once each turn you may spend 1[energy] to negate 1 damage you are receiving."
+                },
+                {
+                    "Name": "Throw a Tanker",
+                    "Cost": 4,
+                    "Type": "Keep",
+                    "Text": "On a turn you deal 3 or more damage gain 2[star]."
+                },
+                {
+                    "Name": "Thunder Stomp",
+                    "Cost": 3,
+                    "Type": "Keep",
+                    "Text": "If you score 4[star] in a turn, all players roll one less die until your next turn."
+                },
+                {
+                    "Name": "Unstable DNA",
+                    "Cost": 3,
+                    "Type": "Keep",
+                    "Text": "If you yield Tokyo you can take any card the recipient has and give him this card."
+                }
+            ]
         },
         "card_effect_tokens": {
             "total_count": 28,

@@ -10,7 +10,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
 
 ## Included Games
  - [x] Aeroplane Chess
- - [ ] Apples to Apples
+ - [x] Apples to Apples
  - [x] Backgammon
  - [x] Battleship
  - [ ] Blokus
@@ -30,7 +30,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [x] Liar's Dice
  - [x] Love Letter
  - [x] Mancala
- - [ ] Mastermind
+ - [x] Mastermind
  - [x] Monopoly
  - [x] One Night Ultimate Werewolf
  - [x] Operation

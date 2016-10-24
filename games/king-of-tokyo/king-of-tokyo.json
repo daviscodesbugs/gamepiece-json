@@ -64,6 +64,10 @@
         "card_effect_tokens": {
             "total_count": 28,
             "types": []
+        },
+        "rulebook": {
+            "total_count": 1,
+            "file": "rulebook-king-of-tokyo.pdf"
         }
     }
 }

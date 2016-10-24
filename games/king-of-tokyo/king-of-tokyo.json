@@ -63,7 +63,24 @@
         },
         "card_effect_tokens": {
             "total_count": 28,
-            "types": []
+            "types": [
+                {
+                    "type": "Smoke",
+                    "count": 3
+                },
+                {
+                    "type": "Shrink",
+                    "count": 12
+                },
+                {
+                    "type": "Poison",
+                    "count": 12
+                },
+                {
+                    "type": "Mimic",
+                    "count": 1
+                }
+            ]
         },
         "rulebook": {
             "total_count": 1,

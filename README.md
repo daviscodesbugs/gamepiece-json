@@ -9,10 +9,12 @@ Each game folder contains a JSON of the basic information of the game, and it's 
 The folder may also contain images of boards, cards, or pieces related to the game.
 
 ## Included Games
+ - [ ] 7 Wonders
  - [x] Aeroplane Chess
- - [ ] Apples to Apples
+ - [x] Apples to Apples
  - [x] Backgammon
  - [x] Battleship
+ - [ ] Blink
  - [ ] Blokus
  - [x] Boggle
  - [ ] Canasta
@@ -21,32 +23,46 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [x] Caverna
  - [x] Chinese Checkers
  - [x] Chinese Chess
+ - [ ] Chutes and Ladders
  - [x] Clue
  - [ ] Dominion
  - [x] Exploding Kittens
  - [x] Forbidden Island
  - [x] Go
+ - [ ] The Great Dalmuti
  - [ ] _King of Tokyo (in-progress)_
  - [x] Liar's Dice
  - [x] Love Letter
  - [x] Mancala
- - [ ] Mastermind
+ - [x] Mastermind
  - [x] Monopoly
+ - [ ] Old Maid
  - [x] One Night Ultimate Werewolf
  - [x] Operation
+ - [ ] Pandemic
  - [ ] Phase 10
+ - [ ] Pictionary
  - [x] Playing Cards
+ - [ ] Reversi
  - [ ] Risk
  - [x] Rook
  - [ ] Rummikub
+ - [ ] Scattergories
+ - [ ] Scotland Yard
  - [x] Scrabble
+ - [ ] Scum
  - [x] Senet
+ - [ ] Sequence
+ - [ ] Set
  - [ ] _Settlers of Catan (in-progress)_
  - [x] Settlers of Catan - Cities & Knights Expansion
  - [x] Settlers of Catan - Explorers & Pirates Expansion
+ - [ ] Skip Bo
+ - [ ] Slamwich
  - [ ] Small World
  - [ ] Sorry!
  - [x] Sushi Go
+ - [ ] Taboo
  - [ ] Ticket to Ride
  - [ ] Trouble
  - [x] Uno

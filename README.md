@@ -31,7 +31,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [x] Love Letter
  - [x] Mancala
  - [ ] Mastermind
- - [ ] _Monopoly (in-progress)_
+ - [x] Monopoly
  - [x] One Night Ultimate Werewolf
  - [x] Operation
  - [ ] Phase 10

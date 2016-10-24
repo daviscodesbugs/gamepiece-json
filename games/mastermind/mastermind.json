@@ -1,0 +1,20 @@
+{
+	"name": "Mastermind",
+	"pieces": {
+		"decoding_board": {
+			"total_count": 1
+		},
+		"pegs": {
+			"total_count": 102,
+			"types": [
+				{
+					"type": "code",
+					"count": 72
+				}, {
+					"type": "key",
+					"count": 30
+				}
+			]
+		}
+	}
+}

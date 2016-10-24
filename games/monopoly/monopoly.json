@@ -18,16 +18,226 @@
         "title deeds":2,
         "properties":[
             {
-                "type":"streets",
-                "count":22
+              "type":"streets",
+              "count":22,
+              "values": [
+                {
+                  "name": "Mediterranean Ave.",
+                  "color": "purple",
+                  "mortgage_value": 30,
+                  "house_cost": 50,
+                  "rent": [
+                    2, 10, 30, 90, 160, 250
+                  ]
+                },
+                {
+                  "name": "Baltic Ave.",
+                  "color": "purple",
+                  "mortgage_value": 30,
+                  "house_cost": 50,
+                  "rent": [
+                    4, 20, 60, 180, 320, 450
+                  ]
+                },
+                {
+                  "name": "Oriental Ave.",
+                  "color": "light blue",
+                  "mortgage_value": 50,
+                  "house_cost": 50,
+                  "rent": [
+                    6, 30, 90, 270, 400, 550
+                  ]
+                },
+                {
+                  "name": "Vermont Ave.",
+                  "color": "light blue",
+                  "mortgage_value": 50,
+                  "house_cost": 50,
+                  "rent": [
+                    6, 30, 90, 270, 400, 550
+                  ]
+                },
+                {
+                  "name": "Connecticut Ave.",
+                  "color": "light blue",
+                  "mortgage_value": 60,
+                  "house_cost": 50,
+                  "rent": [
+                    8, 40, 100, 300, 450, 600
+                  ]
+                },
+                {
+                  "name": "St. Charles Place",
+                  "color": "magenta",
+                  "mortgage_value": 70,
+                  "house_cost": 100,
+                  "rent": [
+                    10, 50, 150, 450, 625, 750
+                  ]
+                },
+                {
+                  "name": "States Ave.",
+                  "color": "magenta",
+                  "mortgage_value": 70,
+                  "house_cost": 100,
+                  "rent": [
+                    10, 50, 150, 450, 625, 750
+                  ]
+                },
+                {
+                  "name": "Virginia Ave.",
+                  "color": "magenta",
+                  "mortgage_value": 80,
+                  "house_cost": 100,
+                  "rent": [
+                    12, 60, 180, 500, 700, 900
+                  ]
+                },
+                {
+                  "name": "St. James Place",
+                  "color": "orange",
+                  "mortgage_value": 90,
+                  "house_cost": 100,
+                  "rent": [
+                    14, 70, 200, 550, 750, 950
+                  ]
+                },
+                {
+                  "name": "Tennessee Ave.",
+                  "color": "orange",
+                  "mortgage_value": 90,
+                  "house_cost": 100,
+                  "rent": [
+                    14, 70, 200, 550, 750, 950
+                  ]
+                },
+                {
+                  "name": "New York Ave.",
+                  "color": "orange",
+                  "mortgage_value": 100,
+                  "house_cost": 100,
+                  "rent": [
+                    16, 80, 220, 600, 800, 1000
+                  ]
+                },
+                {
+                  "name": "Kentucky Ave.",
+                  "color": "red",
+                  "mortgage_value": 110,
+                  "house_cost": 150,
+                  "rent": [
+                    18, 90, 250, 700, 875, 1050
+                  ]
+                },
+                {
+                  "name": "Indiana Ave.",
+                  "color": "red",
+                  "mortgage_value": 110,
+                  "house_cost": 150,
+                  "rent": [
+                    18, 90, 250, 700, 875, 1050
+                  ]
+                },
+                {
+                  "name": "Illinois Ave.",
+                  "color": "red",
+                  "mortgage_value": 120,
+                  "house_cost": 150,
+                  "rent": [
+                    20, 100, 300, 750, 925, 1100
+                  ]
+                },
+                {
+                  "name": "Atlantic Ave.",
+                  "color": "yellow",
+                  "mortgage_value": 130,
+                  "house_cost": 150,
+                  "rent": [
+                    22, 110, 330, 800, 975, 1150
+                  ]
+                },
+                {
+                  "name": "Ventnor Ave.",
+                  "color": "yellow",
+                  "mortgage_value": 130,
+                  "house_cost": 150,
+                  "rent": [
+                    22, 110, 330, 800, 975, 1150
+                  ]
+                },
+                {
+                  "name": "Marvin Gardens",
+                  "color": "yellow",
+                  "mortgage_value": 140,
+                  "house_cost": 150,
+                  "rent": [
+                    24, 120, 360, 850, 1025, 1200
+                  ]
+                },
+                {
+                  "name": "Pacific Ave.",
+                  "color": "green",
+                  "mortgage_value": 150,
+                  "house_cost": 200,
+                  "rent": [
+                    26, 130, 390, 900, 1100, 1275
+                  ]
+                },
+                {
+                  "name": "No. Carolina Ave.",
+                  "color": "green",
+                  "mortgage_value": 150,
+                  "house_cost": 200,
+                  "rent": [
+                    26, 130, 390, 900, 1100, 1275
+                  ]
+                },
+                {
+                  "name": "Pennsylvania Ave.",
+                  "color": "green",
+                  "mortgage_value": 160,
+                  "house_cost": 200,
+                  "rent": [
+                    28, 150, 450, 1000, 1200, 1400
+                  ]
+                },
+                {
+                  "name": "Park Place",
+                  "color": "blue",
+                  "mortgage_value": 175,
+                  "house_cost": 200,
+                  "rent": [
+                    35, 175, 500, 1100, 1300, 1500
+                  ]
+                },
+                {
+                  "name": "Boardwalk",
+                  "color": "blue",
+                  "mortgage_value": 200,
+                  "house_cost": 200,
+                  "rent": [
+                    50, 200, 600, 1400, 1700, 2000
+                  ]
+                }
+              ]
             },
             {
                 "type":"railroads",
-                "count":4
+              "count":4,
+              "values": [
+                { "name": "Reading Railroad",  "mortgage_value": 100, "rent": [25, 50, 100, 200]},
+                { "name": "Pennsylvania R.R.", "mortgage_value": 100, "rent": [25, 50, 100, 200]},
+                { "name": "B. & O. Railroad",  "mortgage_value": 100, "rent": [25, 50, 100, 200]},
+                { "name": "Short Line R.R.",   "mortgage_value": 100, "rent": [25, 50, 100, 200]}
+              ]
             },
             {
                 "type":"utilities",
-                "count":2
+              "count":2,
+              "values": [
+                {"name": "Electric Company", "mortgage_value": 75, "rent": [4, 10]},
+                {"name": "Water Works", "mortgage_value": 75, "rent": [4, 10]}
+              ]
             },
             {
                 "type":"houses",

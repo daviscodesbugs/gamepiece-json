@@ -47,6 +47,11 @@ describe('Syntax', function () {
             });
         });
     });
+    it('lowercase filenames', function () {
+        filtered.forEach(function (path) {
+            assert.equal(path, path.toLowerCase(), path + " has uppercase letters.");
+        });
+    });
 });
 
 describe('Reality Check', function () {

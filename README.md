@@ -53,7 +53,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [ ] Scum
  - [x] Senet
  - [ ] Sequence
- - [ ] Set
+ - [x] Set
  - [ ] _Settlers of Catan (in-progress)_
  - [x] Settlers of Catan - Cities & Knights Expansion
  - [x] Settlers of Catan - Explorers & Pirates Expansion

@@ -1,50 +1,50 @@
 {
     "name": "Exploding Kittens",
     "pieces": {
-    	"cards": {
-    		"total_count" : 56,
-    		"types": [
-    			{
-    				"type": "defuse",
-    				"count": 6
-    			},
-    			{
-    				"type": "nope",
-    				"count": 5
-    			},
-    			{
-    				"type": "exploding kittens",
-    				"count": 4
-    			},
-    			{
-    				"type": "attack",
-    				"count": 4
-    			},
-    			{
-    				"type": "skip",
-    				"count": 4
-    			},
-    			{
-    				"type": "favor",
-    				"count": 4
-    			},
-    			{
-    				"type": "shuffle",
-    				"count": 4
-    			},
-    			{
-    				"type": "see the future",
-    				"count": 5
-    			},
-    			{
-    				"type": "cat",
-    				"count": 20
-    			}
-    		]
-    	},
-    	"rulebook": {
+        "cards": {
+            "total_count": 56,
+            "types": [
+                {
+                    "type": "defuse",
+                    "count": 6
+                },
+                {
+                    "type": "nope",
+                    "count": 5
+                },
+                {
+                    "type": "exploding kittens",
+                    "count": 4
+                },
+                {
+                    "type": "attack",
+                    "count": 4
+                },
+                {
+                    "type": "skip",
+                    "count": 4
+                },
+                {
+                    "type": "favor",
+                    "count": 4
+                },
+                {
+                    "type": "shuffle",
+                    "count": 4
+                },
+                {
+                    "type": "see the future",
+                    "count": 5
+                },
+                {
+                    "type": "cat",
+                    "count": 20
+                }
+            ]
+        },
+        "rulebook": {
             "total_count": 1,
-			"file": "rulebook-exploding-kittens.pdf"
+            "file": "rulebook-exploding-kittens.pdf"
         }
     }
 }

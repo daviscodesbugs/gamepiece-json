@@ -3,9 +3,6 @@
     "publisher": "SET Enterprises",
     "edition": "7-36396-00100-9",
     "pieces": {
-        "rulebook": {
-            "total_count": 1
-        },
         "cards": {
             "total_count": 81,
             "types": [
@@ -577,6 +574,10 @@
                     "count": 1
                 }
             ]
+        },
+        "rulebook": {
+            "total_count": 1,
+            "file": "rulebook-set.pdf"
         }
     }
 }

@@ -5,7 +5,7 @@
 A collection of json files describing the pieces of board/card games
 ## About
 Games are broken down by folders within the `games` folder.
-Each game folder contains a JSON of the basic information of the game, and it's pieces.
+Each game folder contains a JSON of the basic information of the game, and its pieces.
 The folder may also contain images of boards, cards, or pieces related to the game.
 
 ## Included Games
@@ -40,7 +40,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [x] One Night Ultimate Werewolf
  - [x] Operation
  - [ ] Pandemic
- - [ ] Phase 10
+ - [x] Phase 10
  - [ ] Pictionary
  - [x] Playing Cards
  - [ ] Reversi

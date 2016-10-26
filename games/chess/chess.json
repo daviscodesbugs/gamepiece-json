@@ -1,7 +1,7 @@
 {
     "name": "chess",
     "pieces": {
-         "rulebook": {
+        "rulebook": {
             "total_count": 1
         },
         "board": {

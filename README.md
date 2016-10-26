@@ -27,6 +27,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [x] Clue
  - [ ] Dominion
  - [x] Exploding Kittens
+ - [ ] Five Crowns
  - [x] Forbidden Island
  - [x] Go
  - [ ] The Great Dalmuti
@@ -36,6 +37,8 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [x] Mancala
  - [x] Mastermind
  - [x] Monopoly
+ - [ ] Munchkin
+ - [ ] Munchkin - Star Munchkin
  - [ ] Old Maid
  - [x] One Night Ultimate Werewolf
  - [x] Operation
@@ -43,6 +46,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [x] Phase 10
  - [ ] Pictionary
  - [x] Playing Cards
+ - [ ] Quiddler
  - [ ] Reversi
  - [ ] Risk
  - [x] Rook

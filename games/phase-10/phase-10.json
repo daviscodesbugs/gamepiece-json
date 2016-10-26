@@ -10,236 +10,236 @@
             "total_count": 2
         },
         "cards": [
-              {
-                  "type": "number",
-                  "color": "red",
-                  "total_count": 24,
-                  "values": [
-                      {
-                          "value": 1,
-                          "count": 2
-                      },
-                      {
-                          "value": 2,
-                          "count": 2
-                      },
-                      {
-                          "value": 3,
-                          "count": 2
-                      },
-                      {
-                          "value": 4,
-                          "count": 2
-                      },
-                      {
-                          "value": 5,
-                          "count": 2
-                      },
-                      {
-                          "value": 6,
-                          "count": 2
-                      },
-                      {
-                          "value": 7,
-                          "count": 2
-                      },
-                      {
-                          "value": 8,
-                          "count": 2
-                      },
-                      {
-                          "value": 9,
-                          "count": 2
-                      },
-                      {
-                          "value": 10,
-                          "count": 2
-                      },
-                      {
-                          "value": 11,
-                          "count": 2
-                      },
-                      {
-                          "value": 12,
-                          "count": 2
-                      }
-                  ]
-              },
-              {
-                  "type": "number",
-                  "color": "blue",
-                  "total_count": 24,
-                  "values": [
-                      {
-                          "value": 1,
-                          "count": 2
-                      },
-                      {
-                          "value": 2,
-                          "count": 2
-                      },
-                      {
-                          "value": 3,
-                          "count": 2
-                      },
-                      {
-                          "value": 4,
-                          "count": 2
-                      },
-                      {
-                          "value": 5,
-                          "count": 2
-                      },
-                      {
-                          "value": 6,
-                          "count": 2
-                      },
-                      {
-                          "value": 7,
-                          "count": 2
-                      },
-                      {
-                          "value": 8,
-                          "count": 2
-                      },
-                      {
-                          "value": 9,
-                          "count": 2
-                      },
-                      {
-                          "value": 10,
-                          "count": 2
-                      },
-                      {
-                          "value": 11,
-                          "count": 2
-                      },
-                      {
-                          "value": 12,
-                          "count": 2
-                      }
-                  ]
-              },
-              {
-                  "type": "number",
-                  "color": "green",
-                  "total_count": 24,
-                  "values": [
-                      {
-                          "value": 1,
-                          "count": 2
-                      },
-                      {
-                          "value": 2,
-                          "count": 2
-                      },
-                      {
-                          "value": 3,
-                          "count": 2
-                      },
-                      {
-                          "value": 4,
-                          "count": 2
-                      },
-                      {
-                          "value": 5,
-                          "count": 2
-                      },
-                      {
-                          "value": 6,
-                          "count": 2
-                      },
-                      {
-                          "value": 7,
-                          "count": 2
-                      },
-                      {
-                          "value": 8,
-                          "count": 2
-                      },
-                      {
-                          "value": 9,
-                          "count": 2
-                      },
-                      {
-                          "value": 10,
-                          "count": 2
-                      },
-                      {
-                          "value": 11,
-                          "count": 2
-                      },
-                      {
-                          "value": 12,
-                          "count": 2
-                      }
-                  ]
-              },
-              {
-                  "type": "number",
-                  "color": "yellow",
-                  "total_count": 24,
-                  "values": [
-                      {
-                          "value": 1,
-                          "count": 2
-                      },
-                      {
-                          "value": 2,
-                          "count": 2
-                      },
-                      {
-                          "value": 3,
-                          "count": 2
-                      },
-                      {
-                          "value": 4,
-                          "count": 2
-                      },
-                      {
-                          "value": 5,
-                          "count": 2
-                      },
-                      {
-                          "value": 6,
-                          "count": 2
-                      },
-                      {
-                          "value": 7,
-                          "count": 2
-                      },
-                      {
-                          "value": 8,
-                          "count": 2
-                      },
-                      {
-                          "value": 9,
-                          "count": 2
-                      },
-                      {
-                          "value": 10,
-                          "count": 2
-                      },
-                      {
-                          "value": 11,
-                          "count": 2
-                      },
-                      {
-                          "value": 12,
-                          "count": 2
-                      }
-                  ]
-              },
-              {
-                  "type": "skip",
-                  "color": "none",
-                  "count": 4
-              },
-              {
-                  "type": "wild",
-                  "color": "none",
-                  "count": 8
-              }
+            {
+                "type": "number",
+                "color": "red",
+                "total_count": 24,
+                "values": [
+                    {
+                        "value": 1,
+                        "count": 2
+                    },
+                    {
+                        "value": 2,
+                        "count": 2
+                    },
+                    {
+                        "value": 3,
+                        "count": 2
+                    },
+                    {
+                        "value": 4,
+                        "count": 2
+                    },
+                    {
+                        "value": 5,
+                        "count": 2
+                    },
+                    {
+                        "value": 6,
+                        "count": 2
+                    },
+                    {
+                        "value": 7,
+                        "count": 2
+                    },
+                    {
+                        "value": 8,
+                        "count": 2
+                    },
+                    {
+                        "value": 9,
+                        "count": 2
+                    },
+                    {
+                        "value": 10,
+                        "count": 2
+                    },
+                    {
+                        "value": 11,
+                        "count": 2
+                    },
+                    {
+                        "value": 12,
+                        "count": 2
+                    }
+                ]
+            },
+            {
+                "type": "number",
+                "color": "blue",
+                "total_count": 24,
+                "values": [
+                    {
+                        "value": 1,
+                        "count": 2
+                    },
+                    {
+                        "value": 2,
+                        "count": 2
+                    },
+                    {
+                        "value": 3,
+                        "count": 2
+                    },
+                    {
+                        "value": 4,
+                        "count": 2
+                    },
+                    {
+                        "value": 5,
+                        "count": 2
+                    },
+                    {
+                        "value": 6,
+                        "count": 2
+                    },
+                    {
+                        "value": 7,
+                        "count": 2
+                    },
+                    {
+                        "value": 8,
+                        "count": 2
+                    },
+                    {
+                        "value": 9,
+                        "count": 2
+                    },
+                    {
+                        "value": 10,
+                        "count": 2
+                    },
+                    {
+                        "value": 11,
+                        "count": 2
+                    },
+                    {
+                        "value": 12,
+                        "count": 2
+                    }
+                ]
+            },
+            {
+                "type": "number",
+                "color": "green",
+                "total_count": 24,
+                "values": [
+                    {
+                        "value": 1,
+                        "count": 2
+                    },
+                    {
+                        "value": 2,
+                        "count": 2
+                    },
+                    {
+                        "value": 3,
+                        "count": 2
+                    },
+                    {
+                        "value": 4,
+                        "count": 2
+                    },
+                    {
+                        "value": 5,
+                        "count": 2
+                    },
+                    {
+                        "value": 6,
+                        "count": 2
+                    },
+                    {
+                        "value": 7,
+                        "count": 2
+                    },
+                    {
+                        "value": 8,
+                        "count": 2
+                    },
+                    {
+                        "value": 9,
+                        "count": 2
+                    },
+                    {
+                        "value": 10,
+                        "count": 2
+                    },
+                    {
+                        "value": 11,
+                        "count": 2
+                    },
+                    {
+                        "value": 12,
+                        "count": 2
+                    }
+                ]
+            },
+            {
+                "type": "number",
+                "color": "yellow",
+                "total_count": 24,
+                "values": [
+                    {
+                        "value": 1,
+                        "count": 2
+                    },
+                    {
+                        "value": 2,
+                        "count": 2
+                    },
+                    {
+                        "value": 3,
+                        "count": 2
+                    },
+                    {
+                        "value": 4,
+                        "count": 2
+                    },
+                    {
+                        "value": 5,
+                        "count": 2
+                    },
+                    {
+                        "value": 6,
+                        "count": 2
+                    },
+                    {
+                        "value": 7,
+                        "count": 2
+                    },
+                    {
+                        "value": 8,
+                        "count": 2
+                    },
+                    {
+                        "value": 9,
+                        "count": 2
+                    },
+                    {
+                        "value": 10,
+                        "count": 2
+                    },
+                    {
+                        "value": 11,
+                        "count": 2
+                    },
+                    {
+                        "value": 12,
+                        "count": 2
+                    }
+                ]
+            },
+            {
+                "type": "skip",
+                "color": "none",
+                "count": 4
+            },
+            {
+                "type": "wild",
+                "color": "none",
+                "count": 8
+            }
         ]
     }
 }

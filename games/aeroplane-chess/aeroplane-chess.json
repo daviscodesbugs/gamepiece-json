@@ -1,37 +1,37 @@
 {
-  "name":"Aeroplane Chess",
-  "pieces":{
-    "game_board":{
-      "description": "A basic components of what should the game board contain",
-      "home_zones":{
-        "description": "Starting position of each players",
-        "color_count": 4,
-        "available_spot":4
-      },
-      "track":{
-        "description": "A pathway where the plane is \"flying\"",
-        "total_count":52,
-        "short_cut":{
-          "description": "A shortcut where the player can take advantage of, to fly faster than other players",
-          "total_count":4,
-          "total_count_for_players_each": 1
+    "name": "Aeroplane Chess",
+    "pieces": {
+        "game_board": {
+            "description": "A basic components of what should the game board contain",
+            "home_zones": {
+                "description": "Starting position of each players",
+                "color_count": 4,
+                "available_spot": 4
+            },
+            "track": {
+                "description": "A pathway where the plane is \"flying\"",
+                "total_count": 52,
+                "short_cut": {
+                    "description": "A shortcut where the player can take advantage of, to fly faster than other players",
+                    "total_count": 4,
+                    "total_count_for_players_each": 1
+                }
+            },
+            "end_space": {
+                "description": "The end point where the player suppose to fly their plane to, in order to win",
+                "total_count": 4
+            }
+        },
+        "airplane_pieces": {
+            "description": "Each of players have them to fly them to the end space",
+            "total_count": 16,
+            "color_type": 4
+        },
+        "dice": {
+            "description": "Roll them and fly the planes",
+            "count": 1,
+            "sides": 6,
+            "available_value": [1,2,3,4,5,6]
         }
-      },
-      "end_space":{
-          "description": "The end point where the player suppose to fly their plane to, in order to win",
-          "total_count":4
-      }
-    },
-    "airplane_pieces":{
-        "description": "Each of players have them to fly them to the end space",
-        "total_count": 16,
-        "color_type": 4
-    },
-    "dice":{
-      "description": "Roll them and fly the planes",
-      "count":1,
-      "sides":6,
-      "available_value":[1,2,3,4,5,6]
     }
-  }
 }

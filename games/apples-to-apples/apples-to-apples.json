@@ -1,0 +1,22 @@
+{
+    "name": "Apples to Apples",
+    "pieces": {
+        "cards": [
+            {
+                "color": "red",
+                "total_count": 324
+            },
+            {
+                "color": "green",
+                "total_count": 108
+            }
+        ],
+        "card_tray": {
+            "total_count": 1
+        },
+        "rulebook": {
+            "total_count": 1,
+            "file": "rulebook-apples-to-apples.pdf"
+        }
+    }
+}

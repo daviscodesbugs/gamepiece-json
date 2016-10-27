@@ -1,0 +1,215 @@
+{
+    "name": "Mille Bornes",
+    "pieces": {
+        "rulebook": {
+            "total_count": 1,
+            "file": "rulebook-mille-bornes.pdf"
+        },
+        "card_tray": {
+            "total_count": 1
+        },
+        "cards": {
+            "total_count": 110,
+            "types": [
+                {
+                    "type": "distance",
+                    "total_count": 46,
+                    "values": [
+                        {
+                            "miles": 200,
+                            "count": 4
+                        },
+                        {
+                            "miles": 100,
+                            "count": 12
+                        },
+                        {
+                            "miles": 75,
+                            "count": 10
+                        },
+                        {
+                            "miles": 50,
+                            "count": 10
+                        },
+                        {
+                          "miles": 25,
+                          "count": 10
+                        }
+                    ]
+                },
+                {
+                    "type": "hazard",
+                    "total_count": 18,
+                    "values": [
+                        {
+                            "name": [
+                                {
+                                  "english": "OUT OF GAS",
+                                  "french": "PANNE D'ESSENCE"
+                                }
+                            ],
+                            "count": 3
+                        },
+                        {
+                            "name": [
+                                {
+                                  "english": "FLAT TIRE",
+                                  "french": "CREVE"
+                                }
+                            ],
+                            "count": 3
+                        },
+                        {
+                            "name": [
+                                {
+                                  "english": "ACCIDENT",
+                                  "french": "ACCIDENT"
+                                }
+                            ],
+                            "count": 3
+                        },
+                        {
+                            "name": [
+                                {
+                                  "english": "SPEED LIMIT",
+                                  "french": "LIMITE DE VITESSE"
+                                }
+                            ],
+                            "count": 4
+                        },
+                        {
+                            "name": [
+                                {
+                                  "english": "STOP!",
+                                  "french": "Stop"
+                                }
+                            ],
+                            "count": 5
+                        }
+                    ]
+                },
+                {
+                    "type": "remedy",
+                    "total_count": 38,
+                    "values": [
+                        {
+                            "name": [
+                                {
+                                  "english": "GASOLINE",
+                                  "french": "ESSENCE"
+                                }
+                            ],
+                            "count": 6
+                        },
+                        {
+                            "name": [
+                                {
+                                  "english": "SPARE TIRE",
+                                  "french": "ROUE DE SECOURS"
+                                }
+                            ],
+                            "count": 6
+                        },
+                        {
+                            "name": [
+                                {
+                                  "english": "REPAIRS",
+                                  "french": "REPARATIONS"
+                                }
+                            ],
+                            "count": 6
+                        },
+                        {
+                            "name": [
+                                {
+                                  "english": "END OF LIMIT",
+                                  "french": "FIN DE LIMITE DE VITESSE"
+                                }
+                            ],
+                            "count": 6
+                        },
+                        {
+                            "name": [
+                                {
+                                  "english": "ROLL!",
+                                  "french": "Roulez"
+                                }
+                            ],
+                            "count": 14
+                        }
+                    ]
+                },
+                {
+                    "type": "safety",
+                    "total_count": 4,
+                    "values": [
+                        {
+                            "name": [
+                                {
+                                  "english": "EXTRA TANK",
+                                  "french": "citerne d'essence"
+                                }
+                            ],
+                            "count": 1
+                        },
+                        {
+                            "name": [
+                                {
+                                  "english": "PUNCTURE-PROOF",
+                                  "french": "increvable"
+                                }
+                            ],
+                            "count": 1
+                        },
+                        {
+                            "name": [
+                                {
+                                  "english": "DRIVING ACE",
+                                  "french": "as du volant"
+                                }
+                            ],
+                            "count": 1
+                        },
+                        {
+                            "name": [
+                                {
+                                  "english": "RIGHT OF WAY",
+                                  "french": "vehicule prioritaire"
+                                }
+                            ],
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "type": "score",
+                    "total_count": 2,
+                    "values": [
+                        {
+                            "name": "'1,000 BORNES’ – THE SCORE",
+                            "count": 1
+                        },
+                        {
+                            "name": "LA MARQUE AUX '1,000 BORNES'",
+                            "count": 1
+                        }
+                    ]
+                },
+                {
+                    "type": "guide",
+                    "total_count": 2,
+                    "values": [
+                        {
+                            "name": "Guide to MILLE BORNES (1000 milestones)",
+                            "count": 1
+                        },
+                        {
+                            "name": "Guide pour MILLE BORNES",
+                            "count": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

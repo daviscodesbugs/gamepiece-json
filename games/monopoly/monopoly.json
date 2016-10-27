@@ -29,7 +29,25 @@
                 },
                 {
                     "type":"community chest cards",
-                    "count":16
+                    "count":16,
+                    "values": [
+                        "GO TO JAIL. GO DIRECTLY TO JAIL. DO NOT PASS GO. DO NOT COLLECT $200",
+                        "YOU ARE ASSESSED FOR STREET REPAIRS. $40 PER HOUSE $115 PER HOTEL",
+                        "XMAS FUND MATURES. COLLECT $100",
+                        "BANK ERROR IN YOUR FAVOR. COLLECT $200",
+                        "PAY SCHOOL TAX OF $150",
+                        "INCOME TAX REFUND. COLLECT $20",
+                        "YOU INHERIT $100",
+                        "DOCTOR'S FEE. PAY $50",
+                        "GET OUT OF JAIL FREE. THIS CARD MAY BE KEPT UNTIL NEEDED, OR SOLD",
+                        "ADVANCE TO GO (COLLECT $200)",
+                        "FROM SALE OF STOCK YOU GET $45",
+                        "LIFE INSURANCE MATURES. COLLECT $100",
+                        "RECEIVE FOR SERVICES $25",
+                        "Grand Opera Opening. COLLECT $50 FROM EVERY PLAYER FOR OPENING NIGHT SEATS",
+                        "PAY HOSPITAL $100",
+                        "YOU HAVE WON SECOND PRIZE IN A BEAUTY CONTEST. COLLECT $100"
+                    ]
                 }
             ]
         },

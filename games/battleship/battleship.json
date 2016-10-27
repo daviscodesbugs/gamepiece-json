@@ -11,44 +11,44 @@
         "plastic_pegs": {
             "total_count": "6 runners",
             "types": [
-              {
-                  "type": "white",
-                  "count": "4 runners"
-              },
-              {
-                  "type": "red",
-                  "count": "2 runners"
-              }
+                {
+                    "type": "white",
+                    "count": "4 runners"
+                },
+                {
+                    "type": "red",
+                    "count": "2 runners"
+                }
             ]
         },
         "ships": {
             "total_count": 10,
             "types": [
-              {
-                  "type": "Destroyer",
-                  "count": 2,
-                  "length": 2
-              },
-              {
-                  "type": "Submarine",
-                  "count": 2,
-                  "length": 3
-              },
-              {
-                  "type": "Cruiser",
-                  "count": 2,
-                  "length": 3
-              },
-              {
-                  "type": "Battleship",
-                  "count": 2,
-                  "length": 4
-              },
-              {
-                  "type": "Carrier",
-                  "count": 2,
-                  "length": 5
-              }
+                {
+                    "type": "Destroyer",
+                    "count": 2,
+                    "length": 2
+                },
+                {
+                    "type": "Submarine",
+                    "count": 2,
+                    "length": 3
+                },
+                {
+                    "type": "Cruiser",
+                    "count": 2,
+                    "length": 3
+                },
+                {
+                    "type": "Battleship",
+                    "count": 2,
+                    "length": 4
+                },
+                {
+                    "type": "Carrier",
+                    "count": 2,
+                    "length": 5
+                }
             ]
         }
     }

@@ -1,0 +1,583 @@
+{
+    "name": "SET",
+    "publisher": "SET Enterprises",
+    "edition": "7-36396-00100-9",
+    "pieces": {
+        "cards": {
+            "total_count": 81,
+            "types": [
+                {
+                    "color": "red",
+                    "shading": "solid",
+                    "symbol": "oval",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "red",
+                    "shading": "solid",
+                    "symbol": "oval",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "red",
+                    "shading": "solid",
+                    "symbol": "oval",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "red",
+                    "shading": "solid",
+                    "symbol": "squiggle",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "red",
+                    "shading": "solid",
+                    "symbol": "squiggle",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "red",
+                    "shading": "solid",
+                    "symbol": "squiggle",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "red",
+                    "shading": "solid",
+                    "symbol": "diamond",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "red",
+                    "shading": "solid",
+                    "symbol": "diamond",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "red",
+                    "shading": "solid",
+                    "symbol": "diamond",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "red",
+                    "shading": "striped",
+                    "symbol": "oval",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "red",
+                    "shading": "striped",
+                    "symbol": "oval",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "red",
+                    "shading": "striped",
+                    "symbol": "oval",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "red",
+                    "shading": "striped",
+                    "symbol": "squiggle",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "red",
+                    "shading": "striped",
+                    "symbol": "squiggle",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "red",
+                    "shading": "striped",
+                    "symbol": "squiggle",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "red",
+                    "shading": "striped",
+                    "symbol": "diamond",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "red",
+                    "shading": "striped",
+                    "symbol": "diamond",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "red",
+                    "shading": "striped",
+                    "symbol": "diamond",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "red",
+                    "shading": "outlined",
+                    "symbol": "oval",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "red",
+                    "shading": "outlined",
+                    "symbol": "oval",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "red",
+                    "shading": "outlined",
+                    "symbol": "oval",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "red",
+                    "shading": "outlined",
+                    "symbol": "squiggle",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "red",
+                    "shading": "outlined",
+                    "symbol": "squiggle",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "red",
+                    "shading": "outlined",
+                    "symbol": "squiggle",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "red",
+                    "shading": "outlined",
+                    "symbol": "diamond",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "red",
+                    "shading": "outlined",
+                    "symbol": "diamond",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "red",
+                    "shading": "outlined",
+                    "symbol": "diamond",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "purple",
+                    "shading": "solid",
+                    "symbol": "oval",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "purple",
+                    "shading": "solid",
+                    "symbol": "oval",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "purple",
+                    "shading": "solid",
+                    "symbol": "oval",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "purple",
+                    "shading": "solid",
+                    "symbol": "squiggle",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "purple",
+                    "shading": "solid",
+                    "symbol": "squiggle",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "purple",
+                    "shading": "solid",
+                    "symbol": "squiggle",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "purple",
+                    "shading": "solid",
+                    "symbol": "diamond",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "purple",
+                    "shading": "solid",
+                    "symbol": "diamond",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "purple",
+                    "shading": "solid",
+                    "symbol": "diamond",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "purple",
+                    "shading": "striped",
+                    "symbol": "oval",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "purple",
+                    "shading": "striped",
+                    "symbol": "oval",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "purple",
+                    "shading": "striped",
+                    "symbol": "oval",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "purple",
+                    "shading": "striped",
+                    "symbol": "squiggle",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "purple",
+                    "shading": "striped",
+                    "symbol": "squiggle",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "purple",
+                    "shading": "striped",
+                    "symbol": "squiggle",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "purple",
+                    "shading": "striped",
+                    "symbol": "diamond",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "purple",
+                    "shading": "striped",
+                    "symbol": "diamond",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "purple",
+                    "shading": "striped",
+                    "symbol": "diamond",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "purple",
+                    "shading": "outlined",
+                    "symbol": "oval",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "purple",
+                    "shading": "outlined",
+                    "symbol": "oval",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "purple",
+                    "shading": "outlined",
+                    "symbol": "oval",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "purple",
+                    "shading": "outlined",
+                    "symbol": "squiggle",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "purple",
+                    "shading": "outlined",
+                    "symbol": "squiggle",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "purple",
+                    "shading": "outlined",
+                    "symbol": "squiggle",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "purple",
+                    "shading": "outlined",
+                    "symbol": "diamond",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "purple",
+                    "shading": "outlined",
+                    "symbol": "diamond",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "purple",
+                    "shading": "outlined",
+                    "symbol": "diamond",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "green",
+                    "shading": "solid",
+                    "symbol": "oval",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "green",
+                    "shading": "solid",
+                    "symbol": "oval",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "green",
+                    "shading": "solid",
+                    "symbol": "oval",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "green",
+                    "shading": "solid",
+                    "symbol": "squiggle",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "green",
+                    "shading": "solid",
+                    "symbol": "squiggle",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "green",
+                    "shading": "solid",
+                    "symbol": "squiggle",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "green",
+                    "shading": "solid",
+                    "symbol": "diamond",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "green",
+                    "shading": "solid",
+                    "symbol": "diamond",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "green",
+                    "shading": "solid",
+                    "symbol": "diamond",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "green",
+                    "shading": "striped",
+                    "symbol": "oval",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "green",
+                    "shading": "striped",
+                    "symbol": "oval",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "green",
+                    "shading": "striped",
+                    "symbol": "oval",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "green",
+                    "shading": "striped",
+                    "symbol": "squiggle",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "green",
+                    "shading": "striped",
+                    "symbol": "squiggle",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "green",
+                    "shading": "striped",
+                    "symbol": "squiggle",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "green",
+                    "shading": "striped",
+                    "symbol": "diamond",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "green",
+                    "shading": "striped",
+                    "symbol": "diamond",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "green",
+                    "shading": "striped",
+                    "symbol": "diamond",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "green",
+                    "shading": "outlined",
+                    "symbol": "oval",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "green",
+                    "shading": "outlined",
+                    "symbol": "oval",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "green",
+                    "shading": "outlined",
+                    "symbol": "oval",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "green",
+                    "shading": "outlined",
+                    "symbol": "squiggle",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "green",
+                    "shading": "outlined",
+                    "symbol": "squiggle",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "green",
+                    "shading": "outlined",
+                    "symbol": "squiggle",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "green",
+                    "shading": "outlined",
+                    "symbol": "diamond",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "green",
+                    "shading": "outlined",
+                    "symbol": "diamond",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "green",
+                    "shading": "outlined",
+                    "symbol": "diamond",
+                    "number": 3,
+                    "count": 1
+                }
+            ]
+        },
+        "rulebook": {
+            "total_count": 1,
+            "file": "rulebook-set.pdf"
+        }
+    }
+}

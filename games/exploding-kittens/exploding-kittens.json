@@ -70,7 +70,8 @@
     		    ]
     	  },
     	  "rulebook": {
-            "total_count": 1
+            "total_count": 1,
+            "file": "rulebook-exploding-kittens.pdf"
         }
     }
 }

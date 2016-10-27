@@ -1,0 +1,17 @@
+{
+	"total_count": 3,
+	"games": [
+		{
+			"name": "Crazy Eights",
+			"num_decks": 1
+		},
+		{
+			"name": "Speed",
+			"num_decks": 1
+		},
+		{
+			"name": "Spit",
+			"num_decks": 1
+		}
+	]
+}

@@ -5,14 +5,16 @@
 A collection of json files describing the pieces of board/card games
 ## About
 Games are broken down by folders within the `games` folder.
-Each game folder contains a JSON of the basic information of the game, and it's pieces.
+Each game folder contains a JSON of the basic information of the game, and its pieces.
 The folder may also contain images of boards, cards, or pieces related to the game.
 
 ## Included Games
+ - [ ] 7 Wonders
  - [x] Aeroplane Chess
- - [ ] Apples to Apples
+ - [x] Apples to Apples
  - [x] Backgammon
  - [x] Battleship
+ - [ ] Blink
  - [ ] Blokus
  - [x] Boggle
  - [ ] Canasta
@@ -21,32 +23,52 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [x] Caverna
  - [x] Chinese Checkers
  - [x] Chinese Chess
+ - [ ] Chutes and Ladders
  - [x] Clue
  - [ ] Dominion
  - [x] Exploding Kittens
+ - [ ] Five Crowns
  - [x] Forbidden Island
  - [x] Go
- - [ ] _King of Tokyo (in-progress)_
+ - [ ] The Great Dalmuti
+ - [ ] _King of Tokyo (partial done)_
  - [x] Liar's Dice
  - [x] Love Letter
  - [x] Mancala
- - [ ] Mastermind
- - [ ] _Monopoly (in-progress)_
+ - [x] Mastermind
+ - [x] Mille Bornes
+ - [x] Monopoly
+ - [ ] Munchkin
+ - [ ] Munchkin - Star Munchkin
+ - [ ] Old Maid
  - [x] One Night Ultimate Werewolf
  - [x] Operation
- - [ ] Phase 10
+ - [ ] Pandemic
+ - [x] Phase 10
+ - [ ] Pictionary
  - [x] Playing Cards
+ - [ ] Quiddler
+ - [ ] Reversi
  - [ ] Risk
  - [x] Rook
- - [ ] Rummikub
+ - [ ] _Rummikub (partial done)_
+ - [ ] Scattergories
+ - [ ] Scotland Yard
  - [x] Scrabble
+ - [ ] Scum
  - [x] Senet
- - [ ] _Settlers of Catan (in-progress)_
+ - [ ] Sequence
+ - [x] Set
+ - [ ] _Settlers of Catan (partial done)_
  - [x] Settlers of Catan - Cities & Knights Expansion
  - [x] Settlers of Catan - Explorers & Pirates Expansion
+ - [ ] Skip Bo
+ - [ ] Slamwich
  - [ ] Small World
  - [ ] Sorry!
  - [x] Sushi Go
+ - [ ] Taboo
+ - [x] Tic Tac Toe
  - [ ] Ticket to Ride
  - [ ] Trouble
  - [x] Uno

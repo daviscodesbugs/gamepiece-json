@@ -1,6 +1,10 @@
 {
 	"name": "Mastermind",
 	"pieces": {
+		"rulebook": {
+            "total_count": 1,
+            "file": "rulebook-mastermind.pdf"
+        },
 		"decoding_board": {
 			"total_count": 1
 		},

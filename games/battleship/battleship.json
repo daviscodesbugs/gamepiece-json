@@ -4,7 +4,7 @@
     "pieces": {
         "rulebook": {
             "total_count": 1,
-			"file": "rulebook-battleship.pdf"
+            "file": "rulebook-battleship.pdf"
         },
         "game_units": {
             "total_count": 2

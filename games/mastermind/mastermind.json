@@ -1,28 +1,26 @@
 {
-	"name": "Mastermind",
-	"pieces": {
-		"rulebook": {
-            "total_count": 1,
-            "file": "rulebook-mastermind.pdf"
+    "name": "Mastermind",
+    "pieces": {
+        "decoding_board": {
+            "total_count": 1
         },
-		"decoding_board": {
-			"total_count": 1
-		},
-		"pegs": {
-			"total_count": 102,
-			"types": [
-				{
-					"type": "code",
-					"count": 72
-				}, {
-					"type": "key",
-					"count": 30
-				}
-			]
-		},
-		"rulebook": {
+        "pegs": {
+            "total_count": 102,
+            "types": [
+                {
+                    "type": "code",
+                    "count": 72
+                },
+                {
+                    "type": "key",
+                    "count": 30
+                }
+            ]
+        },
+        "rulebook": {
             "total_count": 1,
+            "file": "rulebook-mastermind.pdf",
             "file": "rulebook-ultimate-mastermind.pdf"
         }
-	}
+    }
 }

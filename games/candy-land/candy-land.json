@@ -2,6 +2,7 @@
     "name": "Candy Land",
     "publisher": "Hasbro",
     "edition": "2014",
+    "file": "rulebook-candy-land.pdf",
     "pieces": {
         "rulebook": {
             "total_count": 1

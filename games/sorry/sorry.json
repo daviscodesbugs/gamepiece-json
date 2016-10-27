@@ -1,0 +1,101 @@
+{
+    "name": "Sorry",
+    "pieces": {
+        "rulebook": {
+            "total_count": 1,
+            "file": "rulebook-sorry.pdf"
+        },
+        "board": {
+            "total_count": 1
+        },
+        "pawns": [
+            {
+                "total_count": 16,
+                "colors": [
+                    {
+                        "color": "red",
+                        "count": 4
+                    },
+                    {
+                        "color": "blue",
+                        "count": 4
+                    },
+                    {
+                        "color": "green",
+                        "count": 4
+                    },
+                    {
+                        "color": "yellow",
+                        "count": 4
+                    }
+                ]
+            }
+        ],
+        "cards": {
+            "total_count": 44,
+            "types": [
+                {
+                    "type": "move",
+                    "total_count": 40,
+                    "values": [
+                        {
+                            "value": 1,
+                            "description": "MUST EITHER START A MAN OUT OR MOVE ONE MAN FORWARD 1 SQUARE.",
+                            "count": 4
+                        },
+                        {
+                            "value": 2,
+                            "description": "MUST EITHER START A MAN OUT OR MOVE ONE MAN FORWARD 2 SQUARES. DRAW AGAIN.",
+                            "count": 4
+                        },
+                        {
+                            "value": 3,
+                            "description": "MUST MOVE ONE MAN FORWARD 3 SQUARES.",
+                            "count": 4
+                        },
+                        {
+                            "value": 4,
+                            "description": "MUST MOVE ONE MAN BACKWARD 4 SQUARES.",
+                            "count": 4
+                        },
+                        {
+                            "value": 5,
+                            "description": "MUST MOVE ONE MAN FORWARD 5 SQUARES.",
+                            "count": 4
+                        },
+                        {
+                            "value": 7,
+                            "description": "MUST EITHER MOVE ONE MAN FORWARD 7 SQUARES OR SPLIT THE MOVE BETWEEN ANY TWO MEN".,
+                            "count": 4
+                        },
+                        {
+                            "value": 8,
+                            "description": "MUST MOVE ONE MAN FORWARD 8 SQUARES.",
+                            "count": 4
+                        },
+                        {
+                            "value": 10,
+                            "description": "MUST EITHER MOVE ONE MAN FORWARD 10 SQUARES OR MOVE ONE MAN BACKWARD 1 SQUARE.",
+                            "count": 4
+                        },
+                        {
+                            "value": 11,
+                            "description": "MOVE ONE MAN FORWARD 11 SQUARES OR ANY ONE OF YOUR MARGIN MEN MAY CHANGE PLACES WITH ONE MARGIN MAN OF ANY OPPONENT.",
+                            "count": 4
+                        },
+                        {
+                            "value": 12,
+                            "description": "MUST MOVE ONE MAN FORWARD 12 SQUARES.",
+                            "count": 4
+                        }
+                    ]
+                },
+                {
+                    "type": "sorry",
+                    "description": "MUST TAKE ONE MAN FROM YOUR START - PLACE IT ON ANY MARGIN SQUARE OCCUPIED BY ANY OPPONENT AND RETURN THAT OPPONENTS MAN TO ITS START."
+                    "count": 4
+                }
+            ]
+        }
+    }
+}

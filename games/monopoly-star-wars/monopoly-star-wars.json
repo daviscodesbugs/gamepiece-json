@@ -97,6 +97,10 @@
             "TIE Fighter Pilot",
             "Tusken Raider"
         ],
-        "dice":2
+        "dice":2,
+        "rulebook": {
+            "total_count": 1,
+            "file": "rulebook-monopoly-star-wars.pdf"
+        }
     }
 }

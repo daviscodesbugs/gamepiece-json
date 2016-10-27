@@ -46,7 +46,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [x] Phase 10
  - [ ] Pictionary
  - [x] Playing Cards
- - [ ] Quiddler
+ - [x] Quiddler
  - [ ] Reversi
  - [ ] Risk
  - [x] Rook

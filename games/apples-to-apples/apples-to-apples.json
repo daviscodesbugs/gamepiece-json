@@ -14,8 +14,9 @@
         "card_tray": {
             "total_count": 1
         },
-        "rule_sheet": {
-            "total_count": 1
+        "rulebook": {
+            "total_count": 1,
+            "file": "rulebook-apples-to-apples.pdf"
         }
     }
 }

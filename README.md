@@ -67,6 +67,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [ ] Sorry!
  - [x] Sushi Go
  - [ ] Taboo
+ - [x] Tic Tac Toe
  - [ ] Ticket to Ride
  - [ ] Trouble
  - [x] Uno

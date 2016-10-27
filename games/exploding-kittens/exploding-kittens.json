@@ -5,40 +5,67 @@
     		"total_count" : 56,
     		"types": [
     			{
-    				"type": "defuse",
+    				"type": "Defuse",
     				"count": 6
     			},
     			{
-    				"type": "nope",
+    				"type": "Nope",
     				"count": 5
     			},
     			{
-    				"type": "exploding kittens",
+    				"type": "Exploding Kitten",
     				"count": 4
     			},
     			{
-    				"type": "attack",
+    				"type": "Attack",
     				"count": 4
     			},
     			{
-    				"type": "skip",
+    				"type": "Skip",
     				"count": 4
     			},
     			{
-    				"type": "favor",
+    				"type": "Favor",
     				"count": 4
     			},
     			{
-    				"type": "shuffle",
+    				"type": "Shuffle",
     				"count": 4
     			},
     			{
-    				"type": "see the future",
+    				"type": "See the Future",
     				"count": 5
     			},
     			{
     				"type": "cat",
-    				"count": 20
+    				"count": 20,
+            "values": [
+              {
+                "name": "Beard Cat",
+                "flavorText": "",
+                "count": 4
+              },
+              {
+                "name": "Cattermelon",
+                "flavorText": "HACK THOOP!",
+                "count": 4
+              },
+              {
+                "name": "Hairy Potato Cat",
+                "flavorText": "",
+                "count": 4
+              },
+              {
+                "name": "Rainbow-Ralphing Cat",
+                "flavorText": "HRNNGGGG!",
+                "count": 4
+              },
+              {
+                "name": "Tacocat",
+                "flavorText": "I AM A PALINDROME!",
+                "count": 4
+              }
+            ]
     			}
     		]
     	},

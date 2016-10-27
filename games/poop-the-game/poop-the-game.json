@@ -1,0 +1,201 @@
+{
+    "name":"POOP: The Game",
+    "pieces":{
+        "ruleCards":{
+            "total_count":4,
+            "cards": [
+                {
+                    "sides": [
+                        "How to play POOP (rules)",
+                        "Rules continued"
+                    ]
+                },
+                {
+                    "sides": [
+                        "Drinking Rules",
+                        "Deep Doo Doo Remix"
+                    ]
+                },
+                {
+                    "sides": [
+                        "The Blind Pooper and the Poop Patrol - POOP Remix #1",
+                        "Flusher's Delight - POOP Remix #2"
+                    ]
+                },
+                {
+                    "sides": [
+                        "The Interceptor - POOP Remix #3",
+                        "Super Pooper - POOP Remix #4"
+                    ]
+                }
+            ]
+
+        },
+        "cards": [
+            {
+                "type": "Toilets",
+                "total_count": 11,
+                "values": [
+                    {
+                        "overflow": 8,
+                        "count": 2
+                    },
+                    {
+                        "overflow": 9,
+                        "count": 2
+                    },
+                    {
+                        "overflow": 10,
+                        "count": 3
+                    },
+                    {
+                        "overflow": 11,
+                        "count": 2
+                    },
+                    {
+                        "overflow": 12,
+                        "count": 2
+                    }
+                ]
+            },
+            {
+                "type": "Blue",
+                "total_count": 12,
+                "values": [
+                    {
+                        "value": "0",
+                        "action": "Wash hands on turn",
+                        "count": 1
+                    },
+                    {
+                        "value": "0",
+                        "action": "Splash sound on turn",
+                        "count": 1
+                    },
+                    {
+                        "value": "1",
+                        "action": "",
+                        "count": 2
+                    },
+                    {
+                        "value": "2",
+                        "action": "",
+                        "count": 2
+                    },
+                    {
+                        "value": "3",
+                        "action": "",
+                        "count": 2
+                    },
+                    {
+                        "value": "4",
+                        "action": "",
+                        "count": 2
+                    },
+                    {
+                        "value": "R",
+                        "action": "Reverse",
+                        "count": 1
+                    },
+                    {
+                        "value": "S",
+                        "action": "Skip",
+                        "count": 1
+                    }
+                ]
+            },
+            {
+                "type": "Red",
+                "total_count": 12,
+                "values": [
+                    {
+                        "value": "0",
+                        "action": "Grunt on turn",
+                        "count": 1
+                    },
+                    {
+                        "value": "0",
+                        "action": "Lean on a fart on turn",
+                        "count": 1
+                    },
+                    {
+                        "value": "1",
+                        "action": "",
+                        "count": 2
+                    },
+                    {
+                        "value": "2",
+                        "action": "",
+                        "count": 2
+                    },
+                    {
+                        "value": "3",
+                        "action": "",
+                        "count": 2
+                    },
+                    {
+                        "value": "4",
+                        "action": "",
+                        "count": 2
+                    },
+                    {
+                        "value": "R",
+                        "action": "Reverse",
+                        "count": 1
+                    },
+                    {
+                        "value": "S",
+                        "action": "Skip",
+                        "count": 1
+                    }
+                ]
+            },
+            {
+                "type": "Yellow",
+                "total_count": 12,
+                "values": [
+                    {
+                        "value": "0",
+                        "action": "Hold nose on turn",
+                        "count": 1
+                    },
+                    {
+                        "value": "0",
+                        "action": "Fart sound on turn",
+                        "count": 1
+                    },
+                    {
+                        "value": "1",
+                        "action": "",
+                        "count": 2
+                    },
+                    {
+                        "value": "2",
+                        "action": "",
+                        "count": 2
+                    },
+                    {
+                        "value": "3",
+                        "action": "",
+                        "count": 2
+                    },
+                    {
+                        "value": "4",
+                        "action": "",
+                        "count": 2
+                    },
+                    {
+                        "value": "R",
+                        "action": "Reverse",
+                        "count": 1
+                    },
+                    {
+                        "value": "S",
+                        "action": "Skip",
+                        "count": 1
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -2,7 +2,8 @@
     "name": "chess",
     "pieces": {
         "rulebook": {
-            "total_count": 1
+            "total_count": 1,
+            "file": "rulebook-chess.pdf"
         },
         "board": {
             "total_count": 1,

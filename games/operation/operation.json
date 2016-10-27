@@ -127,6 +127,10 @@
                     "count": 1
                 }
             ]
+        },
+        "rulebook": {
+            "total_count": 1,
+            "file": "rulebook-operation.pdf"
         }
     }
 }

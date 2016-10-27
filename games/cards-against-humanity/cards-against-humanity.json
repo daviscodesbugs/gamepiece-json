@@ -14,7 +14,8 @@
             }
         ],
         "rulebook": {
-            "total_count": 1
+            "total_count": 1,
+            "file": "rulebook-cards-against-humanity.pdf"
         }
     }
 }

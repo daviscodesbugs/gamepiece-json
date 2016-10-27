@@ -3,7 +3,8 @@
     "publisher": "Parker Brothers",
     "pieces": {
         "rulebook": {
-            "total_count": 1
+            "total_count": 1,
+            "file": "rulebook-boggle.pdf"
         },
         "board": {
             "total_count": 1,

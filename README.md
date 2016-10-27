@@ -31,7 +31,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [x] Forbidden Island
  - [x] Go
  - [ ] The Great Dalmuti
- - [ ] _King of Tokyo (in-progress)_
+ - [ ] _King of Tokyo (partial done)_
  - [x] Liar's Dice
  - [x] Love Letter
  - [x] Mancala
@@ -50,7 +50,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [ ] Reversi
  - [ ] Risk
  - [x] Rook
- - [ ] Rummikub
+ - [ ] _Rummikub (partial done)_
  - [ ] Scattergories
  - [ ] Scotland Yard
  - [x] Scrabble
@@ -58,7 +58,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [x] Senet
  - [ ] Sequence
  - [x] Set
- - [ ] _Settlers of Catan (in-progress)_
+ - [ ] _Settlers of Catan (partial done)_
  - [x] Settlers of Catan - Cities & Knights Expansion
  - [x] Settlers of Catan - Explorers & Pirates Expansion
  - [ ] Skip Bo

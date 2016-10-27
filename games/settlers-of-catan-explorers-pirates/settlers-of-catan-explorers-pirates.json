@@ -5,6 +5,10 @@
     "pieces":{
         "game manual":1,
         "game overview":1,
+        "rulebook": {
+            "total_count": 1,
+			"file": "rulebook-settlers-of-clan-explorers-pirates.pdf"
+        }
         "wooden pieces":{
           "total count":118,
           "types":[

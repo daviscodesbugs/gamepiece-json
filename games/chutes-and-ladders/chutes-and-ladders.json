@@ -1,0 +1,21 @@
+{
+    "name": "Chutes and Ladders",
+    "pieces": {
+        "rulebook": {
+            "total_count": 1,
+            "file": "rulebook-chutes-and-ladders.pdf"
+        },
+        "board": {
+            "total_count": 1,
+            "squares": {
+                "total_count": 100
+            }
+        },
+        "spinner": {
+            "total_count": 1
+        },
+        "pawns": {
+            "total_count": 4
+        }
+    }
+}

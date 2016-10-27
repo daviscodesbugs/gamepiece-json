@@ -15,6 +15,10 @@
 					"count": 30
 				}
 			]
-		}
+		},
+		"rulebook": {
+            "total_count": 1,
+            "file": "rulebook-mastermind.pdf"
+        }
 	}
 }

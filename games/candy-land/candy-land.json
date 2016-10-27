@@ -4,7 +4,8 @@
     "edition": "2014",
     "pieces": {
         "rulebook": {
-            "total_count": 1
+            "total_count": 1,
+            "file": "rulebook-candy-land.pdf"
         },
         "board": {
             "total_count": 1

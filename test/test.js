@@ -61,10 +61,12 @@ describe('Reality Check', function () {
             jsonObject = JSON.parse(jsonString);
             hasProperBoard = 0;
             // Check that board has count property and is only 1
-            if (jsonObject.pieces.board) {
-                assert.notEqual(jsonObject.pieces.board.total_count, undefined, path + " has a board without a total count.");
-                assert.equal(jsonObject.pieces.board.total_count, 1, path + " claims there is more than one board.");
-                hasProperBoard = 1;
+            if (jsonObject.pieces) {
+                if (jsonObject.pieces.board) {
+                    assert.notEqual(jsonObject.pieces.board.total_count, undefined, path + " has a board without a total count.");
+                    assert.equal(jsonObject.pieces.board.total_count, 1, path + " claims there is more than one board.");
+                    hasProperBoard = 1;
+                }
             }
             // Check for board attributes elsewhere
             boardAttributeCount = 0;
@@ -82,13 +84,15 @@ describe('Reality Check', function () {
             jsonObject = JSON.parse(jsonString);
             hasProperRulebook = 0;
             // Check that board has count property and is only 1
-            if (jsonObject.pieces.rulebook) {
-                assert.notEqual(jsonObject.pieces.rulebook.total_count, undefined, path + " has a rulebook without a total count.");
-                // caverna does have more than one rulebook
-                if (path.indexOf("caverna") < 0) {
-                    assert.equal(jsonObject.pieces.rulebook.total_count, 1, path + " claims there is more than one rulebook.");
+            if (jsonObject.pieces) {
+                if (jsonObject.pieces.rulebook) {
+                    assert.notEqual(jsonObject.pieces.rulebook.total_count, undefined, path + " has a rulebook without a total count.");
+                    // caverna does have more than one rulebook
+                    if (path.indexOf("caverna") < 0) {
+                        assert.equal(jsonObject.pieces.rulebook.total_count, 1, path + " claims there is more than one rulebook.");
+                    }
+                    hasProperRulebook = 1;
                 }
-                hasProperRulebook = 1;
             }
             // Check for board attributes elsewhere
             rulebookAttributeCount = 0;

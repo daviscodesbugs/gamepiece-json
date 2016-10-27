@@ -2,7 +2,8 @@
   "name": "Rook",
   "pieces": {
     "rulebook": {
-      "total_count": 1
+      "total_count": 1,
+	  "file": "rulebook-rook.pdf"
     },
     "cards": {
       "total_count": 57,

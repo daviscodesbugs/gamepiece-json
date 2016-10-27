@@ -36,6 +36,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [x] Love Letter
  - [x] Mancala
  - [x] Mastermind
+ - [x] Mille Bornes
  - [x] Monopoly
  - [ ] Munchkin
  - [ ] Munchkin - Star Munchkin

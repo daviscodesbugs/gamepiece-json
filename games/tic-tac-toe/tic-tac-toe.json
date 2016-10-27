@@ -12,6 +12,10 @@
         },
         "nought": {
             "total_count": 4
+        },
+        "rulebook": {
+            "total_count": 1,
+			"file": "rulebook-tic-tac-toe.pdf"
         }
     }
 }

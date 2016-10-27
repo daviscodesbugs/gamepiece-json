@@ -1,0 +1,131 @@
+{
+    "name": "The Settlers of Catan 5-6 Player Expansion",
+    "pieces": {
+        "terrain_hexes": {
+            "total_count": 11,
+            "types": [
+                {
+                    "type": "field",
+                    "count": 2
+                },
+                {
+                    "type": "forest",
+                    "count": 2
+                },
+                {
+                    "type": "pasture",
+                    "count": 2
+                },
+                {
+                    "type": "mountains",
+                    "count": 2
+                },
+                {
+                    "type": "hills",
+                    "count": 2
+                },
+                {
+                    "type": "desert",
+                    "count": 1
+                }
+            ]
+        },
+        "sea_hexes": {
+            "total_count": 2,
+            "types": [
+                {
+                    "type": "sea",
+                    "count": 2
+                }
+            ]
+        },
+        "harbor_hexes": {
+            "total_count": 2,
+            "types": [
+                {
+                    "type": "generic",
+                    "count": 1,
+                    "ratio": "3:1"
+                },
+                {
+                    "type": "wool",
+                    "count": 1,
+                    "ratio": "2:1"
+                }
+            ]
+        },
+        "rulebook": {
+            "total_count": 1
+        },
+        "number_chits": {
+            "total_count": 28,
+            "types": [
+                {
+                    "value": 2,
+                    "count": 2
+                },
+                {
+                    "value": 3,
+                    "count": 3
+                },
+                {
+                    "value": 4,
+                    "count": 3
+                },
+                {
+                    "value": 5,
+                    "count": 3
+                },
+                {
+                    "value": 6,
+                    "count": 3
+                },
+                {
+                    "value": 8,
+                    "count": 3
+                },
+                {
+                    "value": 9,
+                    "count": 3
+                },
+                {
+                    "value": 10,
+                    "count": 3
+                },
+                {
+                    "value": 11,
+                    "count": 3
+                },
+                {
+                    "value": 12,
+                    "count": 2
+                }
+            ]
+        },
+        "resource cards":{
+            "total_count":25,
+            "types":[
+                {
+                    "type":"lumber",
+                    "count":5
+                },
+                {
+                    "type":"grain",
+                    "count":5
+                },
+                {
+                    "type":"wool",
+                    "count":5
+                },
+                {
+                    "type":"brick",
+                    "count":5
+                },
+                {
+                    "type":"ore",
+                    "count":5
+                }
+            ]
+        }
+    }
+}

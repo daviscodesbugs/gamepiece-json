@@ -14,7 +14,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [x] Apples to Apples
  - [x] Backgammon
  - [x] Battleship
- - [ ] Blink
+ - [x] Blink
  - [ ] Blokus
  - [x] Boggle
  - [ ] Canasta

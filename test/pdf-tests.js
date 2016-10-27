@@ -9,7 +9,6 @@ pdfFileNames = fileNames.filter(function (x) {
 
 describe('Rulebooks', function () {
     pdfFileNames.forEach(function (path) {
-		console.log(path);
         it(path, function () {
             assert(path.includes('/rulebook-'), path + " is improperly formatted.");
             assert.equal(path, path.toLowerCase(), path + " has uppercase letters.");

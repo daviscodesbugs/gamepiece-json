@@ -3,7 +3,8 @@
     "publisher": "Bezier Games, Inc.",
     "pieces" : {
         "rulebook": {
-            "total_count": 1
+            "total_count": 1,
+            "file": "rulebook-one-night-ultimate-werewolf.pdf"
         },
         "tokens": {
             "total_count": 16,

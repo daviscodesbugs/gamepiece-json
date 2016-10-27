@@ -8,9 +8,6 @@ fileNames = read('./games');
 jsonFileNames = fileNames.filter(function (x) {
     return filepath.extname(x) === '.json';
 });
-pdfFileNames = fileNames.filter(function (x) {
-    return filepath.extname(x) === '.pdf';
-});
 
 describe('JSON Lint', function () {
     jsonFileNames.forEach(function (path) {
@@ -18,14 +15,6 @@ describe('JSON Lint', function () {
             jsonString = fs.readFileSync('./games/' + path);
             var linted = lint(jsonString.toString());
             assert.equal(undefined, linted.error);
-        });
-    });
-});
-describe('Rulebooks', function () {
-    pdfFileNames.forEach(function (path) {
-        it(path, function () {
-            assert(path.includes('/rulebook-'), path + " is improperly formatted.");
-            assert.equal(path, path.toLowerCase(), path + " has uppercase letters.");
         });
     });
 });

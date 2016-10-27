@@ -1,5 +1,8 @@
 [![Travis](https://img.shields.io/travis/daviscodesbugs/gamepiece-json.svg?maxAge=30)](https://travis-ci.org/daviscodesbugs/gamepiece-json)
-[![AUR](https://img.shields.io/aur/license/yaourt.svg?maxAge=30)](#)
+[![AUR](https://img.shields.io/aur/license/yaourt.svg?maxAge=30)](https://github.com/daviscodesbugs/gamepiece-json)  
+[![GitHub watchers](https://img.shields.io/github/watchers/daviscodesbugs/gamepiece-json.svg?style=social&label=Watch)](https://github.com/daviscodesbugs/gamepiece-json)
+[![GitHub stars](https://img.shields.io/github/stars/daviscodesbugs/gamepiece-json.svg?style=social&label=Star)](https://github.com/daviscodesbugs/gamepiece-json)
+[![GitHub forks](https://img.shields.io/github/forks/daviscodesbugs/gamepiece-json.svg?style=social&label=Fork)](https://github.com/daviscodesbugs/gamepiece-json)
 
 # Gamepiece JSON
 A collection of json files describing the pieces of board/card games

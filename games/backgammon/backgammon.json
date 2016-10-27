@@ -3,7 +3,8 @@
     "player_count": 2,
     "pieces": {
         "rulebook": {
-            "total_count": 1
+            "total_count": 1,
+			"file": "rulebook-backgammon.pdf"
         },
         "board": {
             "total_count": 1,

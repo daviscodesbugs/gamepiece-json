@@ -1,0 +1,17 @@
+{
+	"name": "Tic-Tac_Toe",
+	"pieces": {
+		"board": {
+			"total_count": 1,
+			"squares": {
+				"total_count": 9
+				}
+			},
+		"Cross": {
+			"total_count": 5
+			},
+		"Nought": {
+			"total_count": 4
+			}
+		}
+}

@@ -1,75 +1,75 @@
 {
     "name": "Exploding Kittens",
     "pieces": {
-    	"cards": {
-    		"total_count" : 56,
-    		"types": [
-    			{
-    				"type": "Defuse",
-    				"count": 6
-    			},
-    			{
-    				"type": "Nope",
-    				"count": 5
-    			},
-    			{
-    				"type": "Exploding Kitten",
-    				"count": 4
-    			},
-    			{
-    				"type": "Attack",
-    				"count": 4
-    			},
-    			{
-    				"type": "Skip",
-    				"count": 4
-    			},
-    			{
-    				"type": "Favor",
-    				"count": 4
-    			},
-    			{
-    				"type": "Shuffle",
-    				"count": 4
-    			},
-    			{
-    				"type": "See the Future",
-    				"count": 5
-    			},
-    			{
-    				"type": "cat",
-    				"count": 20,
-            "values": [
-              {
-                "name": "Beard Cat",
-                "flavorText": "",
-                "count": 4
-              },
-              {
-                "name": "Cattermelon",
-                "flavorText": "HACK THOOP!",
-                "count": 4
-              },
-              {
-                "name": "Hairy Potato Cat",
-                "flavorText": "",
-                "count": 4
-              },
-              {
-                "name": "Rainbow-Ralphing Cat",
-                "flavorText": "HRNNGGGG!",
-                "count": 4
-              },
-              {
-                "name": "Tacocat",
-                "flavorText": "I AM A PALINDROME!",
-                "count": 4
-              }
-            ]
-    			}
-    		]
-    	},
-    	"rulebook": {
+        "cards": {
+            "total_count" : 56,
+            "types": [
+                {
+                    "type": "Defuse",
+                    "count": 6
+                },
+                {
+                    "type": "Nope",
+                    "count": 5
+                },
+                {
+                    "type": "Exploding Kitten",
+                    "count": 4
+                },
+                {
+                    "type": "Attack",
+                    "count": 4
+                },
+                {
+                    "type": "Skip",
+                    "count": 4
+                },
+                {
+                    "type": "Favor",
+                    "count": 4
+                },
+                {
+                    "type": "Shuffle",
+                    "count": 4
+                },
+                {
+                    "type": "See the Future",
+                    "count": 5
+                },
+                {
+                    "type": "cat",
+                    "count": 20,
+                    "values": [
+                        {
+                            "name": "Beard Cat",
+                            "flavorText": "",
+                            "count": 4
+                        },
+                        {
+                            "name": "Cattermelon",
+                            "flavorText": "HACK THOOP!",
+                            "count": 4
+                        },
+                        {
+                            "name": "Hairy Potato Cat",
+                            "flavorText": "",
+                            "count": 4
+                        },
+                        {
+                            "name": "Rainbow-Ralphing Cat",
+                            "flavorText": "HRNNGGGG!",
+                            "count": 4
+                        },
+                        {
+                            "name": "Tacocat",
+                            "flavorText": "I AM A PALINDROME!",
+                            "count": 4
+                        }
+                    ]
+    			      }
+    		    ]
+    	  },
+    	  "rulebook": {
             "total_count": 1
         }
     }

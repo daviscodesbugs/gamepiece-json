@@ -60,6 +60,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [ ] Sequence
  - [x] Set
  - [ ] _Settlers of Catan (partial done)_
+ - [x] Settlers of Catan - 5-6 Player Expansion
  - [x] Settlers of Catan - Cities & Knights Expansion
  - [x] Settlers of Catan - Explorers & Pirates Expansion
  - [ ] Skip Bo

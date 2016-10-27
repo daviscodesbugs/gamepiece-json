@@ -26,7 +26,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [x] Caverna
  - [x] Chinese Checkers
  - [x] Chinese Chess
- - [ ] Chutes and Ladders
+ - [x] Chutes and Ladders
  - [x] Clue
  - [ ] Dominion
  - [x] Exploding Kittens

@@ -92,6 +92,7 @@
                 },
                 {
                     "type": "sorry",
+                    "value": "SORRY",
                     "description": "MUST TAKE ONE MAN FROM YOUR START - PLACE IT ON ANY MARGIN SQUARE OCCUPIED BY ANY OPPONENT AND RETURN THAT OPPONENTS MAN TO ITS START."
                     "count": 4
                 }

@@ -1,0 +1,376 @@
+{
+    "name": "Blink",
+    "publisher": "Mattel",
+    "edition": "T5931",
+    "pieces": {
+        "cards": {
+            "total_count": 60,
+            "types": [
+                {
+                    "color": "blue",
+                    "shape": "bolt",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "blue",
+                    "shape": "bolt",
+                    "number": 4,
+                    "count": 1
+                },
+                {
+                    "color": "blue",
+                    "shape": "crescent",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "blue",
+                    "shape": "droplet",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "blue",
+                    "shape": "droplet",
+                    "number": 5,
+                    "count": 1
+                },
+                {
+                    "color": "blue",
+                    "shape": "flower",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "blue",
+                    "shape": "star",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "blue",
+                    "shape": "star",
+                    "number": 4,
+                    "count": 1
+                },
+                {
+                    "color": "blue",
+                    "shape": "triangle",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "blue",
+                    "shape": "triangle",
+                    "number": 5,
+                    "count": 1
+                },
+                {
+                    "color": "brown",
+                    "shape": "bolt",
+                    "number": 4,
+                    "count": 1
+                },
+                {
+                    "color": "brown",
+                    "shape": "bolt",
+                    "number": 5,
+                    "count": 1
+                },
+                {
+                    "color": "brown",
+                    "shape": "crescent",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "brown",
+                    "shape": "droplet",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "brown",
+                    "shape": "flower",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "brown",
+                    "shape": "flower",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "brown",
+                    "shape": "star",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "brown",
+                    "shape": "star",
+                    "number": 5,
+                    "count": 1
+                },
+                {
+                    "color": "brown",
+                    "shape": "triangle",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "brown",
+                    "shape": "triangle",
+                    "number": 4,
+                    "count": 1
+                },
+                {
+                    "color": "gray",
+                    "shape": "bolt",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "gray",
+                    "shape": "bolt",
+                    "number": 5,
+                    "count": 1
+                },
+                {
+                    "color": "gray",
+                    "shape": "crescent",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "gray",
+                    "shape": "crescent",
+                    "number": 5,
+                    "count": 1
+                },
+                {
+                    "color": "gray",
+                    "shape": "droplet",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "gray",
+                    "shape": "droplet",
+                    "number": 4,
+                    "count": 1
+                },
+                {
+                    "color": "gray",
+                    "shape": "flower",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "gray",
+                    "shape": "flower",
+                    "number": 4,
+                    "count": 1
+                },
+                {
+                    "color": "gray",
+                    "shape": "star",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "gray",
+                    "shape": "triangle",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "green",
+                    "shape": "bolt",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "green",
+                    "shape": "crescent",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "green",
+                    "shape": "crescent",
+                    "number": 4,
+                    "count": 1
+                },
+                {
+                    "color": "green",
+                    "shape": "droplet",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "green",
+                    "shape": "droplet",
+                    "number": 4,
+                    "count": 1
+                },
+                {
+                    "color": "green",
+                    "shape": "flower",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "green",
+                    "shape": "flower",
+                    "number": 5,
+                    "count": 1
+                },
+                {
+                    "color": "green",
+                    "shape": "star",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "green",
+                    "shape": "star",
+                    "number": 5,
+                    "count": 1
+                },
+                {
+                    "color": "green",
+                    "shape": "triangle",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "red",
+                    "shape": "bolt",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "red",
+                    "shape": "bolt",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "red",
+                    "shape": "crescent",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "red",
+                    "shape": "crescent",
+                    "number": 5,
+                    "count": 1
+                },
+                {
+                    "color": "red",
+                    "shape": "droplet",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "red",
+                    "shape": "flower",
+                    "number": 4,
+                    "count": 1
+                },
+                {
+                    "color": "red",
+                    "shape": "flower",
+                    "number": 5,
+                    "count": 1
+                },
+                {
+                    "color": "red",
+                    "shape": "star",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "red",
+                    "shape": "triangle",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "red",
+                    "shape": "triangle",
+                    "number": 4,
+                    "count": 1
+                },
+                {
+                    "color": "yellow",
+                    "shape": "bolt",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "yellow",
+                    "shape": "crescent",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "yellow",
+                    "shape": "crescent",
+                    "number": 4,
+                    "count": 1
+                },
+                {
+                    "color": "yellow",
+                    "shape": "droplet",
+                    "number": 2,
+                    "count": 1
+                },
+                {
+                    "color": "yellow",
+                    "shape": "droplet",
+                    "number": 5,
+                    "count": 1
+                },
+                {
+                    "color": "yellow",
+                    "shape": "flower",
+                    "number": 3,
+                    "count": 1
+                },
+                {
+                    "color": "yellow",
+                    "shape": "star",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "yellow",
+                    "shape": "star",
+                    "number": 4,
+                    "count": 1
+                },
+                {
+                    "color": "yellow",
+                    "shape": "triangle",
+                    "number": 1,
+                    "count": 1
+                },
+                {
+                    "color": "yellow",
+                    "shape": "triangle",
+                    "number": 5,
+                    "count": 1
+                }
+            ]
+        },
+        "rulebook": {
+            "total_count": 1,
+            "file": "rulebook-blink.pdf"
+        }
+    }
+}

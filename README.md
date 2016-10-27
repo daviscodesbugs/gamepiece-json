@@ -69,7 +69,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [ ] Skip Bo
  - [ ] Slamwich
  - [ ] Small World
- - [ ] Sorry!
+ - [x] Sorry!
  - [x] Sushi Go
  - [ ] Taboo
  - [x] Tic Tac Toe

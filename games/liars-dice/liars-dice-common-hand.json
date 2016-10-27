@@ -9,7 +9,8 @@
             "total_count": 10
         },
         "rulebook": {
-            "total_count": 1
+            "total_count": 1,
+            "file": "rulebook-liars-dice.pdf"
         }
     }
 }

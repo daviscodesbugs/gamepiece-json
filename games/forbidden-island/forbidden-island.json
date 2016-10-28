@@ -164,9 +164,6 @@
                 }
             ]
         },
-        "rulebook": {
-            "total_count": 1
-        },
         "island_tiles": {
             "total_count": 24,
             "types": [

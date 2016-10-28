@@ -252,6 +252,10 @@
                   "count":10
               }
           ]
+        },
+		"rulebook": {
+            "total_count": 1,
+			"file": "rulebook-settlers-of-catan-explorers-pirates.pdf"
         }
     }
 }

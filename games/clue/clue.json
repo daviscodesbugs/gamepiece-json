@@ -43,6 +43,10 @@
                     "count": 13
                 }
             ]
+        },
+        "rulebook": {
+            "total_count": 1,
+            "file": "rulebook-clue.pdf"
         }
     }
 }

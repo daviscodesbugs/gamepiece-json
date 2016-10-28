@@ -1,5 +1,9 @@
 {
     "name": "Sorry",
+    "rulebook": {
+        "total_count": 1,
+        "file": "rulebook-sorry.pdf"
+    },
     "pieces": {
         "board": {
             "total_count": 1

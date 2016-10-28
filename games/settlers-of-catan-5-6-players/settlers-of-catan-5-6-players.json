@@ -54,9 +54,6 @@
                 }
             ]
         },
-        "rulebook": {
-            "total_count": 1
-        },
         "number_chits": {
             "total_count": 28,
             "types": [
@@ -126,6 +123,10 @@
                     "count": 5
                 }
             ]
+        },
+        "rulebook": {
+            "total_count": 1,
+            "file": "rulebook-settlers-of-catan-5-6-players.pdf"
         }
     }
 }

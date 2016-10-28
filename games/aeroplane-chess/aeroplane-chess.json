@@ -32,6 +32,10 @@
             "count": 1,
             "sides": 6,
             "available_value": [1,2,3,4,5,6]
+        },
+        "rulebook": {
+            "total_count": 1,
+            "file": "rulebook-aeroplane-chess.pdf"
         }
     }
 }

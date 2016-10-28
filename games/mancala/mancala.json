@@ -10,6 +10,10 @@
         },
         "stones": {
             "total_count": 48
+        },
+        "rulebook": {
+            "total_count": 1,
+            "file": "rulebook-mancala.pdf"
         }
     }
 }

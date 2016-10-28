@@ -77,3 +77,4 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [ ] Trouble
  - [x] Uno
  - [x] Yahtzee
+ - [ ] Zomiecide

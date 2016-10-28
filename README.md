@@ -60,7 +60,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [x] Scrabble
  - [ ] Scum
  - [x] Senet
- - [ ] Sequence
+ - [x] Sequence
  - [x] Set
  - [ ] _Settlers of Catan (partial done)_
  - [x] Settlers of Catan - 5-6 Player Expansion

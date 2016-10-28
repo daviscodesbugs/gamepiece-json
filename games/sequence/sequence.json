@@ -1,0 +1,374 @@
+{
+    "name": "Sequence",
+    "pieces": {
+        "rulebook": {
+            "total_count": 1,
+            "file": "rulebook-sequence.pdf"
+        },
+        "board": {
+            "total_count": 1
+        },
+        "chips": [
+            {
+                "total_count": 135,
+                "colors": [
+                    {
+                        "color": "green",
+                        "count": 50
+                    },
+                    {
+                        "color": "blue",
+                        "count": 50
+                    },
+                    {
+                        "color": "red",
+                        "count": 35
+                    }
+                ]
+            }
+        ],
+        "cards": [
+            {
+                "total_count": 104,
+                "types": [
+                    {
+                        "type": "Hearts",
+                        "total_count": 26,
+                        "values": [
+                            {
+                                "name": "Ace of Hearts",
+                                "color": "red",
+                                "value": 1,
+                                "count": 2
+                            },
+                            {
+                                "name": "2 of Hearts",
+                                "color": "red",
+                                "value": 2,
+                                "count": 2
+                            },
+                            {
+                                "name": "3 of Hearts",
+                                "color": "red",
+                                "value": 3,
+                                "count": 2
+                            },
+                            {
+                                "name": "4 of Hearts",
+                                "color": "red",
+                                "value": 4,
+                                "count": 2
+                            },
+                            {
+                                "name": "5 of Hearts",
+                                "color": "red",
+                                "value": 5,
+                                "count": 2
+                            },
+                            {
+                                "name": "6 of Hearts",
+                                "color": "red",
+                                "value": 6,
+                                "count": 2
+                            },
+                            {
+                                "name": "7 of Hearts",
+                                "color": "red",
+                                "value": 7,
+                                "count": 2
+                            },
+                            {
+                                "name": "8 of Hearts",
+                                "color": "red",
+                                "value": 8,
+                                "count": 2
+                            },
+                            {
+                                "name": "9 of Hearts",
+                                "color": "red",
+                                "value": 9,
+                                "count": 2
+                            },
+                            {
+                                "name": "10 of Hearts",
+                                "color": "red",
+                                "value": 10,
+                                "count": 2
+                            },
+                            {
+                                "name": "Jack of Hearts",
+                                "color": "red",
+                                "value": 11,
+                                "count": 2
+                            },
+                            {
+                                "name": "Queen of Hearts",
+                                "color": "red",
+                                "value": 12,
+                                "count": 2
+                            },
+                            {
+                                "name": "King of Hearts",
+                                "color": "red",
+                                "value": 13,
+                                "count": 2
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Diamonds",
+                        "total_count": 26,
+                        "values": [
+                            {
+                                "name": "Ace of Diamonds",
+                                "color": "red",
+                                "value": 1,
+                                "count": 2
+                            },
+                            {
+                                "name": "2 of Diamonds",
+                                "color": "red",
+                                "value": 2,
+                                "count": 2
+                            },
+                            {
+                                "name": "3 of Diamonds",
+                                "color": "red",
+                                "value": 3,
+                                "count": 2
+                            },
+                            {
+                                "name": "4 of Diamonds",
+                                "color": "red",
+                                "value": 4,
+                                "count": 2
+                            },
+                            {
+                                "name": "5 of Diamonds",
+                                "color": "red",
+                                "value": 5,
+                                "count": 2
+                            },
+                            {
+                                "name": "6 of Diamonds",
+                                "color": "red",
+                                "value": 6,
+                                "count": 2
+                            },
+                            {
+                                "name": "7 of Diamonds",
+                                "color": "red",
+                                "value": 7,
+                                "count": 2
+                            },
+                            {
+                                "name": "8 of Diamonds",
+                                "color": "red",
+                                "value": 8,
+                                "count": 2
+                            },
+                            {
+                                "name": "9 of Diamonds",
+                                "color": "red",
+                                "value": 9,
+                                "count": 2
+                            },
+                            {
+                                "name": "10 of Diamonds",
+                                "color": "red",
+                                "value": 10,
+                                "count": 2
+                            },
+                            {
+                                "name": "Jack of Diamonds",
+                                "color": "red",
+                                "value": 11,
+                                "count": 2
+                            },
+                            {
+                                "name": "Queen of Diamonds",
+                                "color": "red",
+                                "value": 12,
+                                "count": 2
+                            },
+                            {
+                                "name": "King of Diamonds",
+                                "color": "red",
+                                "value": 13,
+                                "count": 2
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Spades",
+                        "total_count": 26,
+                        "values": [
+                            {
+                                "name": "Ace of Spades",
+                                "color": "black",
+                                "value": 1,
+                                "count": 2
+                            },
+                            {
+                                "name": "2 of Spades",
+                                "color": "black",
+                                "value": 2,
+                                "count": 2
+                            },
+                            {
+                                "name": "3 of Spades",
+                                "color": "black",
+                                "value": 3,
+                                "count": 2
+                            },
+                            {
+                                "name": "4 of Spades",
+                                "color": "black",
+                                "value": 4,
+                                "count": 2
+                            },
+                            {
+                                "name": "5 of Spades",
+                                "color": "black",
+                                "value": 5,
+                                "count": 2
+                            },
+                            {
+                                "name": "6 of Spades",
+                                "color": "black",
+                                "value": 6,
+                                "count": 2
+                            },
+                            {
+                                "name": "7 of Spades",
+                                "color": "black",
+                                "value": 7,
+                                "count": 2
+                            },
+                            {
+                                "name": "8 of Spades",
+                                "color": "black",
+                                "value": 8,
+                                "count": 2
+                            },
+                            {
+                                "name": "9 of Spades",
+                                "color": "black",
+                                "value": 9,
+                                "count": 2
+                            },
+                            {
+                                "name": "10 of Spades",
+                                "color": "black",
+                                "value": 10,
+                                "count": 2
+                            },
+                            {
+                                "name": "Jack of Spades",
+                                "color": "black",
+                                "value": 11,
+                                "count": 2
+                            },
+                            {
+                                "name": "Queen of Spades",
+                                "color": "black",
+                                "value": 12,
+                                "count": 2
+                            },
+                            {
+                                "name": "King of Spades",
+                                "color": "black",
+                                "value": 13,
+                                "count": 2
+                            }
+                        ]
+                    },
+                    {
+                        "type": "Clubs",
+                        "total_count": 26,
+                        "values": [
+                            {
+                                "name": "Ace of Clubs",
+                                "color": "black",
+                                "value": 1,
+                                "count": 2
+                            },
+                            {
+                                "name": "2 of Clubs",
+                                "color": "black",
+                                "value": 2,
+                                "count": 2
+                            },
+                            {
+                                "name": "3 of Clubs",
+                                "color": "black",
+                                "value": 3,
+                                "count": 2
+                            },
+                            {
+                                "name": "4 of Clubs",
+                                "color": "black",
+                                "value": 4,
+                                "count": 2
+                            },
+                            {
+                                "name": "5 of Clubs",
+                                "color": "black",
+                                "value": 5,
+                                "count": 2
+                            },
+                            {
+                                "name": "6 of Clubs",
+                                "color": "black",
+                                "value": 6,
+                                "count": 2
+                            },
+                            {
+                                "name": "7 of Clubs",
+                                "color": "black",
+                                "value": 7,
+                                "count": 2
+                            },
+                            {
+                                "name": "8 of Clubs",
+                                "color": "black",
+                                "value": 8,
+                                "count": 2
+                            },
+                            {
+                                "name": "9 of Clubs",
+                                "color": "black",
+                                "value": 9,
+                                "count": 2
+                            },
+                            {
+                                "name": "10 of Clubs",
+                                "color": "black",
+                                "value": 10,
+                                "count": 2
+                            },
+                            {
+                                "name": "Jack of Clubs",
+                                "color": "black",
+                                "value": 11,
+                                "count": 2
+                            },
+                            {
+                                "name": "Queen of Clubs",
+                                "color": "black",
+                                "value": 12,
+                                "count": 2
+                            },
+                            {
+                                "name": "King of Clubs",
+                                "color": "black",
+                                "value": 13,
+                                "count": 2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -52,6 +52,14 @@ describe('Syntax', function () {
             assert.equal(path, path.toLowerCase(), path + " has uppercase letters.");
         });
     });
+    it('spaces in keys', function () {
+        jsonFileNames.forEach(function (path) {
+            jsonString = fs.readFileSync('./games/' + path).toString();
+            JSON.parse(jsonString, function (k, v) {
+                assert(k.indexOf(" ") < 0, path + " contains spaces in it's key '" + k + "'");
+            });
+        });
+    });
 });
 
 describe('Reality Check', function () {

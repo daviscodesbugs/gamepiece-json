@@ -102,28 +102,28 @@
                 }
             ]
         },
-        "resource cards":{
-            "total_count":25,
-            "types":[
+        "resource_cards": {
+            "total_count": 25,
+            "types": [
                 {
-                    "type":"lumber",
-                    "count":5
+                    "type": "lumber",
+                    "count": 5
                 },
                 {
-                    "type":"grain",
-                    "count":5
+                    "type": "grain",
+                    "count": 5
                 },
                 {
-                    "type":"wool",
-                    "count":5
+                    "type": "wool",
+                    "count": 5
                 },
                 {
-                    "type":"brick",
-                    "count":5
+                    "type": "brick",
+                    "count": 5
                 },
                 {
-                    "type":"ore",
-                    "count":5
+                    "type": "ore",
+                    "count": 5
                 }
             ]
         }

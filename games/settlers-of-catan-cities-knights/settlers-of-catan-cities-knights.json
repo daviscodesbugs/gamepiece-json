@@ -3,12 +3,12 @@
     "edition": "Cities & Knights",
     "publisher": "Mayfair Games",
     "pieces": {
-        "development flip-charts": 4,
-        "barbarian tile": 1,
-        "metropolis tokens": 4,
-        "knight labels": 48,
-        "victory point cards": 6,
-        "commodity cards": {
+        "development_flip-charts": 4,
+        "barbarian_tile": 1,
+        "metropolis_tokens": 4,
+        "knight_labels": 48,
+        "victory_point_cards": 6,
+        "commodity_cards": {
             "total_count": 36,
             "types": [
                 {
@@ -25,8 +25,8 @@
                 }
             ]
         },
-        "progress cards": {
-            "total count": 54,
+        "progress_cards": {
+            "total_count": 54,
             "types": [
                 {
                     "type": "trade",
@@ -43,7 +43,7 @@
             ]
         },
         "pieces": {
-            "total count": 41,
+            "total_count": 41,
             "types": [
                 {
                     "type": "city walls",

@@ -4,6 +4,10 @@
         "board": {
             "total_count": 1
         },
+        "rulebook": {
+            "total_count": 1,
+            "file": "rulebook-sorry.pdf"
+        },
         "pawns": [
             {
                 "total_count": 16,

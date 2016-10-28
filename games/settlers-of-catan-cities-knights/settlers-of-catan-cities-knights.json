@@ -3,7 +3,6 @@
     "edition": "Cities & Knights",
     "publisher": "Mayfair Games",
     "pieces": {
-        "game manual": 1,
         "development flip-charts": 4,
         "barbarian tile": 1,
         "metropolis tokens": 4,
@@ -103,6 +102,10 @@
                 }
             ]
         },
-        "dice": 1
+        "dice": 1,
+        "rulebook": {
+            "total_count": 1,
+            "file": "rulebook-settlers-of-catan-cities-knights.pdf"
+        }
     }
 }

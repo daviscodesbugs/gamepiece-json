@@ -48,13 +48,13 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [ ] Old Maid
  - [x] One Night Ultimate Werewolf
  - [x] Operation
- - [ ] Othello
+ - [x] Othello
  - [ ] Pandemic
  - [x] Phase 10
  - [ ] Pictionary
  - [x] Playing Cards
  - [x] Quiddler
- - [ ] Reversi (see Othello)
+ - [x] Reversi (see Othello)
  - [ ] Risk
  - [x] Rook
  - [ ] _Rummikub (partial done)_

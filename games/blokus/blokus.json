@@ -1,0 +1,29 @@
+{
+    "name": "Blokus",
+    "pieces": {
+        "game_board": {
+            "total_count": 1
+        },
+        "pieces": {
+            "total_count": 84,
+            "types": [
+                {
+                    "type": "red",
+                    "count": 21
+                },
+                {
+                    "type": "blue",
+                    "count": 21
+                },
+                {
+                    "type": "green",
+                    "count": 21
+                },
+                {
+                    "type": "yellow",
+                    "count": 21
+                }
+            ]
+        }
+    }
+}

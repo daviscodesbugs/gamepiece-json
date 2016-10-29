@@ -1,51 +1,51 @@
 {
-    "name" : "R",
+    "name": "R",
     "publisher": "999 Games, Blue Orange (EU), Blue Orange Games, Japon Brand, Kanai Factory, Pegasus Spiele and QBIST",
-    "pieces" : {
-        "rulebook" : {
+    "pieces": {
+        "rulebook": {
             "total_count": 1,
             "file": "rulebook-r.pdf"
         },
         "cards": {
-            "total_count" : 16,
-            "types" : [
+            "total_count": 16,
+            "types": [
                 {
-                    "type" : "Prince",
+                    "type": "Prince",
                     "total_count": 2,
                     "value": 7
                 },
                 {
-                    "type" : "General",
+                    "type": "General",
                     "total_count": 2,
                     "value": 6
                 },
                 {
-                    "type" : "Magician",
+                    "type": "Magician",
                     "total_count": 2,
                     "value": 5
                 },
                 {
-                    "type" : "Minister",
+                    "type": "Minister",
                     "total_count": 2,
                     "value": 4
                 },
                 {
-                    "type" : "Assassin",
+                    "type": "Assassin",
                     "total_count": 2,
                     "value": 3
                 },
                 {
-                    "type" : "Spy",
+                    "type": "Spy",
                     "total_count": 2,
                     "value": 2
                 },
                 {
-                    "type" : "Princess",
+                    "type": "Princess",
                     "total_count": 2,
                     "value": 1
                 },
                 {
-                    "type" : "Jester",
+                    "type": "Jester",
                     "total_count": 2,
                     "value": 0
                 }

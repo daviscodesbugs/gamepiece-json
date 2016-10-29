@@ -1,0 +1,20 @@
+{
+    "name": "Othello",
+    "synonym": "Reversi",
+    "publisher": "Mattel",
+    "pieces": {
+        "rulebook": {
+            "total_count": 1,
+            "file": "rulebook-othello.pdf"
+        },
+        "game_board": {
+            "total_count": 1
+        },
+        "rubber_feet": {
+            "total_count": 6
+        },        
+        "pieces": {
+            "total_count": 64            
+        }
+    }
+}

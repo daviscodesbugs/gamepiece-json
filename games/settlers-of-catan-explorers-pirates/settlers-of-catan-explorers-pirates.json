@@ -3,7 +3,6 @@
     "edition": "Explorers & Pirates",
     "publisher": "Mayfair Games",
     "pieces": {
-        "game_manual": 1,
         "game_overview": 1,
         "wooden_pieces": {
             "total_count": 118,

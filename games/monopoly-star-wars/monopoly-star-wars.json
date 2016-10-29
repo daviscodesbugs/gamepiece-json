@@ -3,7 +3,6 @@
     "edition": "Star Wars Original Trilogy Edition",
     "publisher": "Hasbro",
     "pieces": {
-        "game_manual": 1,
         "game_board": 1,
         "banker's_tray": 1,
         "cards": {

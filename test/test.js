@@ -44,6 +44,7 @@ describe('Syntax', function () {
                 assert.notEqual(k, "rules", path + " contains key 'rules' instead of 'rulebook'");
                 assert.notEqual(k, "rulebooks", path + " contains key 'rulebooks' instead of 'rulebook'");
                 assert.notEqual(k, "rule_book", path + " contains key 'rule_book' instead of 'rulebook'");
+                assert.notEqual(k, "game_manual", path + " contains key 'game_manual' instead of 'rulebook'");
             });
         });
     });

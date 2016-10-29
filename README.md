@@ -36,7 +36,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [x] Go
  - [ ] The Great Dalmuti
  - [x] Hanabi
- - [ ] _King of Tokyo (partial done)_
+ - [x] King of Tokyo
  - [x] Liar's Dice
  - [x] Love Letter
  - [x] Mancala

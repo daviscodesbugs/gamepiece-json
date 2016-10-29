@@ -1,0 +1,22 @@
+{
+    "name": "Reversi",
+    "synonym": "Othello",
+    "pieces": {
+        "game_board": {
+            "total_count": 1
+        },
+        "pieces": {
+            "total_count": 64,
+            "types": [
+                {
+                    "type": "black",
+                    "count": 32
+                },
+                {
+                    "type": "white",
+                    "count": 32
+                }
+            ]
+        }
+    }
+}

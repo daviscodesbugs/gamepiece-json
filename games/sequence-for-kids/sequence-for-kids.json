@@ -1,0 +1,126 @@
+{
+    "name": "Sequence for Kids",
+    "pieces": {
+        "rulebook": {
+            "total_count": 1,
+            "file": "rulebook-sequence-for-kids.pdf"
+        },
+        "board": {
+            "total_count": 1
+        },
+        "chips": [
+            {
+                "total_count": 84,
+                "colors": [
+                    {
+                        "color": "green",
+                        "count": 21
+                    },
+                    {
+                        "color": "blue",
+                        "count": 21
+                    },
+                    {
+                        "color": "red",
+                        "count": 21
+                    },
+                    {
+                        "color": "yellow",
+                        "count": 21
+                    }
+                ]
+            }
+        ],
+        "cards": [
+            {
+                "total_count": 42,
+                "values": [
+                    {
+                        "value": "Alice the ALLIGATOR",
+                        "count": 2
+                    },
+                    {
+                        "value": "Camille the CAMEL",
+                        "count": 2
+                    },
+                    {
+                        "value": "Dorthy the DRAGON",
+                        "count": 2
+                    },
+                    {
+                        "value": "Eddy the ELEPHANT",
+                        "count": 2
+                    },
+                    {
+                        "value": "Francie the FOX",
+                        "count": 2
+                    },
+                    {
+                        "value": "Gerry the GIRAFFE",
+                        "count": 2
+                    },
+                    {
+                        "value": "Gloria the GORILLA",
+                        "count": 2
+                    },
+                    {
+                        "value": "Henry the HIPPOPOTAMUS",
+                        "count": 2
+                    },
+                    {
+                        "value": "Katie the KANGAROO",
+                        "count": 2
+                    },
+                    {
+                        "value": "Lucas the LION",
+                        "count": 2
+                    },
+                    {
+                        "value": "Monte the MOOSE",
+                        "count": 2
+                    },
+                    {
+                        "value": "Olga the OSTRICH",
+                        "count": 2
+                    },
+                    {
+                        "value": "Poly the PANDA BEAR",
+                        "count": 2
+                    },
+                    {
+                        "value": "Percy the PENGUIN",
+                        "count": 2
+                    },
+                    {
+                        "value": "Sherman the SHARK",
+                        "count": 2
+                    },
+                    {
+                        "value": "Trevor the TIGER",
+                        "count": 2
+                    },
+                    {
+                        "value": "Tilly the TURTLE",
+                        "count": 2
+                    },
+                    {
+                        "value": "Ulysses the UNICORN",
+                        "count": 2
+                    },
+                    {
+                        "value": "Wally the WHALE",
+                        "count": 2
+                    },
+                    {
+                        "value": "Willie the WOLF",
+                        "count": 2
+                    },
+                    {
+                        "value": "Zelda the Zebra",
+                        "count": 2
+                    }
+                ]
+            }
+        ]
+    }
+}

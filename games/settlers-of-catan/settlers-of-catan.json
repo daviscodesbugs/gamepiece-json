@@ -1,10 +1,9 @@
 {
     "name": "The Settlers of Catan",
     "pieces": {
-	    "rulebook": {
-		"total_count": 1,
-		"file": "rulebook-settlers-of-catan.pdf"
-    	},
+        "rulebook": {
+            "total_count": 1
+        },
         "terrain_hexes": {
             "total_count": 19,
             "types": [
@@ -77,9 +76,6 @@
                     "ratio": "2:1"
                 }
             ]
-        },
-        "rulebook": {
-            "total_count": 1
         },
         "number_chits": {
             "total_count": 18,

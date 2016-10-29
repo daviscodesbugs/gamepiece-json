@@ -31,7 +31,14 @@
             "description": "Roll them and fly the planes",
             "count": 1,
             "sides": 6,
-            "available_value": [1,2,3,4,5,6]
+            "available_value": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ]
         },
         "rulebook": {
             "total_count": 1,

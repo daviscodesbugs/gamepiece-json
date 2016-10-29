@@ -1,8 +1,8 @@
 {
-    "name" : "Love Letter",
+    "name": "Love Letter",
     "publisher": "Alderac Entertainment Group",
-    "pieces" : {
-        "rulebook" : {
+    "pieces": {
+        "rulebook": {
             "total_count": 1,
             "file": "rulebook-love-letter.pdf"
         },
@@ -10,35 +10,35 @@
             "total_count": 13
         },
         "cards": {
-            "total_count" : 20,
-            "types" : [
+            "total_count": 20,
+            "types": [
                 {
-                    "type" : "reference-card",
+                    "type": "reference-card",
                     "total_count": 4,
                     "value": null
                 },
                 {
-                    "type" : "Guard",
+                    "type": "Guard",
                     "total_count": 5,
                     "value": 1
                 },
                 {
-                    "type" : "Priest",
+                    "type": "Priest",
                     "total_count": 2,
                     "value": 2
                 },
                 {
-                    "type" : "Baron",
+                    "type": "Baron",
                     "total_count": 2,
                     "value": 3
                 },
                 {
-                    "type" : "Handmaid",
+                    "type": "Handmaid",
                     "total_count": 2,
                     "value": 4
                 },
                 {
-                    "type" : "Prince",
+                    "type": "Prince",
                     "total_count": 2,
                     "value": 5
                 },

@@ -1,9 +1,9 @@
 {
-  "name": "Rummikub",
-  "pieces": {
-    "rulebook": {
-      "total_count": 1,
-	  "file": "rulebook-rummikub.pdf"
+    "name": "Rummikub",
+    "pieces": {
+        "rulebook": {
+            "total_count": 1,
+            "file": "rulebook-rummikub.pdf"
+        }
     }
-  }
 }

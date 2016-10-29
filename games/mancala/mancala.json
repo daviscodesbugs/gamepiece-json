@@ -1,7 +1,7 @@
 {
-    "name" : "Mancala",
+    "name": "Mancala",
     "publisher": "Hasbro",
-    "pieces" : {
+    "pieces": {
         "board": {
             "total_count": 1
         },

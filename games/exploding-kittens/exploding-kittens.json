@@ -2,7 +2,7 @@
     "name": "Exploding Kittens",
     "pieces": {
         "cards": {
-            "total_count" : 56,
+            "total_count": 56,
             "types": [
                 {
                     "type": "Defuse",
@@ -66,10 +66,10 @@
                             "count": 4
                         }
                     ]
-    			      }
-    		    ]
-    	  },
-    	  "rulebook": {
+                }
+            ]
+        },
+        "rulebook": {
             "total_count": 1,
             "file": "rulebook-exploding-kittens.pdf"
         }

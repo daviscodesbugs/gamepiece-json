@@ -2,8 +2,20 @@
     "name": "Caverna - The Cave Farmers",
     "pieces": {
         "rulebook": {
-            "total_count": 1,
-            "file": "rulebook-caverna.pdf"
+            "total_count": 2,
+            "file": "rulebook-caverna.pdf",
+            "types": [
+                {
+                    "type": "Main",
+                    "pages": 24,
+                    "count": 1
+                },
+                {
+                    "type": "Appendix",
+                    "pages": 8,
+                    "count": 1
+                }
+            ]
         },
         "playing_cards": {
             "total_count": 29,
@@ -292,21 +304,6 @@
                 {
                     "type": "Beige",
                     "count": 5
-                }
-            ]
-        },
-        "rulebook": {
-            "total_count": 2,
-            "types": [
-                {
-                    "type": "Main",
-                    "pages": 24,
-                    "count": 1
-                },
-                {
-                    "type": "Appendix",
-                    "pages": 8,
-                    "count": 1
                 }
             ]
         },

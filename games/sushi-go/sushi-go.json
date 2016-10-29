@@ -3,70 +3,70 @@
     "pieces": {
         "total_count": 108,
         "cards": [
-          {
-            "type": "Tempura",
-            "value": "x2 = 5",
-            "count": 14
-          },
-          {
-            "type": "Sashimi",
-            "value": "x3 = 10",
-            "count": 14
-          },
-          {
-            "type": "Dumpling",
-            "value": "1 3 6 10 15",
-            "count": 14
-          },
-          {
-            "type": "2 Maki rolls",
-            "value": "Most: 6/3",
-            "count": 12
-          },
-          {
-            "type": "3 Maki rolls",
-            "value": "Most: 6/3",
-            "count": 3
-          },
-          {
-            "type": "1 Maki roll",
-            "value": "Most: 6/3",
-            "count": 6
-          },
-          {
-            "type": "Salmon Nigiri",
-            "value": "2",
-            "count": 10
-          },
-          {
-            "type": "Squid Nigiri",
-            "value": "3",
-            "count": 5
-          },
-          {
-            "type": "Egg Nigiri",
-            "value": "1",
-            "count": 5
-          },
-          {
-            "type": "Pudding",
-            "value": "End: Most 6 Least -6",
-            "count": 10
-          },
-          {
-            "type": "Wasabi",
-            "value": "Next Nigiri x3",
-            "count": 6
-          },
-          {
-            "type": "Chopsticks",
-            "value": "Swap for 2",
-            "count": 4
-          }
+            {
+                "type": "Tempura",
+                "value": "x2 = 5",
+                "count": 14
+            },
+            {
+                "type": "Sashimi",
+                "value": "x3 = 10",
+                "count": 14
+            },
+            {
+                "type": "Dumpling",
+                "value": "1 3 6 10 15",
+                "count": 14
+            },
+            {
+                "type": "2 Maki rolls",
+                "value": "Most: 6/3",
+                "count": 12
+            },
+            {
+                "type": "3 Maki rolls",
+                "value": "Most: 6/3",
+                "count": 3
+            },
+            {
+                "type": "1 Maki roll",
+                "value": "Most: 6/3",
+                "count": 6
+            },
+            {
+                "type": "Salmon Nigiri",
+                "value": "2",
+                "count": 10
+            },
+            {
+                "type": "Squid Nigiri",
+                "value": "3",
+                "count": 5
+            },
+            {
+                "type": "Egg Nigiri",
+                "value": "1",
+                "count": 5
+            },
+            {
+                "type": "Pudding",
+                "value": "End: Most 6 Least -6",
+                "count": 10
+            },
+            {
+                "type": "Wasabi",
+                "value": "Next Nigiri x3",
+                "count": 6
+            },
+            {
+                "type": "Chopsticks",
+                "value": "Swap for 2",
+                "count": 4
+            }
         ],
         "rulebook": {
             "total_count": 1,
-			"file": "rulebook-sushi-go.pdf"
+            "file": "rulebook-sushi-go.pdf"
         }
     }
 }

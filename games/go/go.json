@@ -1,7 +1,7 @@
 {
-    "name" : "Go",
+    "name": "Go",
     "edition": "Standard",
-    "pieces" : {
+    "pieces": {
         "rulebook": {
             "total_count": 1,
             "file": "rulebook-go.pdf"

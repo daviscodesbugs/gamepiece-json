@@ -1,9 +1,9 @@
 {
     "name": "Chinese Chess",
     "pieces": {
-         "rulebook": {
+        "rulebook": {
             "total_count": 1,
-			"file": "rulebook-chinese-chess.pdf"
+            "file": "rulebook-chinese-chess.pdf"
         },
         "board": {
             "total_count": 1,

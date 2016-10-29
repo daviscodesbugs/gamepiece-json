@@ -15,61 +15,61 @@
             ]
         },
         "cards": {
-          "total_count": 24,
-          "types": [
-            {
-              "type": "adams apple",
-              "count": 2
-            },
-            {
-              "type": "wish bone",
-              "count": 2
-            },
-            {
-              "type": "broken heart",
-              "count": 2
-            },
-            {
-              "type": "ankle bone",
-              "count": 2
-            },
-            {
-              "type": "water on knee",
-              "count": 2
-            },
-            {
-              "type": "spare ribs",
-              "count": 1
-            },
-            {
-              "type": "brain freeze",
-              "count": 2
-            },
-            {
-              "type": "charlie horse",
-              "count": 2
-            },
-            {
-              "type": "wretched ankle",
-              "count": 1
-            },
-            {
-              "type": "butterfly stomach",
-              "count": 2
-            },
-            {
-              "type": "writers cramp",
-              "count": 2
-            },
-            {
-              "type": "funny bone",
-              "count": 2
-            },
-            {
-              "type": "bread basket",
-              "count": 2
-            }
-          ]
+            "total_count": 24,
+            "types": [
+                {
+                    "type": "adams apple",
+                    "count": 2
+                },
+                {
+                    "type": "wish bone",
+                    "count": 2
+                },
+                {
+                    "type": "broken heart",
+                    "count": 2
+                },
+                {
+                    "type": "ankle bone",
+                    "count": 2
+                },
+                {
+                    "type": "water on knee",
+                    "count": 2
+                },
+                {
+                    "type": "spare ribs",
+                    "count": 1
+                },
+                {
+                    "type": "brain freeze",
+                    "count": 2
+                },
+                {
+                    "type": "charlie horse",
+                    "count": 2
+                },
+                {
+                    "type": "wretched ankle",
+                    "count": 1
+                },
+                {
+                    "type": "butterfly stomach",
+                    "count": 2
+                },
+                {
+                    "type": "writers cramp",
+                    "count": 2
+                },
+                {
+                    "type": "funny bone",
+                    "count": 2
+                },
+                {
+                    "type": "bread basket",
+                    "count": 2
+                }
+            ]
         },
         "ailments": {
             "total_count": 13,

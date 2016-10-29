@@ -1,5 +1,5 @@
 var assert = require('assert');
-var lint = require('json-lint');
+var lint = require('jsonlint');
 var fs = require('fs');
 var read = require('fs-readdir-recursive');
 var filepath = require('path');
@@ -9,12 +9,14 @@ jsonFileNames = fileNames.filter(function (x) {
     return filepath.extname(x) === '.json';
 });
 
+function readGameJson(path){
+    return fs.readFileSync('./games/' + path).toString();
+}
+
 describe('JSON Lint', function () {
     jsonFileNames.forEach(function (path) {
         it(path, function () {
-            jsonString = fs.readFileSync('./games/' + path);
-            var linted = lint(jsonString.toString());
-            assert.equal(undefined, linted.error);
+            lint.parse(readGameJson(path)); // throws if error found
         });
     });
 });
@@ -22,8 +24,7 @@ describe('JSON Lint', function () {
 describe('Syntax', function () {
     it('dice', function () {
         jsonFileNames.forEach(function (path) {
-            jsonString = fs.readFileSync('./games/' + path).toString();
-            JSON.parse(jsonString, function (k, v) {
+            JSON.parse(readGameJson(path), function (k, v) {
                 assert.notEqual(k, "dices", path + " contains key: 'dices'");
                 assert.notEqual(k, "die", path + " contains key: 'die'");
             });
@@ -31,16 +32,14 @@ describe('Syntax', function () {
     });
     it('cards', function () {
         jsonFileNames.forEach(function (path) {
-            jsonString = fs.readFileSync('./games/' + path).toString();
-            JSON.parse(jsonString, function (k, v) {
+            JSON.parse(readGameJson(path), function (k, v) {
                 assert.notEqual(k, "card", path + " contains key of single type: 'card'");
             });
         });
     });
     it('rulebook', function () {
         jsonFileNames.forEach(function (path) {
-            jsonString = fs.readFileSync('./games/' + path).toString();
-            JSON.parse(jsonString, function (k, v) {
+            JSON.parse(readGameJson(path), function (k, v) {
                 assert.notEqual(k, "rules", path + " contains key 'rules' instead of 'rulebook'");
                 assert.notEqual(k, "rulebooks", path + " contains key 'rulebooks' instead of 'rulebook'");
                 assert.notEqual(k, "rule_book", path + " contains key 'rule_book' instead of 'rulebook'");
@@ -55,9 +54,8 @@ describe('Syntax', function () {
     });
     it('spaces in keys', function () {
         jsonFileNames.forEach(function (path) {
-            jsonString = fs.readFileSync('./games/' + path).toString();
-            JSON.parse(jsonString, function (k, v) {
-                assert(k.indexOf(" ") < 0, path + " contains spaces in it's key '" + k + "'");
+            JSON.parse(readGameJson(path), function (k, v) {
+                assert(k.indexOf(" ") < 0, path + " contains spaces in its key '" + k + "'");
             });
         });
     });
@@ -66,7 +64,7 @@ describe('Syntax', function () {
 describe('Reality Check', function () {
     it('board count', function () {
         jsonFileNames.forEach(function (path) {
-            jsonString = fs.readFileSync('./games/' + path).toString();
+            jsonString = readGameJson(path);
             jsonObject = JSON.parse(jsonString);
             hasProperBoard = 0;
             // Check that board has count property and is only 1
@@ -89,7 +87,7 @@ describe('Reality Check', function () {
     });
     it('rulebook count', function () {
         jsonFileNames.forEach(function (path) {
-            jsonString = fs.readFileSync('./games/' + path).toString();
+            jsonString = readGameJson(path);
             jsonObject = JSON.parse(jsonString);
             hasProperRulebook = 0;
             // Check that board has count property and is only 1
@@ -115,8 +113,7 @@ describe('Reality Check', function () {
     });
     it('file exists', function () {
         jsonFileNames.forEach(function (path) {
-            jsonString = fs.readFileSync(filepath.join('./games/', path)).toString();
-            JSON.parse(jsonString, function (k, v) {
+            JSON.parse(readGameJson(path), function (k, v) {
                 if (k == "file") {
                     var folder = filepath.dirname(path);
                     try {

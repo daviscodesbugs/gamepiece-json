@@ -1,8 +1,8 @@
 {
-    "name":"POOP: The Game",
-    "pieces":{
-        "ruleCards":{
-            "total_count":4,
+    "name": "POOP: The Game",
+    "pieces": {
+        "ruleCards": {
+            "total_count": 4,
             "cards": [
                 {
                     "sides": [
@@ -29,7 +29,6 @@
                     ]
                 }
             ]
-
         },
         "cards": [
             {

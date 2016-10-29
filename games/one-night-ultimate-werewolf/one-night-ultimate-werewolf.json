@@ -1,7 +1,7 @@
 {
-    "name" : "One Night Ultimate Werewolf",
+    "name": "One Night Ultimate Werewolf",
     "publisher": "Bezier Games, Inc.",
-    "pieces" : {
+    "pieces": {
         "rulebook": {
             "total_count": 1,
             "file": "rulebook-one-night-ultimate-werewolf.pdf"

@@ -1,267 +1,267 @@
 {
-  "name": "Rook",
-  "pieces": {
-    "rulebook": {
-      "total_count": 1,
-	  "file": "rulebook-rook.pdf"
-    },
-    "cards": {
-      "total_count": 57,
-      "types": [
-        {
-          "type": "rook",
-          "total_count": 1,
-          "points": 20
+    "name": "Rook",
+    "pieces": {
+        "rulebook": {
+            "total_count": 1,
+            "file": "rulebook-rook.pdf"
         },
-        {
-          "color": "black",
-          "total_count": 14,
-          "values": [
-            {
-              "value": 1,
-              "points": 0
-            },
-            {
-              "value": 2,
-              "points": 0
-            },
-            {
-              "value": 3,
-              "points": 0
-            },
-            {
-              "value": 4,
-              "points": 0
-            },
-            {
-              "value": 5,
-              "points": 5
-            },
-            {
-              "value": 6,
-              "points": 0
-            },
-            {
-              "value": 7,
-              "points": 0
-            },
-            {
-              "value": 8,
-              "points": 0
-            },
-            {
-              "value": 9,
-              "points": 0
-            },
-            {
-              "value": 10,
-              "points": 10
-            },
-            {
-              "value": 11,
-              "points": 0
-            },
-            {
-              "value": 12,
-              "points": 0
-            },
-            {
-              "value": 13,
-              "points": 0
-            },
-            {
-              "value": 14,
-              "points": 10
-            }
-          ]
-        },
-        {
-          "color": "red",
-          "total_count": 14,
-          "values": [
-            {
-              "value": 1,
-              "points": 0
-            },
-            {
-              "value": 2,
-              "points": 0
-            },
-            {
-              "value": 3,
-              "points": 0
-            },
-            {
-              "value": 4,
-              "points": 0
-            },
-            {
-              "value": 5,
-              "points": 5
-            },
-            {
-              "value": 6,
-              "points": 0
-            },
-            {
-              "value": 7,
-              "points": 0
-            },
-            {
-              "value": 8,
-              "points": 0
-            },
-            {
-              "value": 9,
-              "points": 0
-            },
-            {
-              "value": 10,
-              "points": 10
-            },
-            {
-              "value": 11,
-              "points": 0
-            },
-            {
-              "value": 12,
-              "points": 0
-            },
-            {
-              "value": 13,
-              "points": 0
-            },
-            {
-              "value": 14,
-              "points": 10
-            }
-          ]
-        },
-        {
-          "color": "green",
-          "total_count": 14,
-          "values": [
-            {
-              "value": 1,
-              "points": 0
-            },
-            {
-              "value": 2,
-              "points": 0
-            },
-            {
-              "value": 3,
-              "points": 0
-            },
-            {
-              "value": 4,
-              "points": 0
-            },
-            {
-              "value": 5,
-              "points": 5
-            },
-            {
-              "value": 6,
-              "points": 0
-            },
-            {
-              "value": 7,
-              "points": 0
-            },
-            {
-              "value": 8,
-              "points": 0
-            },
-            {
-              "value": 9,
-              "points": 0
-            },
-            {
-              "value": 10,
-              "points": 10
-            },
-            {
-              "value": 11,
-              "points": 0
-            },
-            {
-              "value": 12,
-              "points": 0
-            },
-            {
-              "value": 13,
-              "points": 0
-            },
-            {
-              "value": 14,
-              "points": 10
-            }
-          ]
-        },
-        {
-          "color": "yellow",
-          "total_count": 14,
-          "values": [
-            {
-              "value": 1,
-              "points": 0
-            },
-            {
-              "value": 2,
-              "points": 0
-            },
-            {
-              "value": 3,
-              "points": 0
-            },
-            {
-              "value": 4,
-              "points": 0
-            },
-            {
-              "value": 5,
-              "points": 5
-            },
-            {
-              "value": 6,
-              "points": 0
-            },
-            {
-              "value": 7,
-              "points": 0
-            },
-            {
-              "value": 8,
-              "points": 0
-            },
-            {
-              "value": 9,
-              "points": 0
-            },
-            {
-              "value": 10,
-              "points": 10
-            },
-            {
-              "value": 11,
-              "points": 0
-            },
-            {
-              "value": 12,
-              "points": 0
-            },
-            {
-              "value": 13,
-              "points": 0
-            },
-            {
-              "value": 14,
-              "points": 10
-            }
-          ]
+        "cards": {
+            "total_count": 57,
+            "types": [
+                {
+                    "type": "rook",
+                    "total_count": 1,
+                    "points": 20
+                },
+                {
+                    "color": "black",
+                    "total_count": 14,
+                    "values": [
+                        {
+                            "value": 1,
+                            "points": 0
+                        },
+                        {
+                            "value": 2,
+                            "points": 0
+                        },
+                        {
+                            "value": 3,
+                            "points": 0
+                        },
+                        {
+                            "value": 4,
+                            "points": 0
+                        },
+                        {
+                            "value": 5,
+                            "points": 5
+                        },
+                        {
+                            "value": 6,
+                            "points": 0
+                        },
+                        {
+                            "value": 7,
+                            "points": 0
+                        },
+                        {
+                            "value": 8,
+                            "points": 0
+                        },
+                        {
+                            "value": 9,
+                            "points": 0
+                        },
+                        {
+                            "value": 10,
+                            "points": 10
+                        },
+                        {
+                            "value": 11,
+                            "points": 0
+                        },
+                        {
+                            "value": 12,
+                            "points": 0
+                        },
+                        {
+                            "value": 13,
+                            "points": 0
+                        },
+                        {
+                            "value": 14,
+                            "points": 10
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "total_count": 14,
+                    "values": [
+                        {
+                            "value": 1,
+                            "points": 0
+                        },
+                        {
+                            "value": 2,
+                            "points": 0
+                        },
+                        {
+                            "value": 3,
+                            "points": 0
+                        },
+                        {
+                            "value": 4,
+                            "points": 0
+                        },
+                        {
+                            "value": 5,
+                            "points": 5
+                        },
+                        {
+                            "value": 6,
+                            "points": 0
+                        },
+                        {
+                            "value": 7,
+                            "points": 0
+                        },
+                        {
+                            "value": 8,
+                            "points": 0
+                        },
+                        {
+                            "value": 9,
+                            "points": 0
+                        },
+                        {
+                            "value": 10,
+                            "points": 10
+                        },
+                        {
+                            "value": 11,
+                            "points": 0
+                        },
+                        {
+                            "value": 12,
+                            "points": 0
+                        },
+                        {
+                            "value": 13,
+                            "points": 0
+                        },
+                        {
+                            "value": 14,
+                            "points": 10
+                        }
+                    ]
+                },
+                {
+                    "color": "green",
+                    "total_count": 14,
+                    "values": [
+                        {
+                            "value": 1,
+                            "points": 0
+                        },
+                        {
+                            "value": 2,
+                            "points": 0
+                        },
+                        {
+                            "value": 3,
+                            "points": 0
+                        },
+                        {
+                            "value": 4,
+                            "points": 0
+                        },
+                        {
+                            "value": 5,
+                            "points": 5
+                        },
+                        {
+                            "value": 6,
+                            "points": 0
+                        },
+                        {
+                            "value": 7,
+                            "points": 0
+                        },
+                        {
+                            "value": 8,
+                            "points": 0
+                        },
+                        {
+                            "value": 9,
+                            "points": 0
+                        },
+                        {
+                            "value": 10,
+                            "points": 10
+                        },
+                        {
+                            "value": 11,
+                            "points": 0
+                        },
+                        {
+                            "value": 12,
+                            "points": 0
+                        },
+                        {
+                            "value": 13,
+                            "points": 0
+                        },
+                        {
+                            "value": 14,
+                            "points": 10
+                        }
+                    ]
+                },
+                {
+                    "color": "yellow",
+                    "total_count": 14,
+                    "values": [
+                        {
+                            "value": 1,
+                            "points": 0
+                        },
+                        {
+                            "value": 2,
+                            "points": 0
+                        },
+                        {
+                            "value": 3,
+                            "points": 0
+                        },
+                        {
+                            "value": 4,
+                            "points": 0
+                        },
+                        {
+                            "value": 5,
+                            "points": 5
+                        },
+                        {
+                            "value": 6,
+                            "points": 0
+                        },
+                        {
+                            "value": 7,
+                            "points": 0
+                        },
+                        {
+                            "value": 8,
+                            "points": 0
+                        },
+                        {
+                            "value": 9,
+                            "points": 0
+                        },
+                        {
+                            "value": 10,
+                            "points": 10
+                        },
+                        {
+                            "value": 11,
+                            "points": 0
+                        },
+                        {
+                            "value": 12,
+                            "points": 0
+                        },
+                        {
+                            "value": 13,
+                            "points": 0
+                        },
+                        {
+                            "value": 14,
+                            "points": 10
+                        }
+                    ]
+                }
+            ]
         }
-      ]
     }
-  }
 }

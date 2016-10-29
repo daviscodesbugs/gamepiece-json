@@ -4,7 +4,7 @@
     "pieces": {
         "rulebook": {
             "total_count": 1,
-			"file": "rulebook-backgammon.pdf"
+            "file": "rulebook-backgammon.pdf"
         },
         "board": {
             "total_count": 1,
@@ -23,11 +23,25 @@
             "total_count": 3,
             "regular_dice": {
                 "dice_count": 4,
-                "faces": [1,2,3,4,5,6]
+                "faces": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ]
             },
             "doubling_cube_dice": {
                 "dice_count": 1,
-                "faces": [2,4,8,16,32,64]
+                "faces": [
+                    2,
+                    4,
+                    8,
+                    16,
+                    32,
+                    64
+                ]
             }
         },
         "dice_shaker": {

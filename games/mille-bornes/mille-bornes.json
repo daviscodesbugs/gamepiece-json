@@ -32,8 +32,8 @@
                             "count": 10
                         },
                         {
-                          "miles": 25,
-                          "count": 10
+                            "miles": 25,
+                            "count": 10
                         }
                     ]
                 },
@@ -44,8 +44,8 @@
                         {
                             "name": [
                                 {
-                                  "english": "OUT OF GAS",
-                                  "french": "PANNE D'ESSENCE"
+                                    "english": "OUT OF GAS",
+                                    "french": "PANNE D'ESSENCE"
                                 }
                             ],
                             "count": 3
@@ -53,8 +53,8 @@
                         {
                             "name": [
                                 {
-                                  "english": "FLAT TIRE",
-                                  "french": "CREVE"
+                                    "english": "FLAT TIRE",
+                                    "french": "CREVE"
                                 }
                             ],
                             "count": 3
@@ -62,8 +62,8 @@
                         {
                             "name": [
                                 {
-                                  "english": "ACCIDENT",
-                                  "french": "ACCIDENT"
+                                    "english": "ACCIDENT",
+                                    "french": "ACCIDENT"
                                 }
                             ],
                             "count": 3
@@ -71,8 +71,8 @@
                         {
                             "name": [
                                 {
-                                  "english": "SPEED LIMIT",
-                                  "french": "LIMITE DE VITESSE"
+                                    "english": "SPEED LIMIT",
+                                    "french": "LIMITE DE VITESSE"
                                 }
                             ],
                             "count": 4
@@ -80,8 +80,8 @@
                         {
                             "name": [
                                 {
-                                  "english": "STOP!",
-                                  "french": "Stop"
+                                    "english": "STOP!",
+                                    "french": "Stop"
                                 }
                             ],
                             "count": 5
@@ -95,8 +95,8 @@
                         {
                             "name": [
                                 {
-                                  "english": "GASOLINE",
-                                  "french": "ESSENCE"
+                                    "english": "GASOLINE",
+                                    "french": "ESSENCE"
                                 }
                             ],
                             "count": 6
@@ -104,8 +104,8 @@
                         {
                             "name": [
                                 {
-                                  "english": "SPARE TIRE",
-                                  "french": "ROUE DE SECOURS"
+                                    "english": "SPARE TIRE",
+                                    "french": "ROUE DE SECOURS"
                                 }
                             ],
                             "count": 6
@@ -113,8 +113,8 @@
                         {
                             "name": [
                                 {
-                                  "english": "REPAIRS",
-                                  "french": "REPARATIONS"
+                                    "english": "REPAIRS",
+                                    "french": "REPARATIONS"
                                 }
                             ],
                             "count": 6
@@ -122,8 +122,8 @@
                         {
                             "name": [
                                 {
-                                  "english": "END OF LIMIT",
-                                  "french": "FIN DE LIMITE DE VITESSE"
+                                    "english": "END OF LIMIT",
+                                    "french": "FIN DE LIMITE DE VITESSE"
                                 }
                             ],
                             "count": 6
@@ -131,8 +131,8 @@
                         {
                             "name": [
                                 {
-                                  "english": "ROLL!",
-                                  "french": "Roulez"
+                                    "english": "ROLL!",
+                                    "french": "Roulez"
                                 }
                             ],
                             "count": 14
@@ -146,8 +146,8 @@
                         {
                             "name": [
                                 {
-                                  "english": "EXTRA TANK",
-                                  "french": "citerne d'essence"
+                                    "english": "EXTRA TANK",
+                                    "french": "citerne d'essence"
                                 }
                             ],
                             "count": 1
@@ -155,8 +155,8 @@
                         {
                             "name": [
                                 {
-                                  "english": "PUNCTURE-PROOF",
-                                  "french": "increvable"
+                                    "english": "PUNCTURE-PROOF",
+                                    "french": "increvable"
                                 }
                             ],
                             "count": 1
@@ -164,8 +164,8 @@
                         {
                             "name": [
                                 {
-                                  "english": "DRIVING ACE",
-                                  "french": "as du volant"
+                                    "english": "DRIVING ACE",
+                                    "french": "as du volant"
                                 }
                             ],
                             "count": 1
@@ -173,8 +173,8 @@
                         {
                             "name": [
                                 {
-                                  "english": "RIGHT OF WAY",
-                                  "french": "vehicule prioritaire"
+                                    "english": "RIGHT OF WAY",
+                                    "french": "vehicule prioritaire"
                                 }
                             ],
                             "count": 1

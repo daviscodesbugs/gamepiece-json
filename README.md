@@ -18,7 +18,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [x] Backgammon
  - [x] Battleship
  - [x] Blink
- - [ ] Blokus
+ - [x] Blokus
  - [x] Boggle
  - [ ] Canasta
  - [x] Canasta Caliente
@@ -48,12 +48,13 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [ ] Old Maid
  - [x] One Night Ultimate Werewolf
  - [x] Operation
+ - [ ] Othello
  - [ ] Pandemic
  - [x] Phase 10
  - [ ] Pictionary
  - [x] Playing Cards
  - [x] Quiddler
- - [ ] Reversi
+ - [ ] Reversi (see Othello)
  - [ ] Risk
  - [x] Rook
  - [ ] _Rummikub (partial done)_

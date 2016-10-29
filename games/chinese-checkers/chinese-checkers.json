@@ -1,5 +1,6 @@
 {
     "name": "Chinese Checkers",
+    "publisher": "Pressman",
     "pieces": {
         "rulebook": {
             "total_count": 1,

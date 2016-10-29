@@ -61,6 +61,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [ ] Scum
  - [x] Senet
  - [x] Sequence
+ - [x] Sequence For Kids
  - [x] Set
  - [ ] _Settlers of Catan (partial done)_
  - [x] Settlers of Catan - 5-6 Player Expansion

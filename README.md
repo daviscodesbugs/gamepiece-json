@@ -35,6 +35,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [x] Forbidden Island
  - [x] Go
  - [ ] The Great Dalmuti
+ - [x] Hanabi
  - [ ] _King of Tokyo (partial done)_
  - [x] Liar's Dice
  - [x] Love Letter

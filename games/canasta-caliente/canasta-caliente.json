@@ -1,0 +1,90 @@
+{
+    "name": "Canasta Caliente",
+    "publisher": "Winning Moves Games",
+    "pieces": {
+        "cards": {
+            "total_count": 108,
+            "types": [
+                {
+                    "type": "natural",
+                    "total_count": 88,
+                    "types": [
+                        {
+                            "type": "4",
+                            "count": 8
+                        },
+                        {
+                            "type": "5",
+                            "count": 8
+                        },
+                        {
+                            "type": "6",
+                            "count": 8
+                        },
+                        {
+                            "type": "7",
+                            "count": 8
+                        },
+                        {
+                            "type": "8",
+                            "count": 8
+                        },
+                        {
+                            "type": "9",
+                            "count": 8
+                        },
+                        {
+                            "type": "10",
+                            "count": 8
+                        },
+                        {
+                            "type": "Jack",
+                            "count": 8
+                        },
+                        {
+                            "type": "Queen",
+                            "count": 8
+                        },
+                        {
+                            "type": "King",
+                            "count": 8
+                        },
+                        {
+                            "type": "Ace",
+                            "count": 8
+                        }
+                    ]
+                },
+                {
+                    "type": "wild",
+                    "total_count": 12,
+                    "types": [
+                        {
+                            "type": "little",
+                            "count": 8
+                        },
+                        {
+                            "type": "big",
+                            "count": 4
+                        }
+                    ]
+                },
+                {
+                    "type": "Bonus",
+                    "total_count": 4
+                },
+                {
+                    "type": "Stop",
+                    "total_count": 4
+                }
+            ]
+        },
+        "card_tray": {
+            "total_count": 1
+        },
+        "rulebook": {
+            "total_count": 1,
+            "file": "rulebook-canasta-caliente.pdf"
+        }
+    }
+}

@@ -27,7 +27,10 @@
                 "The King"
             ],
             "heart_counter": {
-                "values": []
+                "values": {
+                    "min": 0,
+                    "max": 12
+                }
             },
             "star_counter": {
                 "values": {

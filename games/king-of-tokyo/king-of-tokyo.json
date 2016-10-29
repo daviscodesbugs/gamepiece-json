@@ -163,8 +163,9 @@
                     "Text": "You gain 1[star] for every 6[energy] you have at the end of your turn."
                 },
                 {
-                    "Name": "Evacuation Orders (x2)",
+                    "Name": "Evacuation Orders",
                     "Cost": 7,
+                    "Count": 2,
                     "Type": "Discard",
                     "Text": "All other monsters lose 5[star]."
                 },
@@ -175,8 +176,9 @@
                     "Text": "Your maximum [heart] is increased by 2. Gain 2[heart] when you get this card."
                 },
                 {
-                    "Name": "Extra Head (x2)",
+                    "Name": "Extra Head",
                     "Cost": 7,
+                    "Count": 2,
                     "Type": "Keep",
                     "Text": "You get 1 extra die."
                 },
@@ -449,78 +451,6 @@
                     "Cost": 6,
                     "Type": "Keep",
                     "Text": "Spend 2[energy] to negate damage to you for a turn."
-                },
-                {
-                    "Name": "",
-                    "Cost": "",
-                    "Type": "",
-                    "Text": ""
-                },
-                {
-                    "Name": "Amusement Park",
-                    "Cost": 6,
-                    "Type": "Discard",
-                    "Text": "+ 4[star]"
-                },
-                {
-                    "Name": "Army",
-                    "Cost": 2,
-                    "Type": "Discard",
-                    "Text": "(+ 1[star] and suffer one damage) for each card you have."
-                },
-                {
-                    "Name": "Cannibalistic",
-                    "Cost": 5,
-                    "Type": "Keep",
-                    "Text": "When you do damage gain 1[heart]."
-                },
-                {
-                    "Name": "Intimidating Roar",
-                    "Cost": 3,
-                    "Type": "Keep",
-                    "Text": "The monsters in Tokyo must yield if you damage them."
-                },
-                {
-                    "Name": "Monster Sidekick",
-                    "Cost": 4,
-                    "Type": "Keep",
-                    "Text": "If someone kills you, Go back to 10[heart] and lose all your [star]. If either of you or your killer win, or all other players are eliminated then you both win. If your killer is eliminated then you are also. If you are eliminated a second time this card has no effect."
-                },
-                {
-                    "Name": "Reflective Hide",
-                    "Cost": 6,
-                    "Type": "Keep",
-                    "Text": "If you suffer damage the monster that inflicted the damage suffers 1 as well."
-                },
-                {
-                    "Name": "Sleep Walker",
-                    "Cost": 3,
-                    "Type": "Keep",
-                    "Text": "Spend 3[energy] to gain 1[star]."
-                },
-                {
-                    "Name": "Super Jump",
-                    "Cost": 4,
-                    "Type": "Keep",
-                    "Text": "Once each turn you may spend 1[energy] to negate 1 damage you are receiving."
-                },
-                {
-                    "Name": "Throw a Tanker",
-                    "Cost": 4,
-                    "Type": "Keep",
-                    "Text": "On a turn you deal 3 or more damage gain 2[star]."
-                },
-                {
-                    "Name": "Thunder Stomp",
-                    "Cost": 3,
-                    "Type": "Keep",
-                    "Text": "If you score 4[star] in a turn, all players roll one less die until your next turn."
-                },
-                {
-                    "Name": "Unstable DNA",
-                    "Cost": 3,
-                    "Type": "Keep",
-                    "Text": "If you yield Tokyo you can take any card the recipient has and give him this card."
                 }
             ]
         },

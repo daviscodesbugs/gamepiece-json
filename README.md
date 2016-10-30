@@ -29,7 +29,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [x] Chinese Chess
  - [x] Chutes and Ladders
  - [x] Clue
- - [ ] Dominion
+ - [x] Dominion
  - [x] Exploding Kittens
  - [ ] Five Crowns
  - [x] Forbidden Island

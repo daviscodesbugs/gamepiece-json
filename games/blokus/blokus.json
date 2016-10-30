@@ -23,7 +23,11 @@
                     "type": "yellow",
                     "count": 21
                 }
-            ]
+            ],
+			"rulebook": {
+				"total_count": 1,
+				"file": "rulebook-blokus.pdf"
+			}
         }
     }
 }

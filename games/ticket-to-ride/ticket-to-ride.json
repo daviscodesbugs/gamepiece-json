@@ -77,7 +77,7 @@
                             "type": "Green",
                             "name": "Caboose",
                             "count": 12
-                        },                    
+                        },
                         {
                             "type": "Multicolored",
                             "name": "Locomotives",
@@ -126,7 +126,7 @@
                     "type": "Black",
                     "count": 1
                 }
-            ]           
+            ]
         },
         "rulebook": {
             "total_count": 1,

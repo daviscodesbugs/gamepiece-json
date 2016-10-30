@@ -1,0 +1,220 @@
+{
+    "name": "Dominion",
+    "pieces": {
+        "total_count": 500,
+        "cards": {
+            "card_types": [
+                {
+                    "type_name": "Treasure card",
+                    "cards" : [
+                        {
+                            "name": "Copper",
+                            "count" : 60,
+                            "randomizer_count" : 1
+                        },
+                        {
+                            "name": "Silver",
+                            "count" : 40,
+                            "randomizer_count" : 1
+                        },
+                        {
+                            "name": "Gold",
+                            "count" : 30,
+                            "randomizer_count": 1
+                        }
+                    ]
+                },
+                {
+                    "type_name" : "Victory card",
+                    "cards" : [
+                        {
+                            "name" : "Estate",
+                            "count" : 24,
+                            "randomizer_count": 1
+                        },
+                        {
+                            "name": "Duchy",
+                            "count": 12,
+                            "randomizer_count": 1
+                        },
+                        {
+                            "name" : "Province",
+                            "count" : 12,
+                            "randomizer_count": 1
+                        }
+                    ]
+                },
+                {
+                    "type_name" : "Kingdom card",
+                    "cards" : [
+                        {
+                            "name" : "Adventurer" ,
+                            "count" : 10,
+                            "randomizer_count": 1
+                        },
+                        {
+                            "name" : "Bureaucrat",
+                            "count" : 10,
+                            "randomizer_count": 1
+                        },
+                        {
+                            "name" : "Cellar",
+                            "count" : 10,
+                            "randomizer_count": 1
+                        },
+                        {
+                            "name" : "Chancellor",
+                            "count" : 10,
+                            "randomizer_count": 1
+                        },
+                        {
+                            "name" : "Chapel",
+                            "count" : 10,
+                            "randomizer_count": 1
+                        },
+                        {
+                            "name" : "Council Room",
+                            "count" : 10,
+                            "randomizer_count": 1
+                        },
+                        {
+                            "name" : "Feast",
+                            "count" : 10,
+                            "randomizer_count": 1
+                        },
+                        {
+                            "name" : "Festival",
+                            "count" : 10,
+                            "randomizer_count": 1
+                        },
+                        {
+                            "name" : "Garden",
+                            "count" : 12,
+                            "randomizer_count": 1
+                        },
+                        {
+                            "name" : "Laboratory",
+                            "count" : 10,
+                            "randomizer_count": 1
+                        },
+                        {
+                            "name" : "Library",
+                            "count" : 10,
+                            "randomizer_count": 1
+                        },
+                        {
+                            "name" : "Market",
+                            "count" : 10,
+                            "randomizer_count": 1
+                        },
+                        {
+                            "name" : "Militia",
+                            "count" : 10,
+                            "randomizer_count": 1
+                        },
+                        {
+                            "name" : "Mine",
+                            "count" : 10,
+                            "randomizer_count": 1
+                        },
+                        {
+                            "name" : "Moat",
+                            "count" : 10,
+                            "randomizer_count": 1
+                        },
+                        {
+                            "name" : "Moneylender",
+                            "count" : 10,
+                            "randomizer_count": 1
+                        },
+                        {
+                            "name" : "Remodel",
+                            "count" : 10,
+                            "randomizer_count": 1
+                        },
+                        {
+                            "name" : "Smithy",
+                            "count" : 10,
+                            "randomizer_count": 1
+                        },
+                        {
+                            "name" : "Spy",
+                            "count" : 10,
+                            "randomizer_count": 1
+                        },
+                        {
+                            "name" : "Thief",
+                            "count" : 10,
+                            "randomizer_count": 1
+                        },
+                        {
+                            "name" : "Throne",
+                            "count" : 10,
+                            "randomizer_count": 1
+                        },
+                        {
+                            "name" : "Room",
+                            "count" : 10,
+                            "randomizer_count": 1
+                        },
+                        {
+                            "name" : "Village",
+                            "count" : 10,
+                            "randomizer_count": 1
+                        },
+                        {
+                            "name" : "Witch",
+                            "count" : 10,
+                            "randomizer_count": 1
+                        },
+                        {
+                            "name" : "Woodcutter",
+                            "count" : 10,
+                            "randomizer_count": 1
+                        },
+                        {
+                            "name" : "Workshop",
+                            "count" : 10,
+                            "randomizer_count": 1
+                        }
+                    ]
+                },
+                {
+                    "type_name" : "Curse card",
+                    "cards" : [
+                        {
+                            "name" : "Curse",
+                            "count" : 30,
+                            "randomizer_count": 1
+                        }
+                    ]
+                },
+                {
+                    "type_name" : "Trash Card",
+                    "cards" : [
+                        {
+                            "name": "Trash",
+                            "count" : 1
+                        }
+                    ]
+                },
+                {
+                    "type_name" : "Blank Card",
+                    "cards" : [
+                        {
+                            "name" : "Blank",
+                            "count" : 7
+                        }
+                    ]
+                }
+            ]
+        },
+        "storage_tray" : {
+            "total_count" : 1
+        },
+        "rulebook" : {
+            "total_count" : 1,
+            "file": "rulebook-dominion.pdf"
+        }
+    }
+}

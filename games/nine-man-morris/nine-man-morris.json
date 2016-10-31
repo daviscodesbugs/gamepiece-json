@@ -1,0 +1,25 @@
+{
+    "name": "9 man morris",
+    "pieces":{
+        "board": {
+            "total_count": 1,
+            "squares": {
+                "total_count": 24,
+             
+            }
+        },
+        "discs": {
+            "total_count": 24,
+            "types": [
+                {
+                    "type": "dark",
+                    "count": 12
+                },
+                {
+                    "type": "light",
+                    "count": 12
+                }
+            ]
+        }
+    }
+}

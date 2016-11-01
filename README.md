@@ -31,7 +31,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [x] Clue
  - [x] Dominion
  - [x] Exploding Kittens
- - [ ] Five Crowns
+ - [x] Five Crowns
  - [x] Forbidden Island
  - [x] Go
  - [ ] The Great Dalmuti
@@ -78,7 +78,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [ ] Taboo
  - [x] Tic Tac Toe
  - [ ] Ticket to Ride
- - [ ] Trouble
+ - [x] Trouble
  - [x] Uno
  - [x] Yahtzee
  - [ ] Zomiecide

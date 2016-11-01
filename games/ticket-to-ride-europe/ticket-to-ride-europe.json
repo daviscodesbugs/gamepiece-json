@@ -1,0 +1,157 @@
+{
+    "name": "Ticket to Ride Europe",
+    "publisher": "Days of Wonder",
+    "pieces": {
+        "game_board": {
+            "type": "Europe",
+            "total_count": 1
+        },
+        "train_cars": {
+            "total_count": 240,
+            "types": [
+                {
+                    "type": "Blue",
+                    "count": 45
+                },
+                {
+                    "type": "Red",
+                    "count": 45
+                },
+                {
+                    "type": "Green",
+                    "count": 45
+                },
+                {
+                    "type": "Yellow",
+                    "count": 45
+                },
+                {
+                    "type": "Black",
+                    "count": 45
+                }
+            ]
+        },
+        "train_stations": {
+            "total_count": 15,
+            "types": [
+                {
+                    "type": "Blue",
+                    "count": 3
+                },
+                {
+                    "type": "Red",
+                    "count": 3
+                },
+                {
+                    "type": "Green",
+                    "count": 3
+                },
+                {
+                    "type": "Yellow",
+                    "count": 3
+                },
+                {
+                    "type": "Black",
+                    "count": 3
+                }
+            ]
+        },
+        "cards": {
+            "total_count": 158,
+            "types": [
+                {
+                    "type": "Train Cards",
+                    "total_count": 110,
+                    "types": [
+                        {
+                            "type": "Purple",
+                            "name": "Box",
+                            "count": 12
+                        },
+                        {
+                            "type": "White",
+                            "name": "Passenger",
+                            "count": 12
+                        },
+                        {
+                            "type": "Blue",
+                            "name": "Tanker",
+                            "count": 12
+                        },
+                        {
+                            "type": "Yellow",
+                            "name": "Reefer",
+                            "count": 12
+                        },
+                        {
+                            "type": "Orange",
+                            "name": "Freight",
+                            "count": 12
+                        },
+                        {
+                            "type": "Black",
+                            "name": "Hopper",
+                            "count": 12
+                        },
+                        {
+                            "type": "Red",
+                            "name": "Coal",
+                            "count": 12
+                        },
+                        {
+                            "type": "Green",
+                            "name": "Caboose",
+                            "count": 12
+                        },
+                        {
+                            "type": "Multicolored",
+                            "name": "Locomotives",
+                            "count": 14
+                        }
+                    ]
+                },
+                {
+                    "type": "Scoring Summary",
+                    "total_count": 1
+                },
+                {
+                    "type": "Destination Ticket",
+                    "total_count": 46
+                },
+                {
+                    "type": "Longest Route Bonus Card",
+                    "total_count": 1
+                }
+            ]
+        },
+        "scoring_markers": {
+            "total_count": 5,
+            "types": [
+                {
+                    "type": "Blue",
+                    "count": 1
+                },
+                {
+                    "type": "Red",
+                    "count": 1
+                },
+                {
+                    "type": "Green",
+                    "count": 1
+                },
+                {
+                    "type": "Yellow",
+                    "count": 1
+                },
+                {
+                    "type": "Black",
+                    "count": 1
+                }
+            ]
+        },
+        "rulebook": {
+            "total_count": 1,
+            "file": "rulebook-ticket-to-ride-europe.pdf"
+        }
+    }
+}

@@ -5,7 +5,8 @@
   "main": "README.md",
   "scripts": {
     "test": "mocha",
-    "lint": "./lint.sh"
+    "lint": "./lint.sh",
+    "count": "i=`ls games/**/*.json | wc -l`; echo There are $i game files"
   },
   "repository": {
     "type": "git",

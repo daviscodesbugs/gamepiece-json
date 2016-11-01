@@ -23,47 +23,47 @@
                 "total" : 11,
                 "types": [
                   {
-                    "card": "3",
+                    "name": "3",
                     "value": 3
                   },
                   {
-                    "card": "4",
+                    "name": "4",
                     "value": 4
                   },
                   {
-                    "card": "5",
+                    "name": "5",
                     "value": 5
                   },
                   {
-                    "card": "6",
+                    "name": "6",
                     "value": 6
                   },
                   {
-                    "card": "7",
+                    "name": "7",
                     "value": 7
                   },
                   {
-                    "card": "8",
+                    "name": "8",
                     "value": 8
                   },
                   {
-                    "card": "9",
+                    "name": "9",
                     "value": 9
                   },
                   {
-                    "card": "10",
+                    "name": "10",
                     "value": 10
                   },
                   {
-                    "card": "Jack",
+                    "name": "Jack",
                     "value": 11
                   },
                   {
-                    "card": "Queen",
+                    "name": "Queen",
                     "value": 12
                   },
                   {
-                    "card": "King",
+                    "name": "King",
                     "value": 13
                   }
                 ]
@@ -75,47 +75,47 @@
                 "total" : 11,
                 "types": [
                   {
-                    "card": "3",
+                    "name": "3",
                     "value": 3
                   },
                   {
-                    "card": "4",
+                    "name": "4",
                     "value": 4
                   },
                   {
-                    "card": "5",
+                    "name": "5",
                     "value": 5
                   },
                   {
-                    "card": "6",
+                    "name": "6",
                     "value": 6
                   },
                   {
-                    "card": "7",
+                    "name": "7",
                     "value": 7
                   },
                   {
-                    "card": "8",
+                    "name": "8",
                     "value": 8
                   },
                   {
-                    "card": "9",
+                    "name": "9",
                     "value": 9
                   },
                   {
-                    "card": "10",
+                    "name": "10",
                     "value": 10
                   },
                   {
-                    "card": "Jack",
+                    "name": "Jack",
                     "value": 11
                   },
                   {
-                    "card": "Queen",
+                    "name": "Queen",
                     "value": 12
                   },
                   {
-                    "card": "King",
+                    "name": "King",
                     "value": 13
                   }
                 ]
@@ -127,47 +127,47 @@
                 "total" : 11,
                 "types": [
                   {
-                    "card": "3",
+                    "name": "3",
                     "value": 3
                   },
                   {
-                    "card": "4",
+                    "name": "4",
                     "value": 4
                   },
                   {
-                    "card": "5",
+                    "name": "5",
                     "value": 5
                   },
                   {
-                    "card": "6",
+                    "name": "6",
                     "value": 6
                   },
                   {
-                    "card": "7",
+                    "name": "7",
                     "value": 7
                   },
                   {
-                    "card": "8",
+                    "name": "8",
                     "value": 8
                   },
                   {
-                    "card": "9",
+                    "name": "9",
                     "value": 9
                   },
                   {
-                    "card": "10",
+                    "name": "10",
                     "value": 10
                   },
                   {
-                    "card": "Jack",
+                    "name": "Jack",
                     "value": 11
                   },
                   {
-                    "card": "Queen",
+                    "name": "Queen",
                     "value": 12
                   },
                   {
-                    "card": "King",
+                    "name": "King",
                     "value": 13
                   }
                 ]
@@ -179,47 +179,47 @@
                 "total" : 11,
                 "types": [
                   {
-                    "card": "3",
+                    "name": "3",
                     "value": 3
                   },
                   {
-                    "card": "4",
+                    "name": "4",
                     "value": 4
                   },
                   {
-                    "card": "5",
+                    "name": "5",
                     "value": 5
                   },
                   {
-                    "card": "6",
+                    "name": "6",
                     "value": 6
                   },
                   {
-                    "card": "7",
+                    "name": "7",
                     "value": 7
                   },
                   {
-                    "card": "8",
+                    "name": "8",
                     "value": 8
                   },
                   {
-                    "card": "9",
+                    "name": "9",
                     "value": 9
                   },
                   {
-                    "card": "10",
+                    "name": "10",
                     "value": 10
                   },
                   {
-                    "card": "Jack",
+                    "name": "Jack",
                     "value": 11
                   },
                   {
-                    "card": "Queen",
+                    "name": "Queen",
                     "value": 12
                   },
                   {
-                    "card": "King",
+                    "name": "King",
                     "value": 13
                   }
                 ]
@@ -231,47 +231,47 @@
                 "total" : 11,
                 "types": [
                   {
-                    "card": "3",
+                    "name": "3",
                     "value": 3
                   },
                   {
-                    "card": "4",
+                    "name": "4",
                     "value": 4
                   },
                   {
-                    "card": "5",
+                    "name": "5",
                     "value": 5
                   },
                   {
-                    "card": "6",
+                    "name": "6",
                     "value": 6
                   },
                   {
-                    "card": "7",
+                    "name": "7",
                     "value": 7
                   },
                   {
-                    "card": "8",
+                    "name": "8",
                     "value": 8
                   },
                   {
-                    "card": "9",
+                    "name": "9",
                     "value": 9
                   },
                   {
-                    "card": "10",
+                    "name": "10",
                     "value": 10
                   },
                   {
-                    "card": "Jack",
+                    "name": "Jack",
                     "value": 11
                   },
                   {
-                    "card": "Queen",
+                    "name": "Queen",
                     "value": 12
                   },
                   {
-                    "card": "King",
+                    "name": "King",
                     "value": 13
                   }
                 ]

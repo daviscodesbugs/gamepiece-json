@@ -78,6 +78,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [ ] Taboo
  - [x] Tic Tac Toe
  - [ ] Ticket to Ride
+ - [x] Ticket to Ride - Europe
  - [x] Trouble
  - [x] Uno
  - [x] Yahtzee

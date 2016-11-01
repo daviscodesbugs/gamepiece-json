@@ -1,4 +1,5 @@
 [![Codeship](https://img.shields.io/codeship/683282a0-7461-0134-4148-76a75a837005.svg)](#)
+[![Game Count](https://img.shields.io/badge/game%20count-61-green.svg?style=flat)](#)
 [![AUR](https://img.shields.io/aur/license/yaourt.svg?maxAge=30)](https://github.com/daviscodesbugs/gamepiece-json)  
 [![GitHub watchers](https://img.shields.io/github/watchers/daviscodesbugs/gamepiece-json.svg?style=social&label=Watch)](https://github.com/daviscodesbugs/gamepiece-json)
 [![GitHub stars](https://img.shields.io/github/stars/daviscodesbugs/gamepiece-json.svg?style=social&label=Star)](https://github.com/daviscodesbugs/gamepiece-json)

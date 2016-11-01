@@ -1,285 +1,285 @@
 {
-  "name": "Five Crowns",
-  "publisher": "Set Enterprises",
-  "pieces": {
-    "rulebook": {
-      "total_count": 1,
-      "file": "rulebook-five-crowns.pdf"
-    },
-    "decks": {
-      "total_count": 2,
-      "deck": {
-        "total_cards": 58,
-        "jokers": {
-          "total_count": 3,
-          "value": 50
+    "name": "Five Crowns",
+    "publisher": "Set Enterprises",
+    "pieces": {
+        "rulebook": {
+            "total_count": 1,
+            "file": "rulebook-five-crowns.pdf"
         },
-        "suites": {
-          "total_count": 5,
-          "types": [
-            {
-              "name": "stars",
-              "cards": {
-                "total" : 11,
-                "types": [
-                  {
-                    "name": "3",
-                    "value": 3
-                  },
-                  {
-                    "name": "4",
-                    "value": 4
-                  },
-                  {
-                    "name": "5",
-                    "value": 5
-                  },
-                  {
-                    "name": "6",
-                    "value": 6
-                  },
-                  {
-                    "name": "7",
-                    "value": 7
-                  },
-                  {
-                    "name": "8",
-                    "value": 8
-                  },
-                  {
-                    "name": "9",
-                    "value": 9
-                  },
-                  {
-                    "name": "10",
-                    "value": 10
-                  },
-                  {
-                    "name": "Jack",
-                    "value": 11
-                  },
-                  {
-                    "name": "Queen",
-                    "value": 12
-                  },
-                  {
-                    "name": "King",
-                    "value": 13
-                  }
-                ]
-              }
-            },
-            {
-              "name": "hearts",
-              "cards": {
-                "total" : 11,
-                "types": [
-                  {
-                    "name": "3",
-                    "value": 3
-                  },
-                  {
-                    "name": "4",
-                    "value": 4
-                  },
-                  {
-                    "name": "5",
-                    "value": 5
-                  },
-                  {
-                    "name": "6",
-                    "value": 6
-                  },
-                  {
-                    "name": "7",
-                    "value": 7
-                  },
-                  {
-                    "name": "8",
-                    "value": 8
-                  },
-                  {
-                    "name": "9",
-                    "value": 9
-                  },
-                  {
-                    "name": "10",
-                    "value": 10
-                  },
-                  {
-                    "name": "Jack",
-                    "value": 11
-                  },
-                  {
-                    "name": "Queen",
-                    "value": 12
-                  },
-                  {
-                    "name": "King",
-                    "value": 13
-                  }
-                ]
-              }
-            },
-            {
-              "name": "clubs",
-              "cards": {
-                "total" : 11,
-                "types": [
-                  {
-                    "name": "3",
-                    "value": 3
-                  },
-                  {
-                    "name": "4",
-                    "value": 4
-                  },
-                  {
-                    "name": "5",
-                    "value": 5
-                  },
-                  {
-                    "name": "6",
-                    "value": 6
-                  },
-                  {
-                    "name": "7",
-                    "value": 7
-                  },
-                  {
-                    "name": "8",
-                    "value": 8
-                  },
-                  {
-                    "name": "9",
-                    "value": 9
-                  },
-                  {
-                    "name": "10",
-                    "value": 10
-                  },
-                  {
-                    "name": "Jack",
-                    "value": 11
-                  },
-                  {
-                    "name": "Queen",
-                    "value": 12
-                  },
-                  {
-                    "name": "King",
-                    "value": 13
-                  }
-                ]
-              }
-            },
-            {
-              "name": "spades",
-              "cards": {
-                "total" : 11,
-                "types": [
-                  {
-                    "name": "3",
-                    "value": 3
-                  },
-                  {
-                    "name": "4",
-                    "value": 4
-                  },
-                  {
-                    "name": "5",
-                    "value": 5
-                  },
-                  {
-                    "name": "6",
-                    "value": 6
-                  },
-                  {
-                    "name": "7",
-                    "value": 7
-                  },
-                  {
-                    "name": "8",
-                    "value": 8
-                  },
-                  {
-                    "name": "9",
-                    "value": 9
-                  },
-                  {
-                    "name": "10",
-                    "value": 10
-                  },
-                  {
-                    "name": "Jack",
-                    "value": 11
-                  },
-                  {
-                    "name": "Queen",
-                    "value": 12
-                  },
-                  {
-                    "name": "King",
-                    "value": 13
-                  }
-                ]
-              }
-            },
-            {
-              "name": "diamonds",
-              "cards": {
-                "total" : 11,
-                "types": [
-                  {
-                    "name": "3",
-                    "value": 3
-                  },
-                  {
-                    "name": "4",
-                    "value": 4
-                  },
-                  {
-                    "name": "5",
-                    "value": 5
-                  },
-                  {
-                    "name": "6",
-                    "value": 6
-                  },
-                  {
-                    "name": "7",
-                    "value": 7
-                  },
-                  {
-                    "name": "8",
-                    "value": 8
-                  },
-                  {
-                    "name": "9",
-                    "value": 9
-                  },
-                  {
-                    "name": "10",
-                    "value": 10
-                  },
-                  {
-                    "name": "Jack",
-                    "value": 11
-                  },
-                  {
-                    "name": "Queen",
-                    "value": 12
-                  },
-                  {
-                    "name": "King",
-                    "value": 13
-                  }
-                ]
-              }
+        "decks": {
+            "total_count": 2,
+            "deck": {
+                "total_cards": 58,
+                "jokers": {
+                    "total_count": 3,
+                    "value": 50
+                },
+                "suites": {
+                    "total_count": 5,
+                    "types": [
+                        {
+                            "name": "stars",
+                            "cards": {
+                                "total": 11,
+                                "types": [
+                                    {
+                                        "name": "3",
+                                        "value": 3
+                                    },
+                                    {
+                                        "name": "4",
+                                        "value": 4
+                                    },
+                                    {
+                                        "name": "5",
+                                        "value": 5
+                                    },
+                                    {
+                                        "name": "6",
+                                        "value": 6
+                                    },
+                                    {
+                                        "name": "7",
+                                        "value": 7
+                                    },
+                                    {
+                                        "name": "8",
+                                        "value": 8
+                                    },
+                                    {
+                                        "name": "9",
+                                        "value": 9
+                                    },
+                                    {
+                                        "name": "10",
+                                        "value": 10
+                                    },
+                                    {
+                                        "name": "Jack",
+                                        "value": 11
+                                    },
+                                    {
+                                        "name": "Queen",
+                                        "value": 12
+                                    },
+                                    {
+                                        "name": "King",
+                                        "value": 13
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "name": "hearts",
+                            "cards": {
+                                "total": 11,
+                                "types": [
+                                    {
+                                        "name": "3",
+                                        "value": 3
+                                    },
+                                    {
+                                        "name": "4",
+                                        "value": 4
+                                    },
+                                    {
+                                        "name": "5",
+                                        "value": 5
+                                    },
+                                    {
+                                        "name": "6",
+                                        "value": 6
+                                    },
+                                    {
+                                        "name": "7",
+                                        "value": 7
+                                    },
+                                    {
+                                        "name": "8",
+                                        "value": 8
+                                    },
+                                    {
+                                        "name": "9",
+                                        "value": 9
+                                    },
+                                    {
+                                        "name": "10",
+                                        "value": 10
+                                    },
+                                    {
+                                        "name": "Jack",
+                                        "value": 11
+                                    },
+                                    {
+                                        "name": "Queen",
+                                        "value": 12
+                                    },
+                                    {
+                                        "name": "King",
+                                        "value": 13
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "name": "clubs",
+                            "cards": {
+                                "total": 11,
+                                "types": [
+                                    {
+                                        "name": "3",
+                                        "value": 3
+                                    },
+                                    {
+                                        "name": "4",
+                                        "value": 4
+                                    },
+                                    {
+                                        "name": "5",
+                                        "value": 5
+                                    },
+                                    {
+                                        "name": "6",
+                                        "value": 6
+                                    },
+                                    {
+                                        "name": "7",
+                                        "value": 7
+                                    },
+                                    {
+                                        "name": "8",
+                                        "value": 8
+                                    },
+                                    {
+                                        "name": "9",
+                                        "value": 9
+                                    },
+                                    {
+                                        "name": "10",
+                                        "value": 10
+                                    },
+                                    {
+                                        "name": "Jack",
+                                        "value": 11
+                                    },
+                                    {
+                                        "name": "Queen",
+                                        "value": 12
+                                    },
+                                    {
+                                        "name": "King",
+                                        "value": 13
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "name": "spades",
+                            "cards": {
+                                "total": 11,
+                                "types": [
+                                    {
+                                        "name": "3",
+                                        "value": 3
+                                    },
+                                    {
+                                        "name": "4",
+                                        "value": 4
+                                    },
+                                    {
+                                        "name": "5",
+                                        "value": 5
+                                    },
+                                    {
+                                        "name": "6",
+                                        "value": 6
+                                    },
+                                    {
+                                        "name": "7",
+                                        "value": 7
+                                    },
+                                    {
+                                        "name": "8",
+                                        "value": 8
+                                    },
+                                    {
+                                        "name": "9",
+                                        "value": 9
+                                    },
+                                    {
+                                        "name": "10",
+                                        "value": 10
+                                    },
+                                    {
+                                        "name": "Jack",
+                                        "value": 11
+                                    },
+                                    {
+                                        "name": "Queen",
+                                        "value": 12
+                                    },
+                                    {
+                                        "name": "King",
+                                        "value": 13
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "name": "diamonds",
+                            "cards": {
+                                "total": 11,
+                                "types": [
+                                    {
+                                        "name": "3",
+                                        "value": 3
+                                    },
+                                    {
+                                        "name": "4",
+                                        "value": 4
+                                    },
+                                    {
+                                        "name": "5",
+                                        "value": 5
+                                    },
+                                    {
+                                        "name": "6",
+                                        "value": 6
+                                    },
+                                    {
+                                        "name": "7",
+                                        "value": 7
+                                    },
+                                    {
+                                        "name": "8",
+                                        "value": 8
+                                    },
+                                    {
+                                        "name": "9",
+                                        "value": 9
+                                    },
+                                    {
+                                        "name": "10",
+                                        "value": 10
+                                    },
+                                    {
+                                        "name": "Jack",
+                                        "value": 11
+                                    },
+                                    {
+                                        "name": "Queen",
+                                        "value": 12
+                                    },
+                                    {
+                                        "name": "King",
+                                        "value": 13
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
             }
-          ]
         }
-      }
     }
-  }
 }

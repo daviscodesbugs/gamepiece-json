@@ -1,51 +1,51 @@
 {
-  "name": "Trouble",
-  "publisher": "Hasbro",
-  "pieces": {
-    "rulebook" : {
-      "total_count" : 1,
-      "file": "rulebook-trouble.pdf"
-    },
-    "board": {
-      "total_count": 1,
-      "squares": {
-        "total_count": 44
-      },
-      "pop-o-matic": {
-        "total_count": 1,
-        "dice": {
-          "total_count": 1,
-          "faces" : [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      },
-      "pegs": {
-        "total_count": 16,
-        "types": [
-            {
-              "type" : "red",
-              "count" : 4
+    "name": "Trouble",
+    "publisher": "Hasbro",
+    "pieces": {
+        "rulebook": {
+            "total_count": 1,
+            "file": "rulebook-trouble.pdf"
+        },
+        "board": {
+            "total_count": 1,
+            "squares": {
+                "total_count": 44
             },
-            {
-              "type" : "blue",
-              "count" : 4
+            "pop-o-matic": {
+                "total_count": 1,
+                "dice": {
+                    "total_count": 1,
+                    "faces": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6
+                    ]
+                }
             },
-            {
-              "type" : "green",
-              "count" : 4
-            },
-            {
-              "type" : "yellow",
-              "count" : 4
+            "pegs": {
+                "total_count": 16,
+                "types": [
+                    {
+                        "type": "red",
+                        "count": 4
+                    },
+                    {
+                        "type": "blue",
+                        "count": 4
+                    },
+                    {
+                        "type": "green",
+                        "count": 4
+                    },
+                    {
+                        "type": "yellow",
+                        "count": 4
+                    }
+                ]
             }
-        ]
-      }
+        }
     }
-  }
 }

@@ -1,0 +1,58 @@
+{
+    "name": "Dice Bowling",
+    "publishers": [
+        "S&S",
+        "Cardinal",
+        "Ideal"
+    ],
+    "pieces": {
+        "rulebook": {
+            "total_count": 1,
+            "file": "rulebook-dice-bowling.pdf"
+        },
+        "scorepad": {
+            "total_count": 1
+        },
+        "dice": {
+            "total_count": 10,
+            "types": [
+                {
+                    "type": "normal",
+                    "count": 4,
+                    "sides": [
+                        "blank",
+                        "blank",
+                        "blank",
+                        "pin",
+                        "pin",
+                        "pin"
+                    ]
+                },
+                {
+                    "type": "strike",
+                    "count": 3,
+                    "sides": [
+                        "blank",
+                        "blank",
+                        "pin",
+                        "pin",
+                        "pin",
+                        "strike"
+                    ]
+                },
+                {
+                    "type": "spare",
+                    "count": 3,
+                    "sides": [
+                        "blank",
+                        "blank",
+                        "pin",
+                        "pin",
+                        "pin",
+                        "spare"
+                    ]
+                }
+            ]
+        }
+    }
+}

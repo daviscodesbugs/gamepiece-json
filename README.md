@@ -54,6 +54,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [ ] Pandemic
  - [x] Phase 10
  - [ ] Pictionary
+ - [ ] Pit
  - [x] Playing Cards
  - [x] Quiddler
  - [x] Reversi (see Othello)

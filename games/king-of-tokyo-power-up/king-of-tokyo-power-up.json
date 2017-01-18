@@ -1,0 +1,458 @@
+{
+    "name": "King of Tokyo - Power Up!",
+    "publisher": "iello Games",
+    "pieces": {
+        "monster_tokens": {
+            "total_count": 1,
+            "types": [
+                "Pandakai"
+            ]
+        },
+        "monster_stands": {
+            "total_count": 1
+        },
+        "monster_scorecards": {
+            "total_count": 1,
+            "types": [
+                "Pandakai"
+            ],
+            "heart_counter": {
+                "values": {
+                    "min": 0,
+                    "max": 12
+                }
+            },
+            "star_counter": {
+                "values": {
+                    "min": 0,
+                    "max": 20
+                }
+            }
+        },
+        "evolution_cards": {
+            "total_count": 56,
+            "monsters": [
+                {
+                    "monster": "Alienoid",
+                    "monster_type": "Alien",
+                    "evolution_cards": {
+                        "total_count": 8,
+                        "cards": [
+                            {
+                                "count": 1,
+                                "name": "Superior Alien Technology",
+                                "duration": "Permanent",
+                                "effect": "You can purchase 'shoddy' tech. To do so, pay half price for a Keep card (rounding up) and mark it with a [UFO]. Before each turn, roll a die for each card that has a [UFO] counter on it. On a [Claw], discard the card. You can only have 3 cards with counters on them at a time."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Mothership Support",
+                                "duration": "Permanent",
+                                "effect": "Once on your turn you can spend 1 [Energy] to heal 1 damage. (Even if in Tokyo)."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Exotic Arms",
+                                "duration": "Permanent",
+                                "effect": "Before you roll you can put 2 [Energy] on this card. If you do, and roll at least 3 [Claw], you can take back your 2 [Energy] and deal 2 extra damage. Otherwise, you lose your 2 [Energy] and take 2 damage."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Funny Looking But Dangerous",
+                                "duration": "Permanent",
+                                "effect": "When you score 2/2/2 you deal 1 damage to all other monsters. This doesn't count as an attack."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Adapting Technology",
+                                "duration": "Permanent",
+                                "effect": "Put 3 [Alien] counters on this Evolution. Spend a [Alien] counter to sweep the cards on your turn only. Discard this evolution when you spend the last counter."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Anger Batteries",
+                                "duration": "Temporary",
+                                "effect": "Discard this Evolution to gain 1 [Energy] for each damage you take on the current turn."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Precision Field Support",
+                                "duration": "Temporary",
+                                "effect": "Discard this Evolution to reveal cards from the deck until you reveal a Keep card that costs 4 [Energy] or less. Keep that card and discard the rest."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Alien Scourge",
+                                "duration": "Temporary",
+                                "effect": "Discard this Evolution to gain 2 [Star]."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "monster": "The King",
+                    "monster_type": "Mutant",
+                    "evolution_cards": {
+                        "total_count": 8,
+                        "cards": [
+                            {
+                                "count": 1,
+                                "name": "Twas Beauty Killed The Beast",
+                                "duration": "Permanent",
+                                "effect": "Play this Evolution when you are in Tokyo. Gain 1 [Star] at the end of each monster's turn (including yours). You lose all your [Star] and this Evolution if you leave Tokyo."
+                            },
+                            {
+                                "count": 1,
+                                "name": "King Of Tokyo",
+                                "duration": "Permanent",
+                                "effect": "Gain 1 extra [Star] when you take control of Tokyo or start your turn there."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Alpha Male",
+                                "duration": "Permanent",
+                                "effect": "Gain 1 [Star] when you attack."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Chest Thumping",
+                                "duration": "Permanent",
+                                "effect": "When you attack Tokyo you can force the occupant to retreat."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Giant Banana",
+                                "duration": "Temporary",
+                                "effect": "Discard this Evolution to heal 2 damage."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Jungle Frenzy",
+                                "duration": "Temporary",
+                                "effect": "Discard this Evolution to take an extra turn. Only do this when you have attacked Tokyo and have failed to enter Tokyo."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Simian Scamper",
+                                "duration": "Temporary",
+                                "effect": "Discard this Evolution when you retreat from Tokyo. You take no damage this turn."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Monkey Rush",
+                                "duration": "Temporary",
+                                "effect": "Discard this Evolution when another Monster takes control of Tokyo. You take control of it instead."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "monster": "Meka Dragon",
+                    "monster_type": "Robot",
+                    "evolution_cards": {
+                        "total_count": 8,
+                        "cards": [
+                            {
+                                "count": 1,
+                                "name": "Target Acquired",
+                                "duration": "Permanent",
+                                "effect": "When a Monster attacks you, give him the [Target] counter (its former holder is no longer a target). When you deal any damage to the Monster who has the [Target] counter, deal 1 extra damage."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Claws Of Steel",
+                                "duration": "Permanent",
+                                "effect": "Deal 1 extra damage on a turn in which you dealt 3 or more damage."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Lightning Armor",
+                                "duration": "Permanent",
+                                "effect": "If you take damage, roll a die for each damage point. On a [Claw] the Monster whose turn it is takes 1 damage."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Breath Of Doom",
+                                "duration": "Permanent",
+                                "effect": "If you attack Tokyo, deal 1 damage to all other Monsters not in Tokyo."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Tune-up",
+                                "duration": "Temporary",
+                                "effect": "Discard this Evolution on your turn if you are not in Tokyo. Skip your turn but heal 4 damage and gain 2 [Energy]."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Programmed To Destroy",
+                                "duration": "Permanent",
+                                "effect": "Gain 3 [Star] and 2 [Energy] whenever a Monster's health goes to 0 [Heart]."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Destructive Analysis",
+                                "duration": "Temporary",
+                                "effect": "Discard this Evolution to gain 1 [Energy] for each [Claw] you rolled."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Mecha Blast",
+                                "duration": "Temporary",
+                                "effect": "Discard this Evolution to deal 2 extra damage."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "monster": "Kraken",
+                    "monster_type": "Alien",
+                    "evolution_cards": {
+                        "total_count": 8,
+                        "cards": [
+                            {
+                                "count": 1,
+                                "name": "Dread Maw",
+                                "duration": "Permanent",
+                                "effect": "When you damage a Monster with an attack, he loses 1 [Star]."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Sunken Temple",
+                                "duration": "Permanent",
+                                "effect": "If you are not in Tokyo, you can skip your turn to heal 3 damage and gain 3 [Energy]."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Eater Of Souls",
+                                "duration": "Permanent",
+                                "effect": "Gain 1 [Heart] when you enter Tokyo. You can have up to 12 [Heart]."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Terror Of The Deep",
+                                "duration": "Permanent",
+                                "effect": "If you take damage, roll a die for each damage point. On a [Heart] you do not take that damage point."
+                            },
+                            {
+                                "count": 1,
+                                "name": "High Tide",
+                                "duration": "Temporary",
+                                "effect": "Discard this Evolution to count each [Heart] as 2 [Heart] for your turn."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Cult Following",
+                                "duration": "Temporary",
+                                "effect": "Discard this Evolution to gain 1 [Star] for each [Heart] you rolled."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Wave Of Ruin",
+                                "duration": "Temporary",
+                                "effect": "Discard this Evolution when you take Tokyo. All other Monsters take 2 damage."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Healing Rain",
+                                "duration": "Temporary",
+                                "effect": "Discard this Evolution to heal 2 damage."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "monster": "Gigazaur",
+                    "monster_type": "Mutant",
+                    "evolution_cards": {
+                        "total_count": 8,
+                        "cards": [
+                            {
+                                "count": 1,
+                                "name": "Tail Sweep",
+                                "duration": "Permanent",
+                                "effect": "Each turn, you can change one of your dice to a [One] or a [Two]."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Gamma Breath",
+                                "duration": "Permanent",
+                                "effect": "Each turn, you may change one of your dice to a [Claw]."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Heat Vision",
+                                "duration": "Permanent",
+                                "effect": "Monsters you attack lose 1 [Star]."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Defender Of Tokyo",
+                                "duration": "Permanent",
+                                "effect": "If you start your turn in Tokyo, all other Monsters lose 1 [Star]."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Saurian Adaptability",
+                                "duration": "Temporary",
+                                "effect": "Discard this Evolution to switch all your dice with one face of your choice to a different face of your choice. For example, you can make all your [Heart] results into [Three]."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Primal Bellow",
+                                "duration": "Temporary",
+                                "effect": "Discard this Evolution to make all other Monsters lose 2 [Star]."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Radioactive Waste",
+                                "duration": "Temporary",
+                                "effect": "Discard this Evolution to gain 2 [Energy] and to heal 1 damage."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Detachable Tail",
+                                "duration": "Temporary",
+                                "effect": "Discard this Evolution to take no damage this turn."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "monster": "Cyber Bunny",
+                    "monster_type": "Robot",
+                    "evolution_cards": {
+                        "total_count": 8,
+                        "cards": [
+                            {
+                                "count": 1,
+                                "name": "Electric Carrot",
+                                "duration": "Permanent",
+                                "effect": "If you attack Monsters in Tokyo they must give you 1 [Energy] or take 1 extra damage."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Lupine Power Blade",
+                                "duration": "Permanent",
+                                "effect": "Before you roll you can pay 2 [Energy] to activate this card. If you do, add 1 extra damage to your attack, and gain 1 [Energy] for each [Claw]."
+                            },
+                            {
+                                "count": 1,
+                                "name": "He Who Dies With The Most Toys Wins!",
+                                "duration": "Permanent",
+                                "effect": "Gain 1 [Star] each time you purchase a Keep card."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Rabbit Laboratory",
+                                "duration": "Permanent",
+                                "effect": "Cards cost 1 [Energy] less (Minimum 0)."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Prince With 1000 Enemies",
+                                "duration": "Temporary",
+                                "effect": "Discard this Evolution to reroll a die belonging to another player. Take this back into your hand if you enter Tokyo."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Decoy Bunny",
+                                "duration": "Temporary",
+                                "effect": "Discard this Evolution to take no damage this turn."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Hare Style",
+                                "duration": "Temporary",
+                                "effect": "Discard this Evolution to gain 3 [Energy]."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Fuzzy Logic",
+                                "duration": "Temporary",
+                                "effect": "Discard this Evolution to gain as much [Energy] as you have already gained this turn."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "monster": "Pandakai",
+                    "monster_type": "Mutant",
+                    "evolution_cards": {
+                        "total_count": 8,
+                        "cards": [
+                            {
+                                "count": 1,
+                                "name": "Yin & Yang",
+                                "duration": "Permanent",
+                                "effect": "After you finish rolling you can choose to flip all your dice to the opposite side."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Pandarinism: Survival Of The Cutest",
+                                "duration": "Permanent",
+                                "effect": "Gain1 [Star] for triple [Heart], plus 1 extra [Star] for each extra [Heart]. You still gain the other benefits associated with [Heart]."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Bamboo Supply",
+                                "duration": "Permanent",
+                                "effect": "At the start of each turn, you can add 1 [Energy] on this card, OR take all the [Energy] off this card."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Panda Express",
+                                "duration": "Permanent",
+                                "effect": "If you roll [One] [Two] [Three] [Heart] [Claw] [Energy], you gain 2 [Star] and get to take another turn. All other results still count."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Bear Necessities",
+                                "duration": "Temporary",
+                                "effect": "Discard this Evolution to lose 1 [Star], gain 2 [Energy], and heal 2 damage."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Bam Boozle",
+                                "duration": "Temporary",
+                                "effect": "Discard this Evolution when someone purchases a card. Return the card they purchased and [Energy] they spent. You choose a card they can afford to purchase, and they purchase that card."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Eats, Shoots And Leaves",
+                                "duration": "Temporary",
+                                "effect": "Can only be played on the same turn you take control of Tokyo, discard this Evolution to do an extra attack after entering Tokyo that deals 2 damage, and to gain 1 [Energy], then exit Tokyo. No Monster takes your place."
+                            },
+                            {
+                                "count": 1,
+                                "name": "Panda Monium",
+                                "duration": "Temporary",
+                                "effect": "Discard this Evolution to gain 6 [Energy]. All other Monsters gain 3 [Energy]."
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "card_effect_tokens": {
+            "total_count": 7,
+            "types": [
+                {
+                    "type": "Alien",
+                    "count": 3
+                },
+                {
+                    "type": "UFO",
+                    "count": 3
+                },
+                {
+                    "type": "Target",
+                    "count": 1
+                }
+            ]
+        },
+        "rulebook": {
+            "total_count": 1,
+            "file": "rulebook-king-of-tokyo-power-up.pdf"
+        }
+    }
+}

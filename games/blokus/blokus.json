@@ -1068,6 +1068,10 @@
                     ]
                 }
             ]
+        },
+        "rulebook": {
+            "total_count": 1,
+            "file": "rulebook-blokus.pdf"
         }
     }
 }

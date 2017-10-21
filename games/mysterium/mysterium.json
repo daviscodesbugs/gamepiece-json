@@ -1,0 +1,54 @@
+{
+  "name": "Mysterium",
+  "pieces": {
+    "rulebook": {
+      "total_count": 1,
+      "file": "rulebook-mysterium.pdf"
+    },
+    "psychic_cards": {
+      "count": 54
+    },
+    "intuition_tokens": {
+      "count": 6
+    },
+    "sleeves": {
+      "count": 6
+    },
+    "clairvoyance_tokens": {
+      "count": 36
+    },
+    "clairvoyance_level_markers": {
+      "count": 6
+    },
+    "clairvoyance_track": {
+      "count": 1
+    },
+    "progress_boards": {
+      "count": 4
+    },
+    "clock_board": {
+      "count": 1
+    },
+    "game_screen": {
+      "count": 1
+    },
+    "dream_cards": {
+      "count": 84
+    },
+    "ghost_cards": {
+      "count": 54
+    },
+    "ghost_tokens": {
+      "count": 6
+    },
+    "culprit_tokens": {
+      "count": 6
+    },
+    "crow_markers": {
+      "count": 3
+    },
+    "sand_timer": {
+      "count": 1
+    }
+  }
+}

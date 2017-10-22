@@ -1,0 +1,64 @@
+{
+  "name": "Splendor",
+  "pieces": {
+    "rulebook": {
+      "total_count": 1,
+      "file": "rulebook-splendor.pdf"
+    },
+    "tokens": {
+      "total_count": 40,
+      "types": [
+        {
+          "name": "emerald",
+          "color": "green",
+          "count": 7
+        },
+        {
+          "name": "diamond",
+          "color": "white",
+          "count": 7
+        },
+        {
+          "name": "sapphire",
+          "color": "blue",
+          "count": 7
+        },
+        {
+          "name": "onyx",
+          "color": "black",
+          "count": 7
+        },
+        {
+          "name": "ruby",
+          "color": "red",
+          "count": 7
+        },
+        {
+          "name": "gold joker",
+          "color": "yellow",
+          "count": 5
+        }
+      ]
+    },
+    "development_cards": {
+      "total_count": 90,
+      "types": [
+        {
+          "level": 1,
+          "count": 40
+        },
+        {
+          "level": 2,
+          "count": 30
+        },
+        {
+          "level": 3,
+          "count": 20
+        }
+      ]
+    },
+    "noble_tiles": {
+      "count": 10
+    }
+  }
+}

@@ -48,6 +48,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [x] Monopoly
  - [ ] Munchkin
  - [ ] Munchkin - Star Munchkin
+ - [x] Mysterium
  - [ ] Old Maid
  - [x] One Night Ultimate Werewolf
  - [x] Operation
@@ -78,6 +79,7 @@ The folder may also contain images of boards, cards, or pieces related to the ga
  - [ ] Slamwich
  - [ ] Small World
  - [x] Sorry!
+ - [x] Splendor
  - [x] Sushi Go
  - [ ] Taboo
  - [x] Tic Tac Toe
